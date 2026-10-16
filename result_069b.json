@@ -1,0 +1,80 @@
+{
+  "threshold_sensitivity": [
+    {
+      "percentile": 50,
+      "threshold": 0.01933596419940213,
+      "cont50_novel": 4.547297297297297,
+      "redundancy_rate": 0.909054054054054
+    },
+    {
+      "percentile": 75,
+      "threshold": 0.033814914065794975,
+      "cont50_novel": 8.216216216216216,
+      "redundancy_rate": 0.8356756756756757
+    },
+    {
+      "percentile": 90,
+      "threshold": 0.056706716541547283,
+      "cont50_novel": 14.493243243243244,
+      "redundancy_rate": 0.710135135135135
+    },
+    {
+      "percentile": 95,
+      "threshold": 0.07582446650381425,
+      "cont50_novel": 20.743243243243242,
+      "redundancy_rate": 0.5851351351351352
+    },
+    {
+      "percentile": 99,
+      "threshold": 0.13343050225074282,
+      "cont50_novel": 33.682432432432435,
+      "redundancy_rate": 0.3263513513513513
+    },
+    {
+      "percentile": 99.5,
+      "threshold": 0.16117954807827878,
+      "cont50_novel": 38.472972972972975,
+      "redundancy_rate": 0.23054054054054052
+    },
+    {
+      "percentile": 99.9,
+      "threshold": 0.2230990364368696,
+      "cont50_novel": 46.310810810810814,
+      "redundancy_rate": 0.0737837837837837
+    }
+  ],
+  "retrieval": {
+    "K5": {
+      "time_order_recall": 0.22569316281031385,
+      "semantic_recall": 0.202746855439982,
+      "random_recall": 0.020054628819277123,
+      "ratio_semantic_over_time": 0.8983296260155345
+    },
+    "K10": {
+      "time_order_recall": 0.3174780342231215,
+      "semantic_recall": 0.2862072173206847,
+      "random_recall": 0.06325639994464055,
+      "ratio_semantic_over_time": 0.9015024208510681
+    },
+    "K20": {
+      "time_order_recall": 0.4039605070531934,
+      "semantic_recall": 0.400707341085472,
+      "random_recall": 0.09893183524272231,
+      "ratio_semantic_over_time": 0.9919468192982541
+    },
+    "K50": {
+      "time_order_recall": 0.5387392507198391,
+      "semantic_recall": 0.6004597694308423,
+      "random_recall": 0.24327030889258153,
+      "ratio_semantic_over_time": 1.1145647314799698
+    }
+  },
+  "tension": {
+    "adjacent_mean": 0.0902126597466242,
+    "adjacent_median": 0.07598083396660701,
+    "adjacent_p90": 0.18174523964524156,
+    "adjacent_max": 0.343187188572665,
+    "frac_adj_ge_030": 0.015306122448979591,
+    "frac_adj_ge_050": 0.0
+  }
+}
