@@ -1,0 +1,227 @@
+{
+ "timestamp": "2026-10-16 23:28:48 CST",
+ "cities": [
+  {
+   "city": "威海",
+   "lat": 37.51309,
+   "lon": 122.12074,
+   "temperature": 17.0,
+   "humidity": 88.0,
+   "pressure": 1010.0,
+   "weather": "晴天",
+   "update_time": "2026-10-16 23:25"
+  },
+  {
+   "city": "北京",
+   "lat": 39.9042,
+   "lon": 116.4074,
+   "temperature": 16.0,
+   "humidity": 54.0,
+   "pressure": 1019.0,
+   "weather": "阴",
+   "update_time": "2026-10-16 23:25"
+  },
+  {
+   "city": "上海",
+   "lat": 31.2304,
+   "lon": 121.4737,
+   "temperature": 22.0,
+   "humidity": 77.0,
+   "pressure": 1018.0,
+   "weather": "多云",
+   "update_time": "2026-10-16 23:25"
+  },
+  {
+   "city": "广州",
+   "lat": 23.1291,
+   "lon": 113.2644,
+   "temperature": 23.0,
+   "humidity": 92.0,
+   "pressure": 1007.0,
+   "weather": "晴天",
+   "update_time": "2026-10-16 23:25"
+  },
+  {
+   "city": "深圳",
+   "lat": 22.5431,
+   "lon": 114.0579,
+   "temperature": 26.0,
+   "humidity": 79.0,
+   "pressure": 1008.0,
+   "weather": "多云",
+   "update_time": "2026-10-16 23:25"
+  },
+  {
+   "city": "拉萨",
+   "lat": 29.652,
+   "lon": 91.1721,
+   "temperature": 8.0,
+   "humidity": 31.0,
+   "pressure": 640.0,
+   "weather": "晴天",
+   "update_time": "2026-10-16 23:25"
+  },
+  {
+   "city": "三亚",
+   "lat": 18.2528,
+   "lon": 109.5119,
+   "temperature": 23.0,
+   "humidity": 93.0,
+   "pressure": 976.0,
+   "weather": "多云",
+   "update_time": "2026-10-16 23:25"
+  },
+  {
+   "city": "成都",
+   "lat": 30.5728,
+   "lon": 104.0668,
+   "temperature": 19.0,
+   "humidity": 100.0,
+   "pressure": 950.0,
+   "weather": "阴",
+   "update_time": "2026-10-16 23:25"
+  },
+  {
+   "city": "西安",
+   "lat": 34.3416,
+   "lon": 108.9398,
+   "temperature": 17.0,
+   "humidity": 87.0,
+   "pressure": 964.0,
+   "weather": "阴",
+   "update_time": "2026-10-16 23:25"
+  },
+  {
+   "city": "武汉",
+   "lat": 30.5928,
+   "lon": 114.3055,
+   "temperature": 21.0,
+   "humidity": 100.0,
+   "pressure": 1010.0,
+   "weather": "雾",
+   "update_time": "2026-10-16 23:25"
+  }
+ ],
+ "intero": [
+  {
+   "t": 0,
+   "load": 0.93,
+   "mem_avail_mb": 1793.58984375,
+   "rtt_ms": 83.7,
+   "clock": "23:28:49"
+  },
+  {
+   "t": 3,
+   "load": 0.94,
+   "mem_avail_mb": 1793.58984375,
+   "rtt_ms": 93.3,
+   "clock": "23:28:52"
+  },
+  {
+   "t": 6,
+   "load": 0.94,
+   "mem_avail_mb": 1793.58984375,
+   "rtt_ms": 149.0,
+   "clock": "23:28:55"
+  },
+  {
+   "t": 9,
+   "load": 0.94,
+   "mem_avail_mb": 1793.34765625,
+   "rtt_ms": 97.8,
+   "clock": "23:28:58"
+  },
+  {
+   "t": 12,
+   "load": 0.87,
+   "mem_avail_mb": 1793.34765625,
+   "rtt_ms": 95.4,
+   "clock": "23:29:01"
+  },
+  {
+   "t": 15,
+   "load": 0.8,
+   "mem_avail_mb": 1793.34765625,
+   "rtt_ms": 97.3,
+   "clock": "23:29:05"
+  },
+  {
+   "t": 18,
+   "load": 0.8,
+   "mem_avail_mb": 1793.35546875,
+   "rtt_ms": 102.6,
+   "clock": "23:29:08"
+  },
+  {
+   "t": 21,
+   "load": 0.81,
+   "mem_avail_mb": 1793.35546875,
+   "rtt_ms": 90.0,
+   "clock": "23:29:11"
+  },
+  {
+   "t": 24,
+   "load": 0.81,
+   "mem_avail_mb": 1793.11328125,
+   "rtt_ms": 91.2,
+   "clock": "23:29:14"
+  },
+  {
+   "t": 27,
+   "load": 0.91,
+   "mem_avail_mb": 1793.11328125,
+   "rtt_ms": 89.8,
+   "clock": "23:29:17"
+  }
+ ],
+ "rtt_probe": [
+  {
+   "city": "威海",
+   "rtt_ms": 97.6
+  },
+  {
+   "city": "北京",
+   "rtt_ms": 86.3
+  },
+  {
+   "city": "上海",
+   "rtt_ms": 89.3
+  },
+  {
+   "city": "广州",
+   "rtt_ms": 98.0
+  },
+  {
+   "city": "深圳",
+   "rtt_ms": 94.4
+  },
+  {
+   "city": "哈尔滨",
+   "rtt_ms": 70.7
+  },
+  {
+   "city": "乌鲁木齐",
+   "rtt_ms": 81.7
+  },
+  {
+   "city": "拉萨",
+   "rtt_ms": 84.6
+  },
+  {
+   "city": "三亚",
+   "rtt_ms": 95.7
+  },
+  {
+   "city": "成都",
+   "rtt_ms": 92.9
+  },
+  {
+   "city": "西安",
+   "rtt_ms": 91.3
+  },
+  {
+   "city": "武汉",
+   "rtt_ms": 92.4
+  }
+ ]
+}
