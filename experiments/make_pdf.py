@@ -26,6 +26,11 @@ MAX_ID   = _PC['max_id']
 N_DUP    = N_DEFS - N_UNIQUE  # 重复编号数
 N_GAPS   = _PC['n_gaps']
 
+# 实验报告份数：同样实时统计，避免硬编码漂移
+# （此前硬编码 53，实际已增至 60，且漂移检查未覆盖 .py 源码，属漏网点）
+_REPDIR = os.path.join(ROOT, 'evidence', '实验报告')
+N_REPORT = len([f for f in os.listdir(_REPDIR) if f.endswith('.md')])
+
 FD = '/usr/share/fonts/truetype/alibaba-puhuiti'
 pdfmetrics.registerFont(TTFont('PH', f'{FD}/AlibabaPuHuiTi-2-55-Regular.ttf'))
 pdfmetrics.registerFont(TTFont('PHB', f'{FD}/AlibabaPuHuiTi-2-85-Bold.ttf'))
@@ -103,7 +108,7 @@ cover = [['项目负责人', '朱美岩（独立开发者）'],
          ['开源协议', 'Apache-2.0'],
          ['代码依赖', '仅 numpy —— 零 LLM 依赖、零网络依赖'],
          ['失败模式库', f'{N_UNIQUE} 条，全部带代码可复现'],
-         ['实验报告', '53 份，含被推翻的预注册判据']]
+         ['实验报告', f'{N_REPORT} 份，含被推翻的预注册判据']]
 story.append(tbl([['项目', '信息']] + cover, [45*mm, W-45*mm]))
 story += [Spacer(1, 16*mm),
           Paragraph('“所有开源 Agent 框架都在问「它能做什么」。<br/>'
@@ -133,6 +138,13 @@ story.append(tbl([['最硬的三件事', '实测数字', '怎么验证'],
                  [34*mm, 62*mm, W-96*mm]))
 story.append(Spacer(1, 3*mm))
 story.append(Paragraph(
+    '<b>怎么验证（3 秒，不要求信任本文档任何一句话）</b>：'
+    '<font face="PHB">python3 tools/verify_all.py</font> —— '
+    '在你自己的机器上当场跑出上面每一个数字，并对四条核心结论做断言，'
+    '共 <b>11 项</b>。我们做过负对照：把结论③的疤痕强制归零后重跑，'
+    '该项立即变红、退出码 1，<b>不会恒绿报喜</b>。', st_b))
+story.append(Spacer(1, 3*mm))
+story.append(Paragraph(
     '<b>它挂在哪</b>：不到 20 行，不改原框架一行代码，把任意 Agent 的'
     '「我要多少」换成「我分到了多少」——<b>examples/governed_agent.py 可直接跑</b>。', st_b))
 story.append(Paragraph(
@@ -142,7 +154,7 @@ story.append(Paragraph(
 story.append(Spacer(1, 3*mm))
 story.append(Paragraph(
     f'<b>它与其它参赛作品最大的不同</b>：我们开源了<b>全部失败</b>——{N_UNIQUE} 条带代码的失败模式、'
-    '53 份含被推翻预注册判据的实验报告。在 AI 生成内容泛滥的 2026 年，'
+    f'{N_REPORT} 份含被推翻预注册判据的实验报告。在 AI 生成内容泛滥的 2026 年，'
     f'三十秒能编一个成功故事，<b>但编不出 {N_UNIQUE} 条失败记录</b>。', st_b))
 story.append(PageBreak())
 
@@ -329,7 +341,7 @@ story.append(Paragraph(
 story += [PageBreak(), Paragraph(f'四、我们开源了全部失败 —— {N_UNIQUE} 条带代码的失败模式', st_h1), Spacer(1, 3*mm)]
 story.append(Paragraph(
     f'<b>evidence/失败模式库/判据核.md 收录 {N_UNIQUE} 条失败模式，每一条都有代码可复现。</b>'
-    '配套 53 份实验报告，每一份都记录了<b>被推翻的预注册判据</b>。', st_b))
+    f'配套 {N_REPORT} 份实验报告，每一份都记录了<b>被推翻的预注册判据</b>。', st_b))
 story.append(tbl([['失败模式', '症状', '我们栽过'],
                   ['饱和伪装成"无效应"', '信号 ×1 / ×10 / ×100，指标一字不差', '≥ 3 次'],
                   ['变量静默失效', '变量写了但没接进主通道，不报错、不崩、图照出', '≥ 4 次'],
@@ -488,7 +500,7 @@ story.append(tbl([['项目', '状态'],
                   ['README 与依赖清单', '✅ 已完备（依赖仅 numpy）'],
                   ['可运行测试', '✅ tests/test_engine.py，11 项自检'],
                   ['失败模式库开源', f'✅ {N_UNIQUE} 条，带代码可复现'],
-                  ['实验报告开源', '✅ 53 份，含被推翻的预注册判据'],
+                  ['实验报告开源', f'✅ {N_REPORT} 份，含被推翻的预注册判据'],
                   ['复现清单', '✅ docs/复现清单.md，逐条标注每个数字怎么来的'],
                   ['评委即开即用演示台', '✅ docs/demo.html，单文件零依赖，双击即开']],
                  [70*mm, W-70*mm]))
