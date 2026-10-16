@@ -1,0 +1,122 @@
+{
+  "timestamp": "2026-10-16 23:46:58",
+  "cities": [
+    {
+      "temperature": 17.0,
+      "humidity": 89.0,
+      "pressure": 1010.0,
+      "weather": "晴天",
+      "city": "威海",
+      "temp_band": "温",
+      "hum_band": "潮",
+      "truth_discomfort": 0
+    },
+    {
+      "temperature": 16.0,
+      "humidity": 56.0,
+      "pressure": 1019.0,
+      "weather": "阴",
+      "city": "北京",
+      "temp_band": "温",
+      "hum_band": "适中",
+      "truth_discomfort": 0
+    },
+    {
+      "temperature": 22.0,
+      "humidity": 78.0,
+      "pressure": 1019.0,
+      "weather": "多云",
+      "city": "上海",
+      "temp_band": "温",
+      "hum_band": "潮",
+      "truth_discomfort": 0
+    },
+    {
+      "temperature": 23.0,
+      "humidity": 92.0,
+      "pressure": 1007.0,
+      "weather": "晴天",
+      "city": "广州",
+      "temp_band": "温",
+      "hum_band": "潮",
+      "truth_discomfort": 0
+    },
+    {
+      "temperature": 25.0,
+      "humidity": 81.0,
+      "pressure": 1008.0,
+      "weather": "多云",
+      "city": "深圳",
+      "temp_band": "热",
+      "hum_band": "潮",
+      "truth_discomfort": 0
+    },
+    {
+      "temperature": 1.0,
+      "humidity": 57.0,
+      "pressure": 924.0,
+      "weather": "晴天",
+      "city": "乌鲁木齐",
+      "temp_band": "冷",
+      "hum_band": "适中",
+      "truth_discomfort": 1
+    },
+    {
+      "temperature": 7.0,
+      "humidity": 32.0,
+      "pressure": 640.0,
+      "weather": "晴天",
+      "city": "拉萨",
+      "temp_band": "凉",
+      "hum_band": "干",
+      "truth_discomfort": 0
+    },
+    {
+      "temperature": 23.0,
+      "humidity": 91.0,
+      "pressure": 976.0,
+      "weather": "多云",
+      "city": "三亚",
+      "temp_band": "温",
+      "hum_band": "潮",
+      "truth_discomfort": 0
+    },
+    {
+      "temperature": 19.0,
+      "humidity": 100.0,
+      "pressure": 950.0,
+      "weather": "阴",
+      "city": "成都",
+      "temp_band": "温",
+      "hum_band": "潮",
+      "truth_discomfort": 0
+    },
+    {
+      "temperature": 17.0,
+      "humidity": 86.0,
+      "pressure": 964.0,
+      "weather": "阴",
+      "city": "西安",
+      "temp_band": "温",
+      "hum_band": "潮",
+      "truth_discomfort": 0
+    }
+  ],
+  "fidelity": {
+    "cont": 1.0,
+    "human": 0.9,
+    "n": 10,
+    "delta": -0.1
+  },
+  "verifiability": {
+    "precise": 0.0,
+    "band": 1.0,
+    "n": 10
+  },
+  "control_random_bands": {
+    "rand_mean": 0.8275,
+    "human": 0.9,
+    "percentile": 30.0,
+    "n_trials": 200
+  }
+}
