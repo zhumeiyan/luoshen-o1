@@ -1,0 +1,63 @@
+{
+  "cells": {
+    "endo_irrev": {
+      "energy": "endo",
+      "reversible": false,
+      "n": 16,
+      "skew": 0.2653428628018383,
+      "skew_se": 0.013418815218619859,
+      "cap_mean": 0.29572996431947196,
+      "deaths": 3,
+      "death_rate": 0.1875,
+      "rise_max": 0.0,
+      "perm_loss": 0.704270035680528
+    },
+    "endo_rev": {
+      "energy": "endo",
+      "reversible": true,
+      "n": 16,
+      "skew": 0.4970290578888948,
+      "skew_se": 0.01877990558271968,
+      "cap_mean": 0.45277139045754317,
+      "deaths": 4,
+      "death_rate": 0.25,
+      "rise_max": 0.004832669235381153,
+      "perm_loss": 0.5472286095424569
+    },
+    "exo_irrev": {
+      "energy": "exo",
+      "reversible": false,
+      "n": 16,
+      "skew": 0.2695047010526994,
+      "skew_se": 0.013693999246567222,
+      "cap_mean": 0.30103708421363173,
+      "deaths": 0,
+      "death_rate": 0.0,
+      "rise_max": 0.0,
+      "perm_loss": 0.6989629157863682
+    },
+    "exo_rev": {
+      "energy": "exo",
+      "reversible": true,
+      "n": 16,
+      "skew": 0.4990200290726521,
+      "skew_se": 0.024432256128606538,
+      "cap_mean": 0.4546642876768049,
+      "deaths": 0,
+      "death_rate": 0.0,
+      "rise_max": 0.004628372253452823,
+      "perm_loss": 0.5453357123231952
+    }
+  },
+  "verdict": {
+    "P1_死亡只出现在endo列_exo列恒不死": true,
+    "P2_不可逆列capacity从不回升": true,
+    "P3_可逆列确实出现回升": true,
+    "P4_可逆列永久损失显著小于不可逆列": true,
+    "【已推翻】原P3_exo_rev偏度接近0": false
+  },
+  "seeds": 16,
+  "steps": 600,
+  "N": 8,
+  "ratio": 0.45
+}

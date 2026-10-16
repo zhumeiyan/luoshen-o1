@@ -1,0 +1,216 @@
+{
+  "A_death": [
+    {
+      "seed": 0,
+      "survived": true,
+      "death_t": null,
+      "final_E": 0.9917204121301016,
+      "final_cap": 0.2975749033926583
+    },
+    {
+      "seed": 1,
+      "survived": true,
+      "death_t": null,
+      "final_E": 0.9918907235070513,
+      "final_cap": 0.2976388345644127
+    },
+    {
+      "seed": 2,
+      "survived": true,
+      "death_t": null,
+      "final_E": 1.0,
+      "final_cap": 0.2984473761120709
+    },
+    {
+      "seed": 3,
+      "survived": false,
+      "death_t": 525,
+      "final_E": 0.0,
+      "final_cap": 0.2951762526278866
+    },
+    {
+      "seed": 4,
+      "survived": false,
+      "death_t": 596,
+      "final_E": 0.0,
+      "final_cap": 0.26963875563611706
+    },
+    {
+      "seed": 5,
+      "survived": true,
+      "death_t": null,
+      "final_E": 1.0,
+      "final_cap": 0.2981431925786116
+    },
+    {
+      "seed": 6,
+      "survived": true,
+      "death_t": null,
+      "final_E": 0.9741502498262118,
+      "final_cap": 0.308632074645759
+    },
+    {
+      "seed": 7,
+      "survived": false,
+      "death_t": 516,
+      "final_E": 0.0,
+      "final_cap": 0.29921248879958695
+    },
+    {
+      "seed": 8,
+      "survived": true,
+      "death_t": null,
+      "final_E": 0.993,
+      "final_cap": 0.2987250192041847
+    },
+    {
+      "seed": 9,
+      "survived": true,
+      "death_t": null,
+      "final_E": 0.6399206168206207,
+      "final_cap": 0.2916277701033805
+    },
+    {
+      "seed": 10,
+      "survived": true,
+      "death_t": null,
+      "final_E": 1.0,
+      "final_cap": 0.2969182829507448
+    },
+    {
+      "seed": 11,
+      "survived": true,
+      "death_t": null,
+      "final_E": 1.0,
+      "final_cap": 0.29710982261930086
+    },
+    {
+      "seed": 12,
+      "survived": true,
+      "death_t": null,
+      "final_E": 1.0,
+      "final_cap": 0.29954617246735993
+    },
+    {
+      "seed": 13,
+      "survived": true,
+      "death_t": null,
+      "final_E": 1.0,
+      "final_cap": 0.2959446065427842
+    },
+    {
+      "seed": 14,
+      "survived": true,
+      "death_t": null,
+      "final_E": 0.9431523063673661,
+      "final_cap": 0.29462898466770315
+    },
+    {
+      "seed": 15,
+      "survived": true,
+      "death_t": null,
+      "final_E": 0.8688231123803782,
+      "final_cap": 0.29271489219898983
+    }
+  ],
+  "B_tradeoff": {
+    "rows": [
+      {
+        "seed": 0,
+        "share_s3": 0.0,
+        "share_s5": 0.17120645908030382,
+        "delta": -0.17120645908030382
+      },
+      {
+        "seed": 1,
+        "share_s3": 0.0,
+        "share_s5": 0.07642544296592789,
+        "delta": -0.07642544296592789
+      },
+      {
+        "seed": 2,
+        "share_s3": 0.0,
+        "share_s5": 0.19868533871950755,
+        "delta": -0.19868533871950755
+      },
+      {
+        "seed": 3,
+        "share_s3": 0.0,
+        "share_s5": 0.17390196146118458,
+        "delta": -0.17390196146118458
+      },
+      {
+        "seed": 4,
+        "share_s3": 0.0,
+        "share_s5": 0.2119382231466238,
+        "delta": -0.2119382231466238
+      },
+      {
+        "seed": 5,
+        "share_s3": 0.0,
+        "share_s5": 0.05795471654697291,
+        "delta": -0.05795471654697291
+      },
+      {
+        "seed": 6,
+        "share_s3": 0.0,
+        "share_s5": 0.28081263736687745,
+        "delta": -0.28081263736687745
+      },
+      {
+        "seed": 7,
+        "share_s3": 0.000357307342698247,
+        "share_s5": 0.024750549874785272,
+        "delta": -0.024393242532087026
+      }
+    ],
+    "probe": 3,
+    "mean_s3": 4.466341783728088e-05,
+    "mean_s5": 0.14945941614527292,
+    "mean_delta": -0.14941475272743565,
+    "se": 0.031052788151629707,
+    "sign_consistent": 8,
+    "n": 8
+  },
+  "C_weld": {
+    "scarcity_1_irrev_1": {
+      "mean_skew": 0.2913021361504857,
+      "se": 0.028355795111405988
+    },
+    "scarcity_1_irrev_0": {
+      "mean_skew": 0.0,
+      "se": 0.0
+    },
+    "scarcity_0_irrev_1": {
+      "mean_skew": 0.0,
+      "se": 0.0
+    },
+    "scarcity_0_irrev_0": {
+      "mean_skew": 0.0,
+      "se": 0.0
+    }
+  },
+  "D_window": {
+    "early": {
+      "mean": 1.0933387378980166,
+      "se": 0.010547599274065839
+    },
+    "mid": {
+      "mean": 0.5092097477603987,
+      "se": 0.04675730517189447
+    },
+    "late": {
+      "mean": 0.3243011199338883,
+      "se": 0.049990427191278455
+    },
+    "full": {
+      "mean": 0.8501742638269709,
+      "se": 0.007033431368840626
+    },
+    "none": {
+      "mean": 0.2913021361504857,
+      "se": 0.028355795111405988
+    },
+    "_retention": 1.4350985887988432
+  }
+}

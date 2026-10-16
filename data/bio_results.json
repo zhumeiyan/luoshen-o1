@@ -1,0 +1,136 @@
+{
+  "H1_critical_period": {
+    "baseline": {
+      "mean": 0.2913,
+      "se": 0.0284
+    },
+    "window_len": 150,
+    "rows": [
+      {
+        "start": 0,
+        "mean": 1.0933,
+        "se": 0.0105,
+        "effect": 0.802
+      },
+      {
+        "start": 100,
+        "mean": 0.6311,
+        "se": 0.0396,
+        "effect": 0.3398
+      },
+      {
+        "start": 200,
+        "mean": 0.4073,
+        "se": 0.0522,
+        "effect": 0.116
+      },
+      {
+        "start": 300,
+        "mean": 0.3243,
+        "se": 0.05,
+        "effect": 0.033
+      },
+      {
+        "start": 400,
+        "mean": 0.2892,
+        "se": 0.0435,
+        "effect": -0.0021
+      },
+      {
+        "start": 450,
+        "mean": 0.2698,
+        "se": 0.0391,
+        "effect": -0.0215
+      }
+    ],
+    "gate_closes_at": 400
+  },
+  "H2_dose_response": {
+    "probe": 3,
+    "rows": [
+      {
+        "dose": 50,
+        "mean_delta": -0.1342,
+        "se": 0.0232,
+        "sign_consistent": "8/8"
+      },
+      {
+        "dose": 100,
+        "mean_delta": -0.1454,
+        "se": 0.0249,
+        "sign_consistent": "8/8"
+      },
+      {
+        "dose": 200,
+        "mean_delta": -0.1485,
+        "se": 0.0284,
+        "sign_consistent": "8/8"
+      },
+      {
+        "dose": 300,
+        "mean_delta": -0.1494,
+        "se": 0.0311,
+        "sign_consistent": "8/8"
+      },
+      {
+        "dose": 400,
+        "mean_delta": -0.1495,
+        "se": 0.0333,
+        "sign_consistent": "8/8"
+      }
+    ]
+  },
+  "H3_scarcity_curve": {
+    "rows": [
+      {
+        "ratio": 0.3,
+        "n_surv": 6,
+        "mean_skew": 0.2383,
+        "se": 0.0119,
+        "deaths": 2
+      },
+      {
+        "ratio": 0.45,
+        "n_surv": 5,
+        "mean_skew": 0.3069,
+        "se": 0.0445,
+        "deaths": 3
+      },
+      {
+        "ratio": 0.6,
+        "n_surv": 7,
+        "mean_skew": 0.152,
+        "se": 0.0479,
+        "deaths": 1
+      },
+      {
+        "ratio": 0.8,
+        "n_surv": 8,
+        "mean_skew": 0.1854,
+        "se": 0.0429,
+        "deaths": 0
+      },
+      {
+        "ratio": 1.0,
+        "n_surv": 8,
+        "mean_skew": 0.0,
+        "se": 0.0,
+        "deaths": 0
+      },
+      {
+        "ratio": 1.2,
+        "n_surv": 8,
+        "mean_skew": 0.0,
+        "se": 0.0,
+        "deaths": 0
+      },
+      {
+        "ratio": 2.0,
+        "n_surv": 8,
+        "mean_skew": 0.0,
+        "se": 0.0,
+        "deaths": 0
+      }
+    ]
+  }
+}

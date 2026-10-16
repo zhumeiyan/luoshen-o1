@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+venv/
+*.log
+*.mp4
+.frames/
+.frames/
+
+# 构建scratch（含第三方模板，禁止公开发布）
+ppt_runs/
+# 本地打包产物（含视频/PDF/bundle的重复副本）
+参赛物料包.zip
+deliver/*.bundle
