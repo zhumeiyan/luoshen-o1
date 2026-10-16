@@ -12,7 +12,10 @@ import sys, os, json, argparse
 import numpy as np
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'core'))
-from life5 import Life5   # noqa
+try:
+    from core.life5 import Life5   # 装包运行（pip install .）
+except ImportError:               # 源码运行（core/ 直接在 sys.path）
+    from life5 import Life5   # noqa
 
 STEPS = 600
 WARM = 300          # 取舍实验的"饿"窗口

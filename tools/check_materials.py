@@ -72,6 +72,7 @@ def main():
             val = int(mm.group(1))
             if val in ALLOW or val < 100:
                 continue
+            rng_hit = False
             line_no = txt[:mm.start()].count("\n") + 1
             # 判据粒度必须是「数字周边窗口」而非整行：
             # HTML/JS 物料常把整篇讲稿压成一行，按行判断会把真漂移误判为历史披露而放过。
@@ -87,6 +88,15 @@ def main():
                 continue
             # 条目编号而非总数（如「第 111 条」「第 23 条」）
             if re.search(r"第\s*%d\s*条" % val, ctx):
+                continue
+            # 条目编号【区间】引用（如「判据核第 278–281 条」「第 23 至 30 条」）：
+            # 区间内的每个数字都是编号，不是总数。缺此规则会把 281 误判为漂移
+            # —— 而 278 恰好被上一条放过，于是只报一端，极难察觉（判据核第 282 条）。
+            for a, b in re.findall(r"第\s*(\d+)\s*[–\-~至]\s*(\d+)\s*条", ctx):
+                if int(a) <= val <= int(b):
+                    rng_hit = True
+                    break
+            if rng_hit:
                 continue
             bad.append((rel, line_no, val, ctx[:100], "n"))
 

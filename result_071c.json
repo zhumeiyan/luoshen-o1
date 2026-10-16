@@ -1,0 +1,42 @@
+{
+ "n_defs": 219,
+ "n_unique": 209,
+ "rng": [
+  35,
+  270
+ ],
+ "falsifiable": 140,
+ "frac": 0.6698564593301436,
+ "with_number": 109,
+ "no_anchor": 100,
+ "example_no_anchor": [
+  35,
+  45,
+  53,
+  59,
+  61,
+  63,
+  65,
+  67,
+  68,
+  73,
+  77,
+  83,
+  84,
+  87,
+  91,
+  94,
+  99,
+  100,
+  105,
+  110
+ ],
+ "neardup_pairs": 0,
+ "neardup_total": 12880,
+ "neardup_frac": 0.0,
+ "liveness": {
+  "before": 0,
+  "after": 5,
+  "alive": true
+ }
+}

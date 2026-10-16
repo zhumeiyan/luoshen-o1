@@ -1,0 +1,1110 @@
+{
+ "library": {
+  "version": "v2.7.8",
+  "total": 138,
+  "sub": 117,
+  "top": 21,
+  "examples": 580
+ },
+ "reachability": {
+  "L": {
+   "n_coords": 4,
+   "n_reachable": 4,
+   "frac": 1.0,
+   "reachable": [
+    "L1",
+    "L2",
+    "L3",
+    "L4"
+   ]
+  },
+  "M": {
+   "n_coords": 60,
+   "n_reachable": 21,
+   "frac": 0.35,
+   "reachable": [
+    "M1-3",
+    "M2-3",
+    "M2-4",
+    "M2-5",
+    "M4-2",
+    "M4-3",
+    "M5-2",
+    "M5-6",
+    "M5-9",
+    "M6-10",
+    "M6-11",
+    "M6-3",
+    "M6-4",
+    "M6-5",
+    "M6-6",
+    "M6-8",
+    "M7-3",
+    "M8-3",
+    "M8-6",
+    "M8-7",
+    "M9"
+   ]
+  },
+  "P": {
+   "n_coords": 74,
+   "n_reachable": 15,
+   "frac": 0.20270270270270271,
+   "reachable": [
+    "P1-8",
+    "P2-4",
+    "P3-6",
+    "P4-5",
+    "P4-8",
+    "P4-9",
+    "P5-2",
+    "P5-5",
+    "P5-6",
+    "P5-7",
+    "P6-4",
+    "P7-4",
+    "P8-3",
+    "P8-5",
+    "P8-7"
+   ]
+  },
+  "ALL_sub": {
+   "n": 117,
+   "n_reachable": 35,
+   "frac": 0.29914529914529914
+  }
+ },
+ "keyword_ambiguity": {
+  "L": {
+   "n_kw": 71,
+   "n_ambiguous": 0,
+   "frac": 0.0,
+   "examples": []
+  },
+  "M": {
+   "n_kw": 130,
+   "n_ambiguous": 0,
+   "frac": 0.0,
+   "examples": []
+  },
+  "P": {
+   "n_kw": 62,
+   "n_ambiguous": 0,
+   "frac": 0.0,
+   "examples": []
+  }
+ },
+ "out_of_sample": {
+  "n_examples": 580,
+  "recall_all": 0.04827586206896552,
+  "recall_reachable": 0.1686746987951807,
+  "recall_unreachable": 0.0,
+  "n_examples_reachable": 166,
+  "n_examples_unreachable": 414,
+  "group_recall_all": 0.09310344827586207,
+  "empty_pred_frac": 0.8086206896551724,
+  "mean_pred_size": 0.20517241379310344,
+  "by_axis": {
+   "L": {
+    "n": 0,
+    "recall": null
+   },
+   "M": {
+    "n": 248,
+    "recall": 0.06451612903225806
+   },
+   "P": {
+    "n": 332,
+    "recall": 0.03614457831325301
+   }
+  }
+ },
+ "in_sample": {
+  "n": 29,
+  "exact": 14,
+  "recall": {
+   "L": 0.7857142857142857,
+   "M": 0.9565217391304348,
+   "P": 0.8636363636363636
+  }
+ },
+ "negative_control_shuffle": {
+  "recall": 0.005172413793103448,
+  "n": 580
+ },
+ "definition_neardup_sweep": [
+  {
+   "thr": 0.3,
+   "pairs": 34,
+   "frac": 0.0050103153551429415
+  },
+  {
+   "thr": 0.4,
+   "pairs": 31,
+   "frac": 0.004568228706159741
+  },
+  {
+   "thr": 0.5,
+   "pairs": 29,
+   "frac": 0.004273504273504274
+  },
+  {
+   "thr": 0.6,
+   "pairs": 28,
+   "frac": 0.00412614205717654
+  },
+  {
+   "thr": 0.7,
+   "pairs": 28,
+   "frac": 0.00412614205717654
+  },
+  {
+   "thr": 0.8,
+   "pairs": 28,
+   "frac": 0.00412614205717654
+  },
+  {
+   "thr": 0.9,
+   "pairs": 27,
+   "frac": 0.003978779840848806
+  }
+ ],
+ "per_code": {
+  "M1-1": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M1-2": {
+   "axis": "M",
+   "n": 4,
+   "exact": 0,
+   "group": 0,
+   "empty": 4,
+   "mean_pred": 0.0
+  },
+  "M1-3": {
+   "axis": "M",
+   "n": 5,
+   "exact": 1,
+   "group": 1,
+   "empty": 3,
+   "mean_pred": 0.4
+  },
+  "M2-1": {
+   "axis": "M",
+   "n": 6,
+   "exact": 0,
+   "group": 0,
+   "empty": 6,
+   "mean_pred": 0.0
+  },
+  "M2-2": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M2-3": {
+   "axis": "M",
+   "n": 5,
+   "exact": 2,
+   "group": 2,
+   "empty": 3,
+   "mean_pred": 0.4
+  },
+  "M2-4": {
+   "axis": "M",
+   "n": 5,
+   "exact": 2,
+   "group": 2,
+   "empty": 2,
+   "mean_pred": 0.6
+  },
+  "M2-5": {
+   "axis": "M",
+   "n": 5,
+   "exact": 1,
+   "group": 1,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "M2-6": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M2-7": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M2-8": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M2-9": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M3-1": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M4-1": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M4-2": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M4-3": {
+   "axis": "M",
+   "n": 5,
+   "exact": 1,
+   "group": 1,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "M4-4": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M4-5": {
+   "axis": "M",
+   "n": 10,
+   "exact": 0,
+   "group": 1,
+   "empty": 9,
+   "mean_pred": 0.1
+  },
+  "M4-6": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M4-7": {
+   "axis": "M",
+   "n": 4,
+   "exact": 0,
+   "group": 0,
+   "empty": 4,
+   "mean_pred": 0.0
+  },
+  "M5-1": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M5-2": {
+   "axis": "M",
+   "n": 5,
+   "exact": 1,
+   "group": 1,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "M5-3": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M5-4": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M5-5": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M5-6": {
+   "axis": "M",
+   "n": 4,
+   "exact": 0,
+   "group": 0,
+   "empty": 4,
+   "mean_pred": 0.0
+  },
+  "M5-7": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M5-8": {
+   "axis": "M",
+   "n": 2,
+   "exact": 0,
+   "group": 0,
+   "empty": 2,
+   "mean_pred": 0.0
+  },
+  "M5-9": {
+   "axis": "M",
+   "n": 2,
+   "exact": 1,
+   "group": 1,
+   "empty": 1,
+   "mean_pred": 0.5
+  },
+  "M6-1": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 1,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "M6-2": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M6-3": {
+   "axis": "M",
+   "n": 5,
+   "exact": 1,
+   "group": 1,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "M6-4": {
+   "axis": "M",
+   "n": 5,
+   "exact": 2,
+   "group": 3,
+   "empty": 2,
+   "mean_pred": 0.6
+  },
+  "M6-5": {
+   "axis": "M",
+   "n": 6,
+   "exact": 0,
+   "group": 0,
+   "empty": 6,
+   "mean_pred": 0.0
+  },
+  "M6-6": {
+   "axis": "M",
+   "n": 4,
+   "exact": 0,
+   "group": 0,
+   "empty": 4,
+   "mean_pred": 0.0
+  },
+  "M6-7": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 2,
+   "empty": 3,
+   "mean_pred": 0.4
+  },
+  "M6-8": {
+   "axis": "M",
+   "n": 5,
+   "exact": 1,
+   "group": 1,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "M6-9": {
+   "axis": "M",
+   "n": 3,
+   "exact": 0,
+   "group": 0,
+   "empty": 3,
+   "mean_pred": 0.0
+  },
+  "M6-10": {
+   "axis": "M",
+   "n": 4,
+   "exact": 1,
+   "group": 1,
+   "empty": 3,
+   "mean_pred": 0.25
+  },
+  "M6-11": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M7-1": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M7-2": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M7-3": {
+   "axis": "M",
+   "n": 5,
+   "exact": 1,
+   "group": 1,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "M8-1": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M8-2": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M8-3": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M8-4": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M8-5": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "M8-6": {
+   "axis": "M",
+   "n": 4,
+   "exact": 0,
+   "group": 1,
+   "empty": 3,
+   "mean_pred": 0.25
+  },
+  "M8-7": {
+   "axis": "M",
+   "n": 5,
+   "exact": 1,
+   "group": 1,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "M8-8": {
+   "axis": "M",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P1-1": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 3,
+   "mean_pred": 0.4
+  },
+  "P1-2": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P1-3": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 3,
+   "mean_pred": 0.4
+  },
+  "P1-4": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P1-5": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "P1-6": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 4,
+   "mean_pred": 0.4
+  },
+  "P1-7": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 2,
+   "mean_pred": 0.6
+  },
+  "P1-8": {
+   "axis": "P",
+   "n": 5,
+   "exact": 3,
+   "group": 3,
+   "empty": 2,
+   "mean_pred": 0.8
+  },
+  "P1-9": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 2,
+   "empty": 3,
+   "mean_pred": 0.6
+  },
+  "P2-1": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P2-2": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P2-3": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 4,
+   "empty": 1,
+   "mean_pred": 0.8
+  },
+  "P2-4": {
+   "axis": "P",
+   "n": 5,
+   "exact": 2,
+   "group": 2,
+   "empty": 3,
+   "mean_pred": 0.4
+  },
+  "P2-5": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P3-1": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 3,
+   "mean_pred": 0.4
+  },
+  "P3-2": {
+   "axis": "P",
+   "n": 10,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.6
+  },
+  "P3-3": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 1,
+   "mean_pred": 1.0
+  },
+  "P3-4": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 2,
+   "mean_pred": 0.8
+  },
+  "P3-5": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 0,
+   "mean_pred": 1.0
+  },
+  "P3-6": {
+   "axis": "P",
+   "n": 5,
+   "exact": 1,
+   "group": 1,
+   "empty": 1,
+   "mean_pred": 0.8
+  },
+  "P3-7": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 3,
+   "mean_pred": 0.4
+  },
+  "P3-8": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 2,
+   "mean_pred": 0.6
+  },
+  "P3-9": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P3-10": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "P4-1": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 2,
+   "mean_pred": 0.6
+  },
+  "P4-2": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 3,
+   "mean_pred": 0.4
+  },
+  "P4-3": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "P4-4": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 0,
+   "mean_pred": 1.2
+  },
+  "P4-5": {
+   "axis": "P",
+   "n": 5,
+   "exact": 1,
+   "group": 1,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "P4-6": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "P4-7": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 1,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "P4-8": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "P4-9": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 3,
+   "mean_pred": 0.4
+  },
+  "P4-10": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 1,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "P4-11": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P5-1": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 1,
+   "empty": 3,
+   "mean_pred": 0.4
+  },
+  "P5-2": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P5-3": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P5-4": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P5-5": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 1,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "P5-6": {
+   "axis": "P",
+   "n": 4,
+   "exact": 2,
+   "group": 2,
+   "empty": 1,
+   "mean_pred": 0.75
+  },
+  "P5-7": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P5-8": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 1,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "P5-9": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P5-10": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P6-1": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P6-2": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P6-3": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P6-4": {
+   "axis": "P",
+   "n": 6,
+   "exact": 0,
+   "group": 0,
+   "empty": 6,
+   "mean_pred": 0.0
+  },
+  "P6-5": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P6-6": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "P6-7": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P7-1": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 4,
+   "empty": 1,
+   "mean_pred": 0.8
+  },
+  "P7-2": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 1,
+   "empty": 4,
+   "mean_pred": 0.2
+  },
+  "P7-3": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 3,
+   "empty": 2,
+   "mean_pred": 0.6
+  },
+  "P7-4": {
+   "axis": "P",
+   "n": 2,
+   "exact": 1,
+   "group": 1,
+   "empty": 1,
+   "mean_pred": 0.5
+  },
+  "P8-1": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 1,
+   "empty": 4,
+   "mean_pred": 0.4
+  },
+  "P8-2": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P8-3": {
+   "axis": "P",
+   "n": 5,
+   "exact": 2,
+   "group": 2,
+   "empty": 3,
+   "mean_pred": 0.4
+  },
+  "P8-4": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P8-5": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P8-6": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P8-7": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P8-8": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P8-9": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  },
+  "P8-10": {
+   "axis": "P",
+   "n": 5,
+   "exact": 0,
+   "group": 0,
+   "empty": 5,
+   "mean_pred": 0.0
+  }
+ }
+}

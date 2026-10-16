@@ -189,6 +189,16 @@ story.append(Paragraph(
     '实现形态：单文件核心引擎 <b>core/life5.py</b>，唯一依赖 numpy。'
     '无 LLM、无网络、无外部服务 —— 任何机器 <b>pip install numpy</b> 后即可复现全部结论。', st_b))
 
+story.append(Paragraph(
+'<b>关于「可部署」，我们验证过而不是写过</b>：<font face="Courier">pip install</font> 的退出码为 0 '
+'<b>不等于</b>装出来的包能用。本仓库曾长期缺 <font face="Courier">core/__init__.py</font>，'
+'<font face="Courier">find_packages()</font> 返回空列表，<font face="Courier">pip install .</font> '
+'装出一个<b>不含任何代码的空包</b> —— 而当时文档仍在声称「可 pip 安装」。'
+'现已修复，并由 <font face="Courier">tools/verify_all.py</font> 第 ④ 组守护：'
+'真装一次到临时目录，断言 <font face="Courier">from core import Life5</font> 可用；'
+'删除 <font face="Courier">__init__.py</font> 立即 FAIL。'
+'<b>这条失败记录保留在库里（判据核第 278–281 条），不作删除。</b>', st_b))
+
 # ---------------- 三、创新 ----------------
 story += [PageBreak(), Paragraph('三、核心创新点', st_h1), Spacer(1, 3*mm)]
 
@@ -415,16 +425,16 @@ if os.path.exists(_bio_p):
     story += [Spacer(1, 5*mm),
               Paragraph('5.1 生物科学：三条命题的 in silico 对照检验', st_h2)]
     story.append(Paragraph(
-        '湿实验贵、慢、混杂变量多。本引擎的价值不是替生物学家下结论，而是'
-        '<b>把机制单独剥离出来，让假说可以被反复、逐位复现地检验</b>。'
-        '以下三条全部由 <b>examples/bio_hypothesis_test.py</b> 当场跑出，'
-        '数据读自 data/bio_results.json，未写死任何一个数。', st_b))
+'湿实验贵、慢、混杂变量多。本引擎的价值不是替生物学家下结论，而是'
+'<b>把机制单独剥离出来，让假说可以被反复、逐位复现地检验</b>。'
+'以下三条全部由 <b>examples/bio_hypothesis_test.py</b> 当场跑出，'
+'数据读自 data/bio_results.json，未写死任何一个数。', st_b))
 
     story.append(Spacer(1, 2*mm))
     story.append(Paragraph('<b>H1 · 发育关键期是否存在、门何时关上</b>', st_b))
     story.append(Paragraph(
-        '生物学对应：视觉剥夺实验、印记（imprinting）的关键期。'
-        '固定引导窗口 150 拍，只扫起点，测终态结构偏度（n=8）：', st_b))
+'生物学对应：视觉剥夺实验、印记（imprinting）的关键期。'
+'固定引导窗口 150 拍，只扫起点，测终态结构偏度（n=8）：', st_b))
     _r1 = [['引导起点', '结构偏度', '相对基线']]
     for r in H1['rows']:
         _r1.append([f"{r['start']}", f"{r['mean']:.4f}", f"{r['effect']:+.4f}"])
@@ -439,8 +449,8 @@ if os.path.exists(_bio_p):
     story.append(Spacer(1, 2*mm))
     story.append(Paragraph('<b>H2 · 剂量-反应：早期剥夺是线性还是阈值</b>', st_b))
     story.append(Paragraph(
-        '生物学对应：代谢编程 / DOHaD（早期营养剥夺的长期效应）。'
-        '饿探针通道不同时长，测其后段份额损失（饿自己 − 饿别人，n=8）：', st_b))
+'生物学对应：代谢编程 / DOHaD（早期营养剥夺的长期效应）。'
+'饿探针通道不同时长，测其后段份额损失（饿自己 − 饿别人，n=8）：', st_b))
     _r2 = [['饥饿拍数', 'Δ份额', 'SE', '符号一致']]
     for r in H2['rows']:
         _r2.append([f"{r['dose']}", f"{r['mean_delta']:+.4f}",
@@ -465,13 +475,13 @@ if os.path.exists(_bio_p):
         _r3.append([f"{r['ratio']:.2f}", f"{r['n_surv']}", _ms, _se, f"{r['deaths']}"])
     story.append(tbl(_r3, [24*mm, 20*mm, 30*mm, 26*mm, W-100*mm]))
     story.append(Paragraph(
-        '结论与直觉相反：<b>稀缺是开关，不是旋钮</b>。ratio &lt; 1.0 时结构一概成形，'
-        '但强度<b>不随稀缺程度单调变化</b>；ratio ≥ 1.0 时结构精确塌回均匀（0.0000），'
-        '且无一死亡。这正是本项目主张「稀缺是硬约束而非惩罚项」的直接证据——'
-        '<b>惩罚项才有剂量-反应，硬约束只有成立与不成立</b>。', st_b))
+'结论与直觉相反：<b>稀缺是开关，不是旋钮</b>。ratio &lt; 1.0 时结构一概成形，'
+'但强度<b>不随稀缺程度单调变化</b>；ratio ≥ 1.0 时结构精确塌回均匀（0.0000），'
+'且无一死亡。这正是本项目主张「稀缺是硬约束而非惩罚项」的直接证据——'
+'<b>惩罚项才有剂量-反应，硬约束只有成立与不成立</b>。', st_b))
     story.append(Paragraph(
-        '<b>定位声明</b>：以上不构成生物学成果，而是为生物学假说提供一处可复现的'
-        '对照沙盒。本引擎不含任何真实生物参数，与生物系统仅为结构类比。', st_b))
+'<b>定位声明</b>：以上不构成生物学成果，而是为生物学假说提供一处可复现的'
+'对照沙盒。本引擎不含任何真实生物参数，与生物系统仅为结构类比。', st_b))
 
 # ---------------- 可集成性（解决方案赛道关键） ----------------
 st_code = S('code', 8.0, 1.45, INK, 0)

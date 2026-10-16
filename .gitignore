@@ -14,3 +14,7 @@ ppt_runs/
 # 本地打包产物（含视频/PDF/bundle的重复副本）
 参赛物料包.zip
 deliver/*.bundle
+
+# 构建残留（陈旧 build/ 会导致打包测到旧产物，见判据核第280条）
+build/
+*.egg-info/

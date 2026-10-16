@@ -11,7 +11,10 @@ import sys, os
 import numpy as np
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'core'))
-from life5 import Life5   # noqa
+try:
+    from core.life5 import Life5   # 装包运行（pip install .）
+except ImportError:               # 源码运行（core/ 直接在 sys.path）
+    from life5 import Life5   # noqa
 
 FAIL = []
 

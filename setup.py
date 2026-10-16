@@ -8,7 +8,8 @@ setup(
     description="会死的数字生命引擎：稀缺·死亡·不可逆·代谢·内生约束 五条硬约束",
     author="朱美岩",
     license="Apache-2.0",
-    packages=find_packages(include=["core", "core.*"]),
+    packages=["core"],
+    package_dir={"core": "core"},
     python_requires=">=3.8",
     install_requires=["numpy"],
     classifiers=[

@@ -109,6 +109,58 @@ def main():
     chk("④ 全程施加 > 晚期引导", w["full"]["mean"] > w["late"]["mean"],
         f"full={w['full']['mean']:.4f} > late={w['late']['mean']:.4f}")
 
+    # ---------------------------------------------------------------
+    section("④ 可安装性 —— 声称可 pip 安装就必须真的装得出代码")
+    # ---------------------------------------------------------------
+    # 判据核第 278 条：core/__init__.py 曾长期缺失，find_packages() 返回空，
+    # pip install . 装出一个不含任何代码的空包，而 README/PDF 仍声称可部署。
+    chk("④ core/__init__.py 存在",
+        os.path.exists(os.path.join(ROOT, "core", "__init__.py")),
+        "缺失将导致 pip 安装后无可用代码")
+
+    try:
+        from setuptools import find_packages
+        pkgs = find_packages(where=ROOT)
+    except Exception as e:  # pragma: no cover
+        pkgs = []
+        print("   find_packages 异常:", e)
+    chk("④ find_packages 能找到 core", "core" in pkgs, f"实际: {pkgs}")
+
+    # 真正装一次到临时目录，确认能 import 并跑。
+    # 必须复制到【干净的临时源码树】再装：若直接装仓库根目录，
+    # setuptools 会复用陈旧的 build/ 目录，而 build_py 只复制源中有的文件、
+    # 不删除源中已删的 —— 负对照会测到旧产物，恒绿（判据核第 280 条）。
+    import tempfile, shutil
+    with tempfile.TemporaryDirectory() as td:
+        src = os.path.join(td, "src")
+        os.makedirs(src)
+        shutil.copy2(os.path.join(ROOT, "setup.py"), src)
+        shutil.copytree(os.path.join(ROOT, "core"), os.path.join(src, "core"),
+                        ignore=shutil.ignore_patterns("__pycache__"))
+        rc, out = run([PY, "-m", "pip", "install", "-q", "--no-cache-dir",
+                       "--no-build-isolation", "--target", td, src])
+        ok_install = rc == 0
+        chk("④ pip install 成功（干净源码树）", ok_install, f"退出码 {rc}")
+        if ok_install:
+            # 必须在【隔离目录】里跑：python -c 会把 cwd 加进 sys.path，
+            # 若在仓库根跑，import 到的是源码目录而非装出来的包，
+            # 负对照会假阳性（判据核第 279 条）。
+            code = ("import sys, os; sys.path.insert(0, %r)\n"
+                    "import core\n"
+                    "if getattr(core, '__file__', None) is None:\n"
+                    "    raise SystemExit('NO_INIT: core 是命名空间包，缺 __init__.py，'\n"
+                    "                     'from core import Life5 不可用')\n"
+                    "d = os.path.dirname(core.__file__)\n"
+                    "print('LOADED_FROM:', d)\n"
+                    "assert d.startswith(%r), 'IMPORTED_FROM_SOURCE'\n"
+                    "from core import Life5\n"
+                    "Life5(seed=3).run(50)\n"
+                    "print('PACK_OK')\n" % (td, td))
+            rc2, out2 = run([PY, "-c", code], cwd=td)
+            chk("④ 装包后 import 并跑通（且确实来自装出的包）",
+                "PACK_OK" in out2 and "IMPORTED_FROM_SOURCE" not in out2,
+                (out2.strip().split("\n") or [""])[-1][:140])
+
     return finish(as_json)
 
 
