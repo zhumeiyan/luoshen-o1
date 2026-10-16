@@ -1,0 +1,272 @@
+{
+ "t1": [
+  {
+   "city": "威海市",
+   "district": "环翠区",
+   "update_time": "2026-10-16 23:05",
+   "weather": "晴天",
+   "temperature": 17,
+   "wind_direction": "东风",
+   "wind_power": "3-4级",
+   "wind_power_v2": "3级",
+   "humidity": 87,
+   "air_pressure": 1010,
+   "_probe": "威海"
+  },
+  {
+   "city": "北京市",
+   "district": "东城区",
+   "update_time": "2026-10-16 23:05",
+   "weather": "阴",
+   "temperature": 16,
+   "wind_direction": "东北风",
+   "wind_power": "1-2级",
+   "wind_power_v2": "1级",
+   "humidity": 52,
+   "air_pressure": 1019,
+   "_probe": "北京"
+  },
+  {
+   "city": "上海市",
+   "district": "黄浦区",
+   "update_time": "2026-10-16 23:05",
+   "weather": "多云",
+   "temperature": 22,
+   "wind_direction": "东北风",
+   "wind_power": "1-2级",
+   "wind_power_v2": "1级",
+   "humidity": 77,
+   "air_pressure": 1018,
+   "_probe": "上海"
+  },
+  {
+   "city": "广州市",
+   "district": "越秀区",
+   "update_time": "2026-10-16 23:05",
+   "weather": "晴天",
+   "temperature": 23,
+   "wind_direction": "北风",
+   "wind_power": "1-2级",
+   "wind_power_v2": "1级",
+   "humidity": 92,
+   "air_pressure": 1007,
+   "_probe": "广州"
+  },
+  {
+   "city": "深圳市",
+   "district": "福田区",
+   "update_time": "2026-10-16 23:05",
+   "weather": "多云",
+   "temperature": 26,
+   "wind_direction": "东风",
+   "wind_power": "2-3级",
+   "wind_power_v2": "2级",
+   "humidity": 80,
+   "air_pressure": 1008,
+   "_probe": "深圳"
+  },
+  {
+   "city": "哈尔滨市",
+   "district": "松北区",
+   "update_time": "2026-10-16 23:05",
+   "weather": "晴天",
+   "temperature": -1,
+   "wind_direction": "西南风",
+   "wind_power": "1-2级",
+   "wind_power_v2": "1级",
+   "humidity": 78,
+   "air_pressure": 1012,
+   "_probe": "哈尔滨"
+  },
+  {
+   "city": "乌鲁木齐市",
+   "district": "水磨沟区",
+   "update_time": "2026-10-16 23:05",
+   "weather": "晴天",
+   "temperature": 1,
+   "wind_direction": "北风",
+   "wind_power": "1-2级",
+   "wind_power_v2": "1级",
+   "humidity": 57,
+   "air_pressure": 924,
+   "_probe": "乌鲁木齐"
+  },
+  {
+   "city": "拉萨市",
+   "district": "城关区",
+   "update_time": "2026-10-16 23:05",
+   "weather": "晴天",
+   "temperature": 8,
+   "wind_direction": "东风",
+   "wind_power": "3-4级",
+   "wind_power_v2": "3级",
+   "humidity": 30,
+   "air_pressure": 640,
+   "_probe": "拉萨"
+  },
+  {
+   "city": "三亚市",
+   "district": "吉阳区",
+   "update_time": "2026-10-16 23:05",
+   "weather": "多云",
+   "temperature": 24,
+   "wind_direction": "西北风",
+   "wind_power": "1-2级",
+   "wind_power_v2": "1级",
+   "humidity": 93,
+   "air_pressure": 976,
+   "_probe": "三亚"
+  },
+  {
+   "city": "成都市",
+   "district": "武侯区",
+   "update_time": "2026-10-16 23:05",
+   "weather": "阴",
+   "temperature": 19,
+   "wind_direction": "北风",
+   "wind_power": "1-2级",
+   "wind_power_v2": "1级",
+   "humidity": 100,
+   "air_pressure": 950,
+   "_probe": "成都"
+  },
+  {
+   "city": "西安市",
+   "district": "未央区",
+   "update_time": "2026-10-16 23:05",
+   "weather": "阴",
+   "temperature": 17,
+   "wind_direction": "南风",
+   "wind_power": "1-2级",
+   "wind_power_v2": "1级",
+   "humidity": 86,
+   "air_pressure": 964,
+   "_probe": "西安"
+  },
+  {
+   "city": "武汉市",
+   "district": "江岸区",
+   "update_time": "2026-10-16 23:05",
+   "weather": "雾",
+   "temperature": 21,
+   "wind_direction": "东风",
+   "wind_power": "2-3级",
+   "wind_power_v2": "2级",
+   "humidity": 100,
+   "air_pressure": 1010,
+   "_probe": "武汉"
+  }
+ ],
+ "t2": [
+  {
+   "city": "威海",
+   "district": "环翠区",
+   "update_time": "2026-10-16 23:15",
+   "temperature": 17,
+   "humidity": 88,
+   "air_pressure": 1010,
+   "weather": "晴天"
+  },
+  {
+   "city": "北京",
+   "district": "东城区",
+   "update_time": "2026-10-16 23:15",
+   "temperature": 16,
+   "humidity": 54,
+   "air_pressure": 1019,
+   "weather": "阴"
+  },
+  {
+   "city": "上海",
+   "district": "黄浦区",
+   "update_time": "2026-10-16 23:15",
+   "temperature": 22,
+   "humidity": 77,
+   "air_pressure": 1018,
+   "weather": "多云"
+  },
+  {
+   "city": "广州",
+   "district": "越秀区",
+   "update_time": "2026-10-16 23:15",
+   "temperature": 23,
+   "humidity": 92,
+   "air_pressure": 1007,
+   "weather": "晴天"
+  },
+  {
+   "city": "深圳",
+   "district": "福田区",
+   "update_time": "2026-10-16 23:15",
+   "temperature": 26,
+   "humidity": 79,
+   "air_pressure": 1008,
+   "weather": "多云"
+  },
+  {
+   "city": "哈尔滨",
+   "district": "松北区",
+   "update_time": "2026-10-16 23:15",
+   "temperature": -1,
+   "humidity": 77,
+   "air_pressure": 1012,
+   "weather": "晴天"
+  },
+  {
+   "city": "乌鲁木齐",
+   "district": "水磨沟区",
+   "update_time": "2026-10-16 23:15",
+   "temperature": 1,
+   "humidity": 58,
+   "air_pressure": 924,
+   "weather": "晴天"
+  },
+  {
+   "city": "拉萨",
+   "district": "城关区",
+   "update_time": "2026-10-16 23:15",
+   "temperature": 8,
+   "humidity": 31,
+   "air_pressure": 640,
+   "weather": "晴天"
+  },
+  {
+   "city": "三亚",
+   "district": "吉阳区",
+   "update_time": "2026-10-16 23:15",
+   "temperature": 24,
+   "humidity": 93,
+   "air_pressure": 976,
+   "weather": "多云"
+  },
+  {
+   "city": "成都",
+   "district": "武侯区",
+   "update_time": "2026-10-16 23:15",
+   "temperature": 19,
+   "humidity": 100,
+   "air_pressure": 950,
+   "weather": "阴"
+  },
+  {
+   "city": "西安",
+   "district": "未央区",
+   "update_time": "2026-10-16 23:15",
+   "temperature": 17,
+   "humidity": 86,
+   "air_pressure": 964,
+   "weather": "雨"
+  },
+  {
+   "city": "武汉",
+   "district": "江岸区",
+   "update_time": "2026-10-16 23:15",
+   "temperature": 21,
+   "humidity": 100,
+   "air_pressure": 1010,
+   "weather": "雾"
+  }
+ ],
+ "changed": 7,
+ "total": 12
+}
