@@ -17,6 +17,15 @@ HERE = os.path.dirname(__file__)
 ROOT = os.path.join(HERE, '..')
 OUT = os.path.join(ROOT, 'docs', '洛神O1_作品介绍文档.pdf')
 
+# 失败模式条数：由权威清点脚本实时统计，避免各物料间数字打架
+_PC = json.load(open(os.path.join(ROOT, 'data', 'pattern_count.json')))
+N_UNIQUE = _PC['n_unique']    # 去重后独立条目数
+N_DEFS   = _PC['n_defs']      # 条目定义行数
+MIN_ID   = _PC['min_id']
+MAX_ID   = _PC['max_id']
+N_DUP    = N_DEFS - N_UNIQUE  # 重复编号数
+N_GAPS   = _PC['n_gaps']
+
 FD = '/usr/share/fonts/truetype/alibaba-puhuiti'
 pdfmetrics.registerFont(TTFont('PH', f'{FD}/AlibabaPuHuiTi-2-55-Regular.ttf'))
 pdfmetrics.registerFont(TTFont('PHB', f'{FD}/AlibabaPuHuiTi-2-85-Bold.ttf'))
@@ -93,7 +102,7 @@ story += [Spacer(1, 38*mm),
 cover = [['项目负责人', '朱美岩（独立开发者）'],
          ['开源协议', 'Apache-2.0'],
          ['代码依赖', '仅 numpy —— 零 LLM 依赖、零网络依赖'],
-         ['失败模式库', '152 条，全部带代码可复现'],
+         ['失败模式库', f'{N_UNIQUE} 条，全部带代码可复现'],
          ['实验报告', '53 份，含被推翻的预注册判据']]
 story.append(tbl([['项目', '信息']] + cover, [45*mm, W-45*mm]))
 story += [Spacer(1, 16*mm),
@@ -132,9 +141,9 @@ story.append(Paragraph(
     '已实测，见第 5.1 节。', st_b))
 story.append(Spacer(1, 3*mm))
 story.append(Paragraph(
-    '<b>它与其它参赛作品最大的不同</b>：我们开源了<b>全部失败</b>——152 条带代码的失败模式、'
+    f'<b>它与其它参赛作品最大的不同</b>：我们开源了<b>全部失败</b>——{N_UNIQUE} 条带代码的失败模式、'
     '53 份含被推翻预注册判据的实验报告。在 AI 生成内容泛滥的 2026 年，'
-    '三十秒能编一个成功故事，<b>但编不出 152 条失败记录</b>。', st_b))
+    f'三十秒能编一个成功故事，<b>但编不出 {N_UNIQUE} 条失败记录</b>。', st_b))
 story.append(PageBreak())
 
 # ---------------- 一、背景 ----------------
@@ -317,9 +326,9 @@ story.append(Paragraph(
     '(Springer), pp. 3–35, DOI 10.1007/978-1-84882-285-6_1。', st_cap))
 
 # ---------------- 失败库 ----------------
-story += [PageBreak(), Paragraph('四、我们开源了全部失败 —— 152 条带代码的失败模式', st_h1), Spacer(1, 3*mm)]
+story += [PageBreak(), Paragraph(f'四、我们开源了全部失败 —— {N_UNIQUE} 条带代码的失败模式', st_h1), Spacer(1, 3*mm)]
 story.append(Paragraph(
-    '<b>evidence/失败模式库/判据核.md 收录 152 条失败模式，每一条都有代码可复现。</b>'
+    f'<b>evidence/失败模式库/判据核.md 收录 {N_UNIQUE} 条失败模式，每一条都有代码可复现。</b>'
     '配套 53 份实验报告，每一份都记录了<b>被推翻的预注册判据</b>。', st_b))
 story.append(tbl([['失败模式', '症状', '我们栽过'],
                   ['饱和伪装成"无效应"', '信号 ×1 / ×10 / ×100，指标一字不差', '≥ 3 次'],
@@ -328,7 +337,7 @@ story.append(tbl([['失败模式', '症状', '我们栽过'],
                  [42*mm, W-42*mm-20*mm, 20*mm]))
 story.append(Paragraph(
     '在 AI 生成内容泛滥的 2026 年，任何人三十秒就能编出一个可信的成功故事。'
-    '<b>但编不出 152 条带代码的失败记录。</b> 我们认为这是开源项目最稀缺的资产类型。', st_b))
+    f'<b>但编不出 {N_UNIQUE} 条带代码的失败记录。</b> 我们认为这是开源项目最稀缺的资产类型。', st_b))
 story.append(Paragraph(
     '我们还公开了对第三方方法论的审计：实测证明<b>一致性系数 κ 高 ≠ 分类正确</b> —— '
     '只要评审者共享同一套坐标库，即使全体一致地指向错误坐标，κ 依然可达 0.945，'
@@ -336,11 +345,13 @@ story.append(Paragraph(
 story.append(Spacer(1, 2*mm))
 story.append(Paragraph(
     '<b>关于条数，如实说明（这一条本身就是我们主张的实践）：</b>'
-    '152 是<b>独立条目数</b>，编号范围 35–206；其中 20 处编号缺口（52、116–117、147–163）、9 个重复编号，'
+    f'{N_UNIQUE} 是<b>独立条目数</b>，编号范围 {MIN_ID}–{MAX_ID}；其中 {N_GAPS} 处编号缺口（52、116–117、147–163）、{N_DUP} 个重复编号，'
     '我们<b>不回填、不重排</b>——回填即改写历史，违反"只增不减"。'
     '第 1–34 条的外部引用链已断裂，不计入本数。'
     '清点可复现：<font face="Courier">python3 tools/count_patterns.py</font>（权威脚本；旧脚本 <font face="Courier">count_criteria.py</font> 因正则漏掉行首加粗写法而少计，仅作交叉校验保留）。'
-    '我们此前对外称"195 条"，是把<b>最大编号</b>误当条目数；随后清点脚本又因正则漏掉行首加粗写法而少计 2 条。<b>两处均已修正，现以 <font face="Courier">tools/count_patterns.py</font> 输出为准。</b>', st_b))
+    '我们此前对外称"195 条"，是把<b>最大编号</b>误当条目数；随后清点脚本又因正则漏掉行首加粗写法而少计 2 条。<b>两处均已修正，现以 <font face="Courier">tools/count_patterns.py</font> 输出为准。</b>'
+    '演示视频片头标注 <b>159 条</b>，是<b>录制当时的数值</b>；库随实验持续增补，截至本稿为 '
+    f'{N_UNIQUE} 条。<b>两者差异已如实披露，不做静默对齐</b>。视频内的全部实验数据均为真实运行输出，与条数无关。', st_b))
 
 # ---------------- 场景 ----------------
 story += [Spacer(1, 5*mm), Paragraph('五、应用场景与落地', st_h1), Spacer(1, 3*mm)]
@@ -476,7 +487,7 @@ story.append(tbl([['项目', '状态'],
                   ['CONTRIBUTING.md 贡献指南', '✅ 已完备'],
                   ['README 与依赖清单', '✅ 已完备（依赖仅 numpy）'],
                   ['可运行测试', '✅ tests/test_engine.py，11 项自检'],
-                  ['失败模式库开源', '✅ 152 条，带代码可复现'],
+                  ['失败模式库开源', f'✅ {N_UNIQUE} 条，带代码可复现'],
                   ['实验报告开源', '✅ 53 份，含被推翻的预注册判据'],
                   ['复现清单', '✅ docs/复现清单.md，逐条标注每个数字怎么来的'],
                   ['评委即开即用演示台', '✅ docs/demo.html，单文件零依赖，双击即开']],

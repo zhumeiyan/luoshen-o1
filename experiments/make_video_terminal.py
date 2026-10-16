@@ -18,6 +18,12 @@
 """
 import os, sys, subprocess, shutil
 import numpy as np
+
+# 失败模式条数：由权威清点脚本实时统计（与 PDF 同源，避免物料间数字打架）
+import json as _json
+_HERE = os.path.dirname(os.path.abspath(__file__))
+_PC = _json.load(open(os.path.join(_HERE, '..', 'data', 'pattern_count.json')))
+N_UNIQUE = _PC['n_unique']
 from PIL import Image, ImageDraw, ImageFont
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -214,7 +220,7 @@ TITLE_CARD = card(
     '2026 开源行业解决方案创新赛 · 开源基础软件与解决方案',
     ['下面这不是动画 —— 是一段被放慢的真实运行录屏',
      '稀缺、死亡、结构疤是硬约束，不是可调参数',
-     '141 条失败模式全部开源，含未修复项',
+     f'{N_UNIQUE} 条失败模式全部开源，含未修复项',
      '接口只有一个 step()，不改原框架一行代码'],
     'python3 experiments/demo_terminal.py   —— 你也可以跑，结果逐位相同',
 )
