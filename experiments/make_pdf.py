@@ -44,6 +44,8 @@ res = json.load(open(os.path.join(ROOT, 'data', 'core_results.json')))
 B, C, D = res['B_tradeoff'], res['C_weld'], res['D_window']
 A = res['A_death']
 dead = [r for r in A if not r['survived']]
+OFF = json.load(open(os.path.join(ROOT, 'data', 'offload_results.json')))
+O1, O2 = OFF['S1_remove'], OFF['S2_keep']
 
 
 def tbl(data, widths, align_right=None):
@@ -91,7 +93,7 @@ story += [Spacer(1, 38*mm),
 cover = [['项目负责人', '朱美岩（独立开发者）'],
          ['开源协议', 'Apache-2.0'],
          ['代码依赖', '仅 numpy —— 零 LLM 依赖、零网络依赖'],
-         ['失败模式库', '141 条，全部带代码可复现'],
+         ['失败模式库', '152 条，全部带代码可复现'],
          ['实验报告', '53 份，含被推翻的预注册判据']]
 story.append(tbl([['项目', '信息']] + cover, [45*mm, W-45*mm]))
 story += [Spacer(1, 16*mm),
@@ -130,9 +132,9 @@ story.append(Paragraph(
     '已实测，见第 5.1 节。', st_b))
 story.append(Spacer(1, 3*mm))
 story.append(Paragraph(
-    '<b>它与其它参赛作品最大的不同</b>：我们开源了<b>全部失败</b>——141 条带代码的失败模式、'
+    '<b>它与其它参赛作品最大的不同</b>：我们开源了<b>全部失败</b>——152 条带代码的失败模式、'
     '53 份含被推翻预注册判据的实验报告。在 AI 生成内容泛滥的 2026 年，'
-    '三十秒能编一个成功故事，<b>但编不出 141 条失败记录</b>。', st_b))
+    '三十秒能编一个成功故事，<b>但编不出 152 条失败记录</b>。', st_b))
 story.append(PageBreak())
 
 # ---------------- 一、背景 ----------------
@@ -235,8 +237,39 @@ story.append(Paragraph(
 story += [Spacer(1, 2*mm), fig_img('fig1_death.png'),
           Paragraph('图 4 · 死亡是真实结局：E ≤ 0 且持续超过耐心阈值 → 运行终止，不回滚', st_cap)]
 
+# ---------------- 外挂的可用性错觉 ----------------
+story += [Spacer(1, 5*mm), Paragraph('创新五：外挂越可靠，撤走后越危险 —— 而撤走前看不出来', st_h2)]
+story.append(Paragraph(
+    '外部接口（工具、API、凭据）会替系统承担一部分工作。我们把这件事做成了可测的机制：'
+    '宿主承担摄食通道的 <font face="Courier">off</font> 比例工作，200 拍后<b>统一撤走</b>。结果两条曲线方向完全相反。', st_b))
+story.append(tbl([['外挂承担比例 off', '撤走后存活', '撤走【前】能量', '其他通道结构'],
+                  ['<b>0（无外挂）</b>', f"<b>{O1[0]['survive']:.3f}</b>", f"{O1[0]['pre_E']:.4f}", f"{O1[0]['cap_others']:.4f}"],
+                  ['0.15', f"{O1[3]['survive']:.3f}", f"{O1[3]['pre_E']:.4f}", f"{O1[3]['cap_others']:.4f}"],
+                  ['0.25', f"{O1[5]['survive']:.3f}", f"{O1[5]['pre_E']:.4f}", f"{O1[5]['cap_others']:.4f}"],
+                  ['0.30', f"{O1[6]['survive']:.3f}", f"{O1[6]['pre_E']:.4f}", f"{O1[6]['cap_others']:.4f}"],
+                  ['<b>0.50（重度依赖）</b>', f"<b>{O1[8]['survive']:.3f}</b>", f"<b>{O1[8]['pre_E']:.4f}</b>", f"<b>{O1[8]['cap_others']:.4f}</b>"]],
+                 [W*0.24, W*0.24, W*0.26, W*0.26]))
+story.append(Paragraph(
+    f"外挂越重，撤走前能量<b>越高</b>（{O1[0]['pre_E']:.4f} → {O1[8]['pre_E']:.4f}）、"
+    f"其他通道结构<b>越好</b>（{O1[0]['cap_others']:.4f} → {O1[8]['cap_others']:.4f}，这是外挂的真实收益），"
+    f"而撤走后存活率<b>越低</b>（{O1[0]['survive']:.3f} → {O1[8]['survive']:.3f}）。", st_b))
+story.append(tbl([['用撤走前的量预测"撤走后能否活下来"', '相关系数', 'AUC'],
+                  ['撤走前表观能量', f"{OFF['S3_predict']['corr_preE_alive']:+.3f}", '<b>0.308（低于随机）</b>'],
+                  ['其他通道结构（外挂的收益）', f"{OFF['S3_predict']['corr_capothers_alive']:+.3f}", '<b>0.023（近乎完美反向）</b>'],
+                  ['被卸载通道自身的结构', f"{OFF['S3_predict']['corr_cap7_alive']:+.3f}", '<b>0.939</b>']],
+                 [W*0.46, W*0.22, W*0.32]))
+story.append(Paragraph(
+    f"最终存活者与最终死亡者，撤走前的平均能量分别是 "
+    f"<b>{OFF['S3_predict']['survived_pre_E']:.4f}</b> 与 <b>{OFF['S3_predict']['dead_pre_E']:.4f}</b>"
+    '—— 差 0.0012，噪声内且方向相反。<b>只看产出，完全区分不出来。</b>', st_b))
+story.append(Paragraph(
+    "对照组（外挂全程不撤走）在 <font face='Courier'>off≥0.10</font> 时存活率<b>恒为 1.000</b>。"
+    '所以这不是"外挂有害"，而是：<b>外挂的风险全部在撤走那一刻兑现，不在使用期间。</b>', st_b))
+story += [Spacer(1, 2*mm), fig_img('061_offload.png'),
+          Paragraph('图 5 · 外挂的可用性错觉：撤走前越好，撤走后越惨', st_cap)]
+
 # ---------------- 同类平台定位差异 ----------------
-story += [PageBreak(), Paragraph('创新五：与同类平台的定位差异 —— 不是更强，是测的东西不一样', st_h1), Spacer(1, 3*mm)]
+story += [PageBreak(), Paragraph('创新六：与同类平台的定位差异 —— 不是更强，是测的东西不一样', st_h1), Spacer(1, 3*mm)]
 story.append(Paragraph(
     '赛道一里与本引擎最相近的其实不是 LangChain / Dify，而是<b>人工生命（ALife）数字演化平台</b>：'
     '<b>Avida</b>（Ofria, Bryson &amp; Wilke, 2009）、Tierra（Ray, 1991）、Evochora、Lenia。'
@@ -284,9 +317,9 @@ story.append(Paragraph(
     '(Springer), pp. 3–35, DOI 10.1007/978-1-84882-285-6_1。', st_cap))
 
 # ---------------- 失败库 ----------------
-story += [PageBreak(), Paragraph('四、我们开源了全部失败 —— 141 条带代码的失败模式', st_h1), Spacer(1, 3*mm)]
+story += [PageBreak(), Paragraph('四、我们开源了全部失败 —— 152 条带代码的失败模式', st_h1), Spacer(1, 3*mm)]
 story.append(Paragraph(
-    '<b>evidence/失败模式库/判据核.md 收录 141 条失败模式，每一条都有代码可复现。</b>'
+    '<b>evidence/失败模式库/判据核.md 收录 152 条失败模式，每一条都有代码可复现。</b>'
     '配套 53 份实验报告，每一份都记录了<b>被推翻的预注册判据</b>。', st_b))
 story.append(tbl([['失败模式', '症状', '我们栽过'],
                   ['饱和伪装成"无效应"', '信号 ×1 / ×10 / ×100，指标一字不差', '≥ 3 次'],
@@ -295,7 +328,7 @@ story.append(tbl([['失败模式', '症状', '我们栽过'],
                  [42*mm, W-42*mm-20*mm, 20*mm]))
 story.append(Paragraph(
     '在 AI 生成内容泛滥的 2026 年，任何人三十秒就能编出一个可信的成功故事。'
-    '<b>但编不出 141 条带代码的失败记录。</b> 我们认为这是开源项目最稀缺的资产类型。', st_b))
+    '<b>但编不出 152 条带代码的失败记录。</b> 我们认为这是开源项目最稀缺的资产类型。', st_b))
 story.append(Paragraph(
     '我们还公开了对第三方方法论的审计：实测证明<b>一致性系数 κ 高 ≠ 分类正确</b> —— '
     '只要评审者共享同一套坐标库，即使全体一致地指向错误坐标，κ 依然可达 0.945，'
@@ -303,7 +336,7 @@ story.append(Paragraph(
 story.append(Spacer(1, 2*mm))
 story.append(Paragraph(
     '<b>关于条数，如实说明（这一条本身就是我们主张的实践）：</b>'
-    '141 是<b>独立条目数</b>，编号范围 35–195；其中 20 处编号缺口（52、116–117、147–163）、9 个重复编号，'
+    '152 是<b>独立条目数</b>，编号范围 35–206；其中 20 处编号缺口（52、116–117、147–163）、9 个重复编号，'
     '我们<b>不回填、不重排</b>——回填即改写历史，违反"只增不减"。'
     '第 1–34 条的外部引用链已断裂，不计入本数。'
     '清点可复现：<font face="Courier">python3 tools/count_patterns.py</font>（权威脚本；旧脚本 <font face="Courier">count_criteria.py</font> 因正则漏掉行首加粗写法而少计，仅作交叉校验保留）。'
@@ -443,7 +476,7 @@ story.append(tbl([['项目', '状态'],
                   ['CONTRIBUTING.md 贡献指南', '✅ 已完备'],
                   ['README 与依赖清单', '✅ 已完备（依赖仅 numpy）'],
                   ['可运行测试', '✅ tests/test_engine.py，11 项自检'],
-                  ['失败模式库开源', '✅ 141 条，带代码可复现'],
+                  ['失败模式库开源', '✅ 152 条，带代码可复现'],
                   ['实验报告开源', '✅ 53 份，含被推翻的预注册判据'],
                   ['复现清单', '✅ docs/复现清单.md，逐条标注每个数字怎么来的'],
                   ['评委即开即用演示台', '✅ docs/demo.html，单文件零依赖，双击即开']],
