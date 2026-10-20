@@ -1,13 +1,25 @@
 # 洛神 O1 · 会死的数字生命引擎
 
-> **稀缺 · 死亡 · 不可逆 · 代谢 · 内生约束** —— 五条硬约束下的数字生命框架
+**LuoShen O1 — a mortal digital-life engine where death is a real outcome.**
+
+> 稀缺 · 死亡 · 不可逆 · 代谢 · 内生约束 —— 五条硬约束，让取舍成为**必然**，而不是选项
 >
-> 参赛：2026 开源行业解决方案创新赛 · 赛道一（开源基础软件与解决方案）
-> 负责人：朱美岩（独立开发者） · 协议：Apache-2.0
+> *Scarcity · Death · Irreversibility · Metabolism · Endogenous binding — five hard constraints that make trade-offs unavoidable, not optional.*
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green)](LICENSE)
-[![No dependency](https://img.shields.io/badge/deps-numpy%20only-orange)](requirements.txt)
+[![Deps](https://img.shields.io/badge/deps-numpy%20only-orange)](requirements.txt)
+[![Verify](https://img.shields.io/badge/verify-8s%20one%20command-brightgreen)](#一键验证不要求你信任本文档)
+
+**30 秒判断这是不是你要的** —— 开源 Agent 框架（LangChain、AutoGPT、Dify…）都在解决同一件事：
+**如何让模型更好地调用工具、规划任务、记住上下文。** 它们的共同前提是：**这个 Agent 不会死。**
+
+本引擎换掉的就是这个前提。
+
+```bash
+pip install -e . && python3 tools/verify_all.py
+# 约 8 秒，当场跑出下文全部主张 —— 不要求你信任本文档的任何一句话
+```
 
 ---
 
@@ -239,7 +251,7 @@ $ python3 tools/verify_all.py
 
 ## 我们开源了全部失败 —— 这是本仓库最贵的资产
 
-**`evidence/失败模式库/判据核.md` 收录 269 条失败模式，全部带代码可复现。**
+**`evidence/失败模式库/判据核.md` 收录 342 条失败模式，全部带代码可复现。**
 
 > **关于条数，如实说明**：152 是**独立条目数**，编号范围为 35–206。
 > 其中 56 个编号为历史跳号、9 个为重复编号，我们**不回填、不重排**——
@@ -249,7 +261,7 @@ $ python3 tools/verify_all.py
 > 我们曾对外称"195 条"，那是把**最大编号**当成了条目数——**已更正**。
 
 在 AI 生成内容泛滥的 2026 年，任何人三十秒就能编一个可信的成功故事。
-**但编不出 269 条带代码的失败记录。**
+**但编不出 342 条带代码的失败记录。**
 
 三类最常复发的失败（每一条都曾污染过我们自己的结论）：
 
@@ -259,7 +271,7 @@ $ python3 tools/verify_all.py
 | **变量静默失效** | 变量写了但没接进主通道，不报错、不崩、图照出 | 4 次以上 |
 | **相位假象** | 测量窗口恰好落在振荡的某一半，结论随取哪一代反转 | 3 次以上 |
 
-配套 71 份实验报告（`evidence/实验报告/`），每一份都记录了**被推翻的预注册判据**。
+配套 83 份实验报告（`evidence/实验报告/`），每一份都记录了**被推翻的预注册判据**。
 
 我们还公开了对第三方方法论的审计结论：
 **一致性系数 κ 高 ≠ 坐标正确** —— 只要评审者共享同一套坐标库，即使全体一致地指向错误坐标，
@@ -282,8 +294,8 @@ experiments/
 data/                     # 真实运行结果（JSON，随脚本重新生成）
 fig/                      # 结果图
 evidence/
-  失败模式库/判据核.md     # 269 条失败模式（不可变核）
-  实验报告/               # 71 份实验报告，含被推翻的预注册判据
+  失败模式库/判据核.md     # 342 条失败模式（不可变核）
+  实验报告/               # 83 份实验报告，含被推翻的预注册判据
 docs/
   作品介绍文档.md          # 参赛主文档
   复现清单.md              # reviewer checklist：每个数字怎么来的
@@ -344,6 +356,21 @@ python3 examples/governed_agent.py
 
 ---
 
+## 什么时候**不要**用它
+
+边界比卖点更重要。以下情况请直接换工具，别用本引擎：
+
+| 如果你的需求是 | 请用 |
+|---|---|
+| 一个生产可用的 Agent / RAG 应用框架 | LangChain、LlamaIndex、Dify |
+| 多智能体编排与工作流 | AutoGen、CrewAI、LangGraph |
+| 高性能推理服务 | vLLM、Ollama |
+| 一个 benchmark 分数更高的模型 | 本引擎不产出模型，也不刷分 |
+| 开箱即用的业务能力 | 本引擎是**约束层**，不是应用层 |
+
+**它是什么**：一层可以挂到任何框架之上的**约束层**——给不会死的系统装上稀缺、死亡与不可逆。
+**它不是什么**：不是又一个 Agent 框架，不替代上面任何一个。
+
 ## 已知未做的事（诚实清单）
 
 1. 引擎为**规则层实现**，不构成"洛神已具备个体性"的证据。个体性在我们自己的判据下**仍未闭合**（见 `evidence/失败模式库/判据核.md` 第一条）
@@ -377,3 +404,13 @@ python3 examples/governed_agent.py
 ## 许可
 
 Apache License 2.0 —— 详见 [LICENSE](LICENSE)
+
+---
+
+## 关于本作品的提交信息
+
+- 参赛：2026 开源行业解决方案创新赛 · 赛道一（开源基础软件与解决方案）
+- 负责人：朱美岩（独立开发者）
+- 协议：Apache-2.0
+
+（放在文末而非首屏：首屏留给"这是什么、怎么在 30 秒内自己验证"。）
