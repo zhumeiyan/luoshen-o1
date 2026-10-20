@@ -38,6 +38,47 @@ NCH = 8
 RATIO = 0.45
 SEEDS = list(range(16))
 
+# ---- 真实对照数据（2026-10-20 现场跑出，非估算）----
+# 5 个最小样例 × (ruff 0.17.1 --select ALL) × (evalguard JS 引擎，node v20)
+BENCH = {
+    'ruff_version': 'ruff 0.17.1 --select ALL',
+    'cases': [
+        {'file': 'eg001_no_seed.py', 'truth': 'EG001 随机 API 无 seed',
+         'ruff': '未报（仅 D100 / I001 风格类）', 'ruff_hit': False,
+         'eg': 'EG001 ✓', 'eg_hit': True, 'cls': '语法'},
+        {'file': 'eg006_bare_except.py', 'truth': 'EG006 bare except 吞掉失败',
+         'ruff': 'E722 ✓', 'ruff_hit': True,
+         'eg': 'EG006 BLOCKER ✓', 'eg_hit': True, 'cls': '语法'},
+        {'file': 'eg005_div_no_guard.py', 'truth': 'EG005 除法无分母保护',
+         'ruff': '未报（仅 ANN / D 注解类）', 'ruff_hit': False,
+         'eg': 'EG005 ×3 行 ✓', 'eg_hit': True, 'cls': '语法'},
+        {'file': 'eg002_no_baseline.py', 'truth': 'EG002 报 accuracy 但无随机基线',
+         'ruff': '未报（仅 D100 / I001）', 'ruff_hit': False,
+         'eg': '需开方法论类才命中', 'eg_hit': False, 'cls': '方法论'},
+        {'file': 'eg016_no_reachability.py', 'truth': 'EG016 依赖外网无可达性重测',
+         'ruff': 'S310（沾边：可疑 url open）', 'ruff_hit': False,
+         'eg': '需开方法论类才命中', 'eg_hit': False, 'cls': '方法论'},
+    ],
+    'ruff_total': 39,          # 5 个文件上 ruff --select ALL 的全部命中条数
+    'ruff_substantive': 2,     # 其中与"评测会静默出错"实质相关的（E722 + S310 沾边）
+    'ruff_rule_hist': [        # 命中代码分布
+        ('ANN001 缺类型注解', 9), ('D103 缺函数文档串', 6), ('ANN201 缺返回注解', 6),
+        ('T201 用了 print', 5), ('D100 缺模块文档串', 5), ('CPY001 缺版权声明', 5),
+        ('I001 import 未排序', 3), ('E722 bare except', 1), ('S310 可疑 url open', 1),
+        ('PTH123 应用 Path.open', 1), ('E741 变量名歧义', 1), ('B905 zip 缺 strict', 1),
+    ],
+}
+
+# ---- 页面内嵌试用台的预置样例 ----
+SAMPLES = [
+    {'name': '① 报告 accuracy 但没有任何基线', 'file': 'eg002_no_baseline.py'},
+    {'name': '② bare except 吞掉失败', 'file': 'eg006_bare_except.py'},
+    {'name': '③ 除法没有分母保护', 'file': 'eg005_div_no_guard.py'},
+    {'name': '④ 用了 random 但没设 seed', 'file': 'eg001_no_seed.py'},
+    {'name': '⑤ 结论依赖外网抓取且无复核', 'file': 'eg016_no_reachability.py'},
+    {'name': '⑥ 一段干净代码（应当零命中）', 'file': 'clean_ok.py'},
+]
+
 
 def struct_skew(lf):
     c = np.asarray(lf.log[-1]['capv'], float)
@@ -111,7 +152,23 @@ def main():
         },
     }
 
+    # ---- 注入：JS 引擎（与 node 验证脚本同源，勿手改 HTML 副本）----
+    with open(os.path.join(ROOT, 'experiments', 'eg_js', 'egjs.js'),
+              encoding='utf-8') as f:
+        egjs = f.read()
+    # ---- 注入：预置样例 ----
+    sdir = os.path.join(ROOT, 'experiments', 'eg_js', 'samples')
+    samples = []
+    for s in SAMPLES:
+        p = os.path.join(sdir, s['file'])
+        if os.path.exists(p):
+            with open(p, encoding='utf-8') as f:
+                samples.append({'name': s['name'], 'src': f.read()})
+    data['bench'] = BENCH
+    data['samples'] = samples
+
     html = TEMPLATE.replace('/*__DATA__*/', json.dumps(data, ensure_ascii=False))
+    html = html.replace('/*__EGJS__*/', egjs)
     out = os.path.join(ROOT, 'docs', 'demo.html')
     with open(out, 'w', encoding='utf-8') as f:
         f.write(html)
@@ -198,6 +255,30 @@ li{margin:5px 0;font-size:14.5px}
  border:1px solid #30363d;color:#9aa4b2;margin-right:6px}
 .badge.ok{border-color:#2f6b45;color:#4ade80}
 .badge.no{border-color:#7a2b2b;color:#ff8f8f}
+textarea{width:100%;min-height:190px;background:#0b0e13;border:1px solid #232a34;
+ border-radius:8px;color:#c9d1d9;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;
+ font-size:13px;line-height:1.6;padding:12px;resize:vertical;margin-top:10px}
+textarea:focus{outline:none;border-color:#2d6cdf}
+.rules{display:flex;flex-wrap:wrap;gap:6px 14px;margin:12px 0 4px;font-size:12.5px}
+.rules label{display:flex;align-items:center;gap:5px;color:#828c9b;cursor:pointer}
+.rules label.off{opacity:.55}
+.rules input{accent-color:#2d6cdf}
+.find{background:#0b0e13;border:1px solid #232a34;border-radius:8px;
+ padding:12px 14px;margin-top:10px;border-left:3px solid #30363d}
+.find.blocker{border-left-color:#ff6b6b}
+.find.warn{border-left-color:#d29922}
+.find.info{border-left-color:#2d6cdf}
+.find .h{font-size:14px;font-weight:600;color:#e6e9ef;margin-bottom:3px}
+.find .h .sev{font-size:11px;padding:1px 6px;border-radius:4px;margin-right:7px;font-weight:700}
+.find .sev.blocker{background:#7a2b2b;color:#ffc9c9}
+.find .sev.warn{background:#7a5a1b;color:#ffe4a3}
+.find .sev.info{background:#24406e;color:#cfe0ff}
+.find .why{font-size:13px;color:#9aa4b2;margin:4px 0}
+.find .fix{font-size:13px;color:#4ade80}
+.find pre{margin:8px 0 0;background:#11151b;padding:8px 10px;font-size:12.5px}
+.find .ln{color:#5b6573}
+.clean{background:#0e1a12;border:1px solid #2f6b45;border-radius:8px;padding:14px;
+ color:#4ade80;font-size:14.5px;margin-top:12px}
 .grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px}
 footer{padding:30px 20px 50px;color:#6b7480;font-size:13px;text-align:center}
 .pill{display:inline-block;background:#1b2129;border:1px solid #232a34;
@@ -213,6 +294,8 @@ footer{padding:30px 20px 50px;color:#6b7480;font-size:13px;text-align:center}
     <a href="#ablation">消融对照</a>
     <a href="#vs">同类对比</a>
     <a href="#landing">落地</a>
+    <a href="#try"><b>现场试用</b></a>
+    <a href="#vsruff">对标 ruff</a>
     <a href="#reproduce">一键复现</a>
   </nav>
   <a class="gh" href="https://github.com/zhumeiyan/luoshen-o1" target="_blank" rel="noopener">GitHub ↗</a>
@@ -224,8 +307,8 @@ footer{padding:30px 20px 50px;color:#6b7480;font-size:13px;text-align:center}
   <p class="lede">其它 Agent 框架的前提是「它不会死」。本引擎换掉的正是这个前提：
   稀缺 · 死亡 · 不可逆 · 代谢 · 内生约束，五条硬约束下，<b>不做取舍的系统不会产生偏好，也不会形成结构</b>。</p>
   <div class="cta">
-    <a class="p1" href="#run">现场跑一遍 →</a>
-    <a class="p2" href="#reproduce">自己复现数字</a>
+    <a class="p1" href="#try">粘一段评测脚本，当场扫 →</a>
+    <a class="p2" href="#vsruff">它和 ruff 差在哪</a>
   </div>
   <div class="stats">
     <div class="stat"><b id="s1">—</b><span>16 个体中存活 / 总数</span></div>
@@ -340,8 +423,47 @@ footer{padding:30px 20px 50px;color:#6b7480;font-size:13px;text-align:center}
   </div>
 </div></section>
 
+<section id="try"><div class="wrap">
+  <div class="sec-head"><span class="no">07</span><h2>现场试用 · 粘一段评测脚本，当场扫</h2></div>
+  <p class="sec-sub">不用装、不用注册、不发到任何服务器 —— 扫描就在你浏览器里跑。</p>
+  <div class="card">
+    <div class="btns" id="sampbtns"></div>
+    <textarea id="code" spellcheck="false" placeholder="把你的 Python 评测脚本粘在这里…"></textarea>
+    <div class="btns" style="margin-top:10px">
+      <button id="doScan" style="background:#2d6cdf;color:#fff;border-color:#2d6cdf;padding:8px 18px;font-weight:600">扫描</button>
+      <button id="doClear">清空</button>
+      <span style="font-size:13px;color:#828c9b;align-self:center;margin-left:6px" id="ruleToggleLabel"></span>
+    </div>
+    <div class="rules" id="ruleBox"></div>
+    <div id="result"></div>
+    <div class="note">规则默认只开<b>语法类</b>。129 号实测：语法类在真实语料上命中 18/20，
+    方法论类只有 1/55 —— 所以方法论类<b>默认关着</b>，但你可以勾开看它说什么，
+    以及我为什么不敢把它卖给你。</div>
+  </div>
+</div></section>
+
+<section id="vsruff"><div class="wrap">
+  <div class="sec-head"><span class="no">08</span><h2>对标 · 为什么不用 ruff 就够了</h2></div>
+  <p class="sec-sub">先说结论：你该用 ruff。我跑在它<b>旁边</b>，不是替代它。</p>
+  <div class="card">
+    <table>
+      <tr><th>样例</th><th>真相</th><th id="rv">—</th><th>evalguard（本页引擎）</th></tr>
+      <tbody id="benchbody"></tbody>
+    </table>
+    <div class="note warn"><b><span id="rt">—</span> 条命中里，实质相关的只有 <span id="rs">—</span> 条。</b>
+    其余全是文档串、类型注解、import 排序 —— 那些该管，但它们管的是「代码好不好看」，
+    不是「这个评测结论是不是静默错的」。</div>
+  </div>
+  <div class="card">
+    <div style="font-size:14.5px;margin-bottom:10px"><b>ruff 那 <span id="rt2">—</span> 条命中都落在哪</b></div>
+    <div id="hist"></div>
+    <div class="note">bare except（E722）是唯一重叠的 —— 而且 ruff 报它的理由是 pycodestyle 规范，
+    我报它的理由是「它吞掉了本该上报表面的失败」。同一行代码，两种关切。</div>
+  </div>
+</div></section>
+
 <section id="reproduce"><div class="wrap">
-  <div class="sec-head"><span class="no">07</span><h2>一键复现 · 每个数字的来源都在这里</h2></div>
+  <div class="sec-head"><span class="no">09</span><h2>一键复现 · 每个数字的来源都在这里</h2></div>
   <p class="sec-sub">你不需要相信本页任何一句话。跑一遍，逐位相同。</p>
   <div class="card">
     <pre>git clone https://github.com/zhumeiyan/luoshen-o1.git &amp;&amp; cd luoshen-o1
@@ -368,6 +490,7 @@ python3 tools/count_patterns.py      # 失败模式条数（权威口径）</pre
 
 <script>
 const D = /*__DATA__*/;
+/*__EGJS__*/
 
 /* ---------- hero 数字 ---------- */
 document.querySelector('#s1').textContent = (D.n_total - D.n_deaths) + ' / ' + D.n_total;
@@ -536,6 +659,98 @@ abl('on');
   document.querySelector('#P1').textContent = `实验报告 ${D.landing.reports} 份`;
   document.querySelector('#P2').textContent = `实验目录 ${D.landing.expdirs} 个`;
   document.querySelector('#P3').textContent = `含「作废」字样 ${D.landing.voided} 份`;
+})();
+
+/* ---------- 08 对标 ruff ---------- */
+(function(){
+  const b = D.bench;
+  document.querySelector('#rv').textContent = b.ruff_version;
+  ['rt','rt2'].forEach(id => document.querySelector('#'+id).textContent = b.ruff_total);
+  document.querySelector('#rs').textContent = b.ruff_substantive;
+  document.querySelector('#benchbody').innerHTML = b.cases.map(c => `
+    <tr>
+      <td><code>${c.file}</code><br><span style="font-size:12px;color:#828c9b">${c.cls}类</span></td>
+      <td style="font-size:13px">${c.truth}</td>
+      <td style="color:${c.ruff_hit?'#4ade80':'#828c9b'}">${c.ruff}</td>
+      <td style="color:${c.eg_hit?'#4ade80':'#d29922'}">${c.eg}</td>
+    </tr>`).join('');
+  const mx = Math.max.apply(null, b.ruff_rule_hist.map(x => x[1]));
+  document.querySelector('#hist').innerHTML = b.ruff_rule_hist.map(([k,v]) => {
+    const hot = /E722|S310/.test(k);
+    return `<div style="display:flex;align-items:center;gap:9px;margin:4px 0">
+      <span style="width:150px;font-size:12.5px;color:${hot?'#4ade80':'#828c9b'};flex:none">${k}</span>
+      <span style="flex:1;height:11px;background:#11151b;border-radius:3px;overflow:hidden">
+        <span style="display:block;height:100%;width:${(v/mx*100).toFixed(0)}%;background:${hot?'#2f6b45':'#2b333d'}"></span>
+      </span>
+      <span style="width:26px;text-align:right;font-size:12.5px;color:${hot?'#4ade80':'#828c9b'}">${v}</span>
+    </div>`;
+  }).join('');
+})();
+
+/* ---------- 07 现场试用台 ---------- */
+(function(){
+  const ta = document.querySelector('#code');
+  const res = document.querySelector('#result');
+  const box = document.querySelector('#ruleBox');
+
+  /* 规则开关：默认跟随 egjs.js 的 on，方法论类默认关 */
+  const opts = {};
+  function buildRules(){
+    box.innerHTML = EG_RULES.map(r => `
+      <label class="${r.on?'':'off'}">
+        <input type="checkbox" data-id="${r.id}" ${r.on?'checked':''}>
+        ${r.id}
+        <span style="font-size:11px;color:${r.cls==='method'?'#d29922':'#5b6573'}">
+          ${r.cls==='method'?'(方法论·实测弱)':''}</span>
+      </label>`).join('');
+    box.querySelectorAll('input').forEach(i => {
+      i.onchange = () => { opts[i.dataset.id] = i.checked;
+                           i.parentElement.classList.toggle('off', !i.checked); };
+    });
+    const off = EG_RULES.filter(r => !r.on).map(r => r.id).join(' / ');
+    document.querySelector('#ruleToggleLabel').textContent = '默认关着：' + off;
+  }
+  buildRules();
+
+  function render(){
+    const src = ta.value;
+    if (!src.trim()){ res.innerHTML = ''; return; }
+    const r = egScan(src, opts);
+    if (!r.findings.length){
+      res.innerHTML = `<div class="clean">✓ 干净 —— 当前开启的规则没有命中（${r.lines} 行）。
+        这不代表你的评测一定对，只代表这几条没查出问题。</div>`;
+      return;
+    }
+    res.innerHTML =
+      `<div class="kv" style="margin-top:12px">
+        <span><b style="color:#ff6b6b">${r.counts.blocker}</b> blocker</span>
+        <span><b style="color:#d29922">${r.counts.warn}</b> warn</span>
+        <span><b style="color:#4da3ff">${r.counts.info}</b> info</span>
+        <span>共 <b>${r.lines}</b> 行</span>
+      </div>` +
+      r.findings.map(f => `
+        <div class="find ${f.sev}">
+          <div class="h"><span class="sev ${f.sev}">${f.sev.toUpperCase()}</span>
+            ${f.id} · ${f.title}</div>
+          <div class="why">${f.why}</div>
+          <div class="fix">→ ${f.fix}</div>
+          <pre>${f.hits.slice(0,6).map(h =>
+            `<span class="ln">L${String(h.line).padStart(3)}</span>  ${h.code.replace(/&/g,'&amp;').replace(/</g,'&lt;')}`).join('\n')}</pre>
+        </div>`).join('');
+  }
+
+  document.querySelector('#doScan').onclick = render;
+  document.querySelector('#doClear').onclick = () => { ta.value=''; res.innerHTML=''; };
+
+  const sb = document.querySelector('#sampbtns');
+  D.samples.forEach((s,i) => {
+    const b = document.createElement('button');
+    b.textContent = s.name;
+    b.onclick = () => { ta.value = s.src; [...sb.children].forEach(c=>c.classList.remove('on'));
+                        b.classList.add('on'); render(); };
+    sb.appendChild(b);
+  });
+  if (sb.children[0]){ sb.children[0].classList.add('on'); ta.value = D.samples[0].src; render(); }
 })();
 </script>
 </body>
