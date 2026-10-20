@@ -1,46 +1,8 @@
 <!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>控制台 · 洛神 O1</title><style>
-*{box-sizing:border-box;margin:0;padding:0}
-body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
- background:#0d1117;color:#e6edf3;line-height:1.7;padding:20px 14px 92px}
-.wrap{max-width:880px;margin:0 auto}
-h1{font-size:23px;font-weight:700} .en{font-size:13px;color:#8b949e;margin-top:5px}
-h2{font-size:16px;margin:28px 0 12px;padding-bottom:8px;border-bottom:1px solid #21262d}
-.kpis{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px;margin:16px 0}
-.kpi{background:#161b22;border:1px solid #30363d;border-radius:10px;padding:12px 14px}
-.kpi .n{font-size:22px;font-weight:700;color:#58a6ff;line-height:1.2}
-.kpi .l{font-size:11px;color:#8b949e;margin-top:3px}
-table{width:100%;border-collapse:collapse;font-size:13px;margin-top:6px}
-th,td{text-align:left;padding:7px 10px;border-bottom:1px solid #21262d}
-th{color:#8b949e;font-weight:500;font-size:12px}
-td.n{text-align:right;font-family:ui-monospace,monospace;color:#7ee787}
-.ok{color:#3fb950} .no{color:#f85149} .wn{color:#d29922}
-code{background:#161b22;border:1px solid #30363d;border-radius:5px;padding:1px 6px;
- font-family:ui-monospace,monospace;font-size:12px;color:#7ee787}
-.cmd{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:13px 15px;
- font-family:ui-monospace,monospace;font-size:12.5px;color:#7ee787;overflow-x:auto;
- white-space:pre;margin:10px 0}
-.note{font-size:12px;color:#8b949e;background:#161b22;border-left:3px solid #d29922;
- padding:10px 14px;border-radius:0 6px 6px 0;margin-top:12px}
-.bad{font-size:12px;color:#8b949e;background:#161b22;border-left:3px solid #f85149;
- padding:10px 14px;border-radius:0 6px 6px 0;margin-top:12px}
-a{color:#58a6ff;text-decoration:none} a:hover{text-decoration:underline}
-pre.log{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:12px 14px;
- font-size:11.5px;color:#8b949e;overflow-x:auto;max-height:340px;overflow-y:auto;
- font-family:ui-monospace,monospace;line-height:1.55}
-/* 底部四 Tab —— 对齐华为云控制台那一层结构 */
-nav{position:fixed;left:0;right:0;bottom:0;background:#161b22;border-top:1px solid #30363d;
- display:flex;z-index:99;padding-bottom:env(safe-area-inset-bottom)}
-nav a{flex:1;text-align:center;padding:11px 4px 9px;font-size:12px;color:#8b949e;
- text-decoration:none;border-top:2px solid transparent}
-nav a .i{display:block;font-size:17px;margin-bottom:1px}
-nav a.on{color:#58a6ff;border-top-color:#2f81f7;background:#0d1117}
-nav a:hover{text-decoration:none;color:#c9d1d9}
-.hashbox{font-family:ui-monospace,monospace;font-size:10.5px;color:#484f58;
- word-break:break-all;margin-top:16px;padding-top:12px;border-top:1px solid #21262d}
-</style></head><body><div class="wrap">
-<h1>控制台</h1><div class="en">实时读数 · 全部当场实测，附哈希可复算</div>
+<title>控制台 · 洛神 O1</title><link rel="stylesheet" href="theme.css">
+</head><body><div class="wrap">
+<h1 class="page__title">控制台</h1><div class="en">实时读数 · 全部当场实测，附哈希可复算</div>
 <div class="kpis"><div class="kpi"><div class="n">25/25</div><div class="l">一键验证通过</div></div><div class="kpi"><div class="n">7.4s</div><div class="l">验证耗时</div></div><div class="kpi"><div class="n">190</div><div class="l">实验累计</div></div><div class="kpi"><div class="n">204</div><div class="l">实验报告</div></div><div class="kpi"><div class="n">1235</div><div class="l">python 脚本</div></div><div class="kpi"><div class="n">9514</div><div class="l">判据核行数</div></div><div class="kpi"><div class="n">19</div><div class="l">GitHub 仓库</div></div><div class="kpi"><div class="n">0</div><div class="l">star 合计</div></div></div>
 <div class="note"><b>这一页没有一个是文档里抄来的。</b>
 控制台读的是 <code>python3 名片/probe.py</code> 当场跑出的结果，
@@ -91,4 +53,4 @@ nav a:hover{text-decoration:none;color:#c9d1d9}
 <h2>⑤ 这一页自己的失败</h2>
 <div class="bad"><b>我无法验证自己产出的哈希是否被任何外部方独立计算过</b><br>证据：本页所有数字由我在此机器 cubebox- 于 2026-10-20 17:36:38 采集，但从未有外部方回报过同名值<br>影响：控制台的『已验证』只代表我这边跑通了，不代表外部复核过</div>
 <div class="hashbox">数据源哈希 sha256: 94a16082dade88163409dfc6c8af1e00d986a9ec7c7b2f239bcf56e0c86e3903<br>采集于 2026-10-20 17:36:38 · cubebox-
- · 全部数字当场实测，非文档摘录</div></div><nav><a href="index.html" class=""><span class="i">◎</span>探索</a><a href="helper.html" class=""><span class="i">◈</span>助手</a><a href="console.html" class="on"><span class="i">▤</span>控制台</a><a href="mine.html" class=""><span class="i">◕</span>我的</a></nav></body></html>
+ · 全部数字当场实测，非文档摘录</div></div><nav><a href="index.html"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M15.5 8.5l-2 5-5 2 2-5z"/></svg>探索</a><a href="helper.html"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4 3.6-6 8-6s8 2 8 6"/></svg>助手</a><a href="console.html" class="on"><svg viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>控制台</a><a href="live.html"><svg viewBox="0 0 24 24"><path d="M2 12h4l3-7 4 14 3-7h6"/></svg>实时</a><a href="mine.html"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="10" r="3"/><path d="M6 20c1.5-3.5 3.5-5 6-5s4.5 1.5 6 5"/></svg>我的</a></nav></body></html>
