@@ -13,6 +13,7 @@
         python3 serve.py 9000      → 换端口
 """
 import os, sys, json, time, hashlib, subprocess, threading, socketserver
+import re, base64, urllib.request, urllib.error, zipfile, io
 from http.server import SimpleHTTPRequestHandler
 from urllib.parse import urlparse, parse_qs
 from datetime import datetime
@@ -190,9 +191,183 @@ def engine_voice(text):
     }
 
 
+# ── 外部接入：抓取 / Skill / API ─────────────────────────────────
+# 客户端发东西过来，得有地方接。这三格是"接进来"的能力。
+
+INGEST_DIR = os.path.join(ROOT, "接收")
+os.makedirs(INGEST_DIR, exist_ok=True)
+
+
+def _http(url, method="GET", body=None, ctype="application/json", timeout=30):
+    req = urllib.request.Request(url, method=method)
+    req.add_header("User-Agent", "LuoShen-O1/1.0")
+    if body is not None:
+        b = body.encode() if isinstance(body, str) else body
+        req.add_header("Content-Type", ctype)
+    else:
+        b = None
+    t0 = time.time()
+    try:
+        r = urllib.request.urlopen(req, b, timeout=timeout)
+        raw = r.read()
+        return {"ok": True, "rc": r.status, "bytes": len(raw),
+                "sec": round(time.time() - t0, 2), "raw": raw,
+                "ctype": r.headers.get("Content-Type", "")}
+    except urllib.error.HTTPError as e:
+        return {"ok": False, "rc": e.code, "err": e.reason,
+                "sec": round(time.time() - t0, 2)}
+    except Exception as e:
+        return {"ok": False, "err": repr(e)[:200], "sec": round(time.time() - t0, 2)}
+
+
+def engine_fetch(url):
+    """抓取：真抓网页，剥标签，返回正文 + 字节哈希。"""
+    if not (url or "").startswith(("http://", "https://")):
+        return {"ok": False, "未实现": "需要 http/https 开头的 url"}
+    r = _http(url)
+    if not r["ok"]:
+        return r
+    raw = r["raw"]
+    try:
+        txt = raw.decode("utf-8", "ignore")
+    except Exception:
+        txt = ""
+    enc = (r["ctype"] or "").lower()
+    if "html" in enc or txt[:200].lower().find("<html") >= 0:
+        title = re.search(r"<title[^>]*>(.*?)</title>", txt, re.S | re.I)
+        body = re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>", " ", txt)
+        body = re.sub(r"(?s)<[^>]+>", " ", body)
+        body = re.sub(r"&[a-z#0-9]{2,8};", " ", body)
+        body = re.sub(r"\s+", " ", body).strip()
+        return {"ok": True, "引擎": "fetch", "url": url,
+                "标题": (title.group(1).strip()[:200] if title else ""),
+                "字节": r["bytes"], "秒": r["sec"],
+                "正文": body[:1500], "正文长度": len(body),
+                "哈希": hashlib.sha256(raw).hexdigest()[:16]}
+    return {"ok": True, "引擎": "fetch", "url": url, "字节": r["bytes"],
+            "秒": r["sec"], "类型": r["ctype"],
+            "正文": txt[:1500],
+            "哈希": hashlib.sha256(raw).hexdigest()[:16]}
+
+
+SKILL_DIR = os.path.join(ROOT, "协议/skill/installed")
+os.makedirs(SKILL_DIR, exist_ok=True)
+
+
+def engine_skill(src):
+    """接 Skill：给 zip 路径或 URL，装进来。
+
+    装完要能证明它真的存在：SKILL.md + 文件数 + 清单哈希。"""
+    src = (src or "").strip()
+    if not src:
+        return {"ok": False, "未实现": "需要 zip 路径或 URL"}
+    import zipfile, io
+    raw = None
+    if src.startswith(("http://", "https://")):
+        r = _http(src, timeout=60)
+        if not r["ok"]:
+            return {"ok": False, "错误": "下载失败", "详情": r}
+        raw = r["raw"]
+        name = src.rsplit("/", 1)[-1]
+    else:
+        if not os.path.isfile(src):
+            return {"ok": False, "未实现": "文件不存在: " + src}
+        raw = open(src, "rb").read()
+        name = os.path.basename(src)
+    try:
+        z = zipfile.ZipFile(io.BytesIO(raw))
+    except Exception as e:
+        return {"ok": False, "错误": "不是有效 zip", "详情": repr(e)[:150]}
+    bad = z.testzip()
+    if bad:
+        return {"ok": False, "错误": "zip 损坏", "文件": bad}
+    names = z.namelist()
+    skill_md = [n for n in names if n.lower().endswith("skill.md")]
+    target = os.path.join(SKILL_DIR, re.sub(r"\.zip$", "", name))
+    z.extractall(target)
+    # 装完立刻自检：读 frontmatter 的 name / description
+    info = {}
+    if skill_md:
+        try:
+            t = z.read(skill_md[0]).decode("utf-8", "ignore")
+            m = re.search(r"^name:\s*(.+)$", t, re.M)
+            d = re.search(r"^description:\s*(.+)$", t, re.M)
+            info = {"skill名": m.group(1).strip() if m else "?",
+                    "有description": bool(d),
+                    "正文行": len(t.splitlines())}
+        except Exception as e:
+            info = {"读frontmatter失败": repr(e)[:100]}
+    return {"ok": True, "引擎": "skill-install", "来源": src,
+            "zip哈希": hashlib.sha256(raw).hexdigest()[:16],
+            "文件数": len(names), "SKILL.md数": len(skill_md),
+            "装到": os.path.relpath(target, ROOT),
+            "磁盘校验": os.path.isdir(target),
+            "frontmatter": info,
+            "已装的": sorted(os.listdir(SKILL_DIR))}
+
+
+def engine_api(spec):
+    """接 API：真调一个外部接口。spec 可以是 url，或 JSON。"""
+    spec = (spec or "").strip()
+    if not spec:
+        return {"ok": False, "未实现": "需要 url 或 JSON spec"}
+    url, method, body = spec, "GET", None
+    if spec.startswith("{"):
+        try:
+            j = json.loads(spec)
+            url = j.get("url", ""); method = j.get("method", "GET").upper()
+            body = json.dumps(j["body"]) if "body" in j else None
+        except Exception as e:
+            return {"ok": False, "错误": "spec 解析失败: " + repr(e)[:100]}
+    if not url.startswith(("http://", "https://")):
+        return {"ok": False, "未实现": "需要 http/https url"}
+    r = _http(url, method=method, body=body)
+    if not r["ok"]:
+        return {"ok": False, **{k: v for k, v in r.items() if k != "raw"}}
+    txt = r["raw"].decode("utf-8", "ignore")[:1200]
+    return {"ok": True, "引擎": "api-call", "url": url, "method": method,
+            "rc": r["rc"], "字节": r["bytes"], "秒": r["sec"],
+            "响应": txt, "哈希": hashlib.sha256(r["raw"]).hexdigest()[:16]}
+
+
+def engine_ingest(payload):
+    """客户端推送接收端：文本 / 图片 / 文件 / 事件，统一落盘带哈希。
+
+    这是"客户端发的时候得有地方接"的那一格。"""
+    p = payload or {}
+    kind = (p.get("kind") or "text").lower()
+    ts = datetime.now().strftime("%Y%m%d-%H%M%S-%f")
+    if kind in ("image", "file"):
+        b64 = p.get("b64", "")
+        if not b64:
+            return {"ok": False, "未实现": "image/file 需要 b64"}
+        raw = base64.b64decode(b64.split(",")[-1])
+        ext = "." + ((p.get("ext") or "bin").lstrip("."))
+        fn = os.path.join(INGEST_DIR, "%s-%s%s" % (ts, kind, ext))
+        open(fn, "wb").write(raw)
+        rec = {"kind": kind, "file": os.path.relpath(fn, ROOT),
+               "bytes": len(raw), "sha256": hashlib.sha256(raw).hexdigest()}
+        if kind == "image":
+            rec.update(engine_image(b64))
+    else:
+        text = p.get("text", "")
+        if not text:
+            return {"ok": False, "未实现": "text 需要 text 字段"}
+        fn = os.path.join(INGEST_DIR, "%s-%s.json" % (ts, kind))
+        rec = {"kind": kind, "ts": ts, "text": text,
+               "sha256": hashlib.sha256(text.encode()).hexdigest()}
+        json.dump(rec, open(fn, "w", encoding="utf-8"),
+                  ensure_ascii=False, indent=1)
+        rec["file"] = os.path.relpath(fn, ROOT)
+    rec["已收"] = len(os.listdir(INGEST_DIR))
+    return {"ok": True, "引擎": "ingest", **rec}
+
+
 ENGINES = {"verify": engine_verify, "scan": engine_scan,
            "console": engine_console, "prove": engine_prove,
-           "ask": engine_ask, "image": engine_image, "voice": engine_voice}
+           "ask": engine_ask, "image": engine_image, "voice": engine_voice,
+           "fetch": engine_fetch, "skill": engine_skill,
+           "api": engine_api, "ingest": engine_ingest}
 ENGINES_REF = ENGINES
 
 # ── 契约层：前端只认这一层 ────────────────────────────────────────
@@ -244,6 +419,10 @@ class API(SimpleHTTPRequestHandler):
             # image 引擎收的是图片 base64，不是 text
             if name == "image":
                 return self._json(ENGINES["image"](body.get("b64", "")))
+            if name == "ingest":
+                return self._json(ENGINES["ingest"](body))
+            if name in ("fetch", "skill", "api"):
+                return self._json(ENGINES[name](body.get("spec") or arg))
             return self._json(ENGINES[name](arg) if name in ("scan", "prove", "ask", "voice")
                               else ENGINES[name]())
         return self._json({"ok": False, "未实现": "POST 只接 /api/run/*"}, 404)
