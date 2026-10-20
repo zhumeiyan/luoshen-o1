@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>evalguard — catch silent failures in your LLM eval harness</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:#1a1d21;background:#fff}
+.wrap{max-width:820px;margin:0 auto;padding:0 24px}
+header{border-bottom:1px solid #e6e8eb;padding:56px 0 40px}
+h1{font-size:38px;line-height:1.2;margin:0 0 14px;letter-spacing:-.02em}
+.tag{font-size:19px;color:#5b6470;margin:0 0 26px;max-width:620px}
+.cta{display:inline-block;background:#1a1d21;color:#fff;padding:13px 26px;border-radius:7px;text-decoration:none;font-weight:600;font-size:15px}
+.cta:hover{background:#343a42}
+.sec{padding:44px 0;border-bottom:1px solid #e6e8eb}
+h2{font-size:23px;margin:0 0 18px;letter-spacing:-.01em}
+h3{font-size:17px;margin:26px 0 8px}
+p{margin:0 0 14px;color:#3c4450}
+ul{margin:0 0 14px;padding-left:22px;color:#3c4450}
+li{margin-bottom:7px}
+code{background:#f3f5f7;padding:2px 6px;border-radius:4px;font:13.5px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace}
+pre{background:#f7f8fa;border:1px solid #e6e8eb;border-radius:8px;padding:16px 18px;overflow-x:auto;font:13.5px/1.6 ui-monospace,SFMono-Regular,Menlo,monospace;margin:0 0 16px;color:#1a1d21}
+table{width:100%;border-collapse:collapse;margin:0 0 16px;font-size:15px}
+th,td{text-align:left;padding:10px 12px;border-bottom:1px solid #e6e8eb;vertical-align:top}
+th{font-size:13px;text-transform:uppercase;letter-spacing:.04em;color:#6b7480;font-weight:600}
+.tier{border:1px solid #e6e8eb;border-radius:10px;padding:22px 24px;margin-bottom:16px}
+.tier.best{border-color:#1a1d21;border-width:2px}
+.price{font-size:29px;font-weight:700;letter-spacing:-.02em}
+.price span{font-size:15px;font-weight:400;color:#6b7480}
+.tname{font-size:17px;font-weight:600;margin-bottom:4px}
+.note{background:#f7f8fa;border-left:3px solid #1a1d21;padding:14px 18px;margin:18px 0;font-size:14.5px;color:#3c4450;border-radius:0 6px 6px 0}
+.pay{background:#fbfcfd;border:1px solid #e6e8eb;border-radius:10px;padding:22px 24px}
+.kv{display:flex;gap:14px;margin-bottom:9px;font-size:15px;flex-wrap:wrap}
+.kv b{min-width:150px;font-weight:600}
+.kv code{background:#fff;border:1px solid #e0e3e7}
+footer{padding:36px 0 60px;color:#8b939e;font-size:14px}
+.warn{color:#8a4b00}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+<header>
+  <h1>evalguard</h1>
+  <p class="tag">A static checker for LLM &amp; agent evaluation scripts. It finds the bugs that don't crash your code — the ones that quietly make your numbers mean something else.</p>
+  <a class="cta" href="#freescan">Try it free — paid tiers paused</a>
+  <p style="margin:16px 0 0;font-size:14px;color:#6b7480">Pay by Alipay cross-border remittance · automated delivery in ~30 seconds</p>
+</header>
+
+<div class="sec">
+  <h2>The failure mode this catches</h2>
+  <p>Your eval script runs. It exits 0. It prints a table. The numbers look plausible. Six weeks later someone discovers the baseline was never actually computed, or <code>except: pass</code> swallowed every real error, or recall was measured on the same corpus the model was tuned on.</p>
+  <p>Nothing crashed. That's exactly why nobody noticed. evalguard reads the source and flags those patterns before you trust the result.</p>
+
+  <h3>What it looks like</h3>
+<pre>$ evalguard train_eval.py
+
+[WARN ] EG005  L24  hits / len(golds)            — denominator not guarded
+[WARN ] EG006  L29  bare/silent except            — real errors become clean runs
+[WARN ] EGP01  L38  silent handler in scoring loop
+
+3 findings — exit code 0 (warnings do not fail the build by default)</pre>
+  <p style="font-size:14px;color:#6b7480">Three rules ship. That number went <i>down</i>, not up — see <a href="#measured">Measured, not claimed</a>.</p>
+</div>
+
+<div class="sec">
+  <h2 id="measured">Measured, not claimed</h2>
+  <p>We ran the rules against <b>real, professionally written evaluation code</b> — 55 files from 23 open-source projects (lm-evaluation-harness, HELM, BIG-bench, SWE-bench, inspect_ai, olmes, ragas, DeepEval, MLflow, unitxt, TruLens, FastChat, Haystack, Phoenix, promptbench, ...). Then we read every single finding at the line it pointed to and asked: <i>would a reviewer looking at this line agree?</i></p>
+  <table>
+    <tr><th>Rule class</th><th>Findings confirmed</th><th>Status</th></tr>
+    <tr><td>Syntax — unguarded division, bare except, silent handler in a scoring loop</td><td><b>18 of 20</b></td><td>ships</td></tr>
+    <tr><td>Methodology — no baseline, no held-out set, no spread, no order swap</td><td><b>1 of 55</b></td><td><b>switched off</b></td></tr>
+  </table>
+  <p>The second row is the interesting one. Those rules were our flagship — "you reported accuracy with no random baseline" is the headline example on this page's predecessor. On real code 54 of 55 were false: they fire on metric libraries and framework plumbing, where the thing they accuse you of omitting was never supposed to exist. The claim was literally true and practically useless.</p>
+  <p>So we turned them off and shipped three rules instead of twenty-six. <b>The precision of what remains is 90%</b> (Wilson 95% CI 0.70–0.97), measured on files from projects we had never scanned before.</p>
+  <p><b>What we are bad at, stated plainly — with the numbers from this week:</b> we tested the shipped rules on code that is <i>not</i> eval code at all, to check whether the silence was a domain problem. It wasn't.</p>
+  <table>
+    <tr><th>Corpus (never scanned before)</th><th>Findings per 100 KB</th><th>Files it said nothing about</th></tr>
+    <tr><td>7 mature libraries — requests, flask, scrapy, celery, yt-dlp, fastapi, httpie</td><td><b>0.9</b></td><td><b>13 of 14</b></td></tr>
+    <tr><td>8 low-star projects (5–67 stars)</td><td><b>1.6</b></td><td><b>13 of 15</b></td></tr>
+  </table>
+  <p>We then removed every guard check and re-ran, to find out whether we had over-pruned. Un-pruned, the low-star corpus produced 29 findings of which <b>1</b> was real — 3.4%. The rest were <code>except Exception</code> with a logger, typed retries like <code>except (OSError, ValueError): continue</code>, and handlers carrying <code># noqa: BLE001</code> with a written reason. Those are correct code, not defects. So the pruning was necessary, not excessive: <b>the silence is real.</b></p>
+  <p><b>Consequence:</b> the paid tiers are paused. A tool that speaks once per 100 KB — and is wrong a third of the time when it does — is not something we will take money for. The free tier stays up. If you maintain a mature library this tool will probably tell you nothing, and we would rather say that here than in a refund email.</p>
+</div>
+
+<div class="sec">
+  <h2>Where the rules come from</h2>
+  <p>Each rule traces back to a numbered entry in a 368-item failure catalogue built from ~100 experiments — mostly failures that actually happened to us, recorded with the measured number that exposed them.</p>
+  <p>Example: canon entry #23 is <i>“a silent failure that produces a clean output is indistinguishable from success unless you check”</i>. That single entry has now caused bugs in evalguard itself <b>three separate times</b> — including once where a rule was muted by a comment in the very file it was scanning. It's in the changelog.</p>
+</div>
+
+<div class="sec" id="freescan">
+  <h2>Try it on your own script — free, no install</h2>
+  <p>Open an issue, paste your eval script, and a bot runs the free tier and posts the report back. Pure static analysis: <b>your code is never executed</b>. No install, no email, no signup.</p>
+  <a class="cta" href="https://github.com/zhumeiyan/evalguard-worker/issues/new?labels=scan&amp;template=scan.md">Scan my script free &rarr;</a>
+
+  <h3>A real report (from a real request)</h3>
+  <p>The user pasted a RAG eval harness that printed <code>ACCURACY 0.87</code> and asked whether the number meant anything. evalguard's reply:</p>
+<pre>evalguard report (current build) · 2 findings
+
+| sev  | rule   | line | what                                     |
+|------|--------|------|------------------------------------------|
+| WARN | EG005  | 9    | hits / len(cases) — denominator unguarded|
+| WARN | EG006  | 17   | bare/silent except                       |
+
+0 blocker · 2 warn</pre>
+  <p>The bare <code>except</code> means some of those 40 cases may have failed silently and still counted as non-hits — so the 0.87 is computed over an unknown denominator. That part the tool still gets right.</p>
+  <p style="font-size:14px;color:#6b7480"><b>An earlier build of this page also reported "no random baseline" and "no positive control" on this same script.</b> Those two rules are switched off now: run against professional evaluation code they were right 1 time in 55. We kept the honest part of the answer and dropped the part that was mostly noise.</p>
+  <p style="font-size:14px;color:#6b7480">Free tier = the 3 shipped rules. The report says what it found, not that your script is correct.</p>
+</div>
+
+<div class="sec">
+  <h2>Pricing</h2>
+
+  <div class="tier">
+    <div class="tname">Free · MIT</div>
+    <div class="price">$0 <span>— CLI + 3 verified rules</span></div>
+    <p style="margin-top:10px;margin-bottom:0"><code>pip install evalguard</code> · zero dependencies · JSON output · exit 1 on blockers. The three rules that survived measurement ship free and stay free: <b>unguarded division</b>, <b>bare / silent except</b>, <b>silent handler inside a scoring loop</b>.</p>
+    <p style="margin-top:8px;margin-bottom:0"><a href="https://github.com/zhumeiyan/evalguard/raw/main/evalguard-v0.5.0.zip">evalguard-v0.5.0.zip</a> · MIT · no install required</p>
+  </div>
+
+  <div class="tier best">
+    <div class="tname">Canon Database</div>
+    <div class="price">$29 <span>— one-time</span></div>
+    <p style="margin-top:10px;margin-bottom:0">All <b>368 failure modes</b> as JSON / CSV / Markdown. 144 carry an extracted actionable rule. Every entry carries the experiment id and measured number that produced it. CC BY 4.0 — redistribute with attribution.</p>
+    <p style="margin-top:14px"><a class="cta" style="padding:9px 18px;font-size:14px" href="https://github.com/zhumeiyan/evalguard-worker/issues/new?labels=order&title=%5BORDER%5D+starter&body=tier%3A+starter%0Areference%3A+">I've paid — instant download</a></p>
+  </div>
+
+  <div class="tier">
+    <div class="tname">evalguard Pro</div>
+    <div class="price">$99 <span>— one-time, 12 months of updates</span></div>
+    <p style="margin-top:10px;margin-bottom:0">Everything in Canon, plus CI templates (GitHub Actions, GitLab CI, pre-commit), HTML report output, priority on new rules, and every rule added for 12 months as they clear the same measured bar the first three had to clear.</p>
+    <p style="margin-top:14px"><a class="cta" style="padding:9px 18px;font-size:14px" href="https://github.com/zhumeiyan/evalguard-worker/issues/new?labels=order&title=%5BORDER%5D+pro&body=tier%3A+pro%0Areference%3A+">I've paid — instant download</a></p>
+  </div>
+
+  <div class="tier">
+    <div class="tname">Custom audit</div>
+    <div class="price">$499 <span>— we run it on your harness</span></div>
+    <p style="margin-top:10px;margin-bottom:0">Your eval repo, reviewed against the full canon. Written report ranking which of the 368 modes you're exposed to, plus a 30-minute walkthrough.</p>
+    <p style="margin-top:14px"><a class="cta" style="padding:9px 18px;font-size:14px" href="https://github.com/zhumeiyan/evalguard-worker/issues/new?labels=order&title=%5BORDER%5D+team&body=tier%3A+team%0Areference%3A+">I've paid — instant download</a></p>
+  </div>
+</div>
+
+<div class="sec" id="buy">
+  <h2>How to pay</h2>
+  <p>We're an independent developer. Payment is by <b>Alipay cross-border remittance</b> — it lands in CNY within minutes. Send the following to any remittance provider:</p>
+
+  <div class="pay">
+    <div class="kv"><b>Alipay ID (account)</b><code>18697066422</code></div>
+    <div class="kv"><b>Last name (姓)</b><code>ZHU</code></div>
+    <div class="kv"><b>First name (名)</b><code>MEI YAN</code></div>
+  </div>
+
+  <h3>Three-step payment</h3>
+  <ul>
+    <li>Open <code>remit.alipay.com</code> and pick any partner provider — Remitly, Paysend, Wise, WorldRemit, Panda Remit all work.</li>
+    <li>Enter the three fields above, and choose the amount for your tier.</li>
+    <li><b>Set the purpose to “Service Fee / Payment for services.”</b> This is required. If it's left as a personal or family transfer, the payment will be returned.</li>
+  </ul>
+
+  <div class="note">
+    <b>After paying</b> — fastest path: click <b>“I've paid — instant download”</b> above and paste your remittance reference into the form. An automated workflow replies with the download link and license key in about 30 seconds, no waiting on a human.
+  </div>
+  <p>No GitHub account? Email the reference and your tier to <code>778131400@qq.com</code> and we'll send the package manually within 12 hours.</p>
+
+  <p class="warn"><b>Limits:</b> CNY 50,000 per transaction, 5 per month, 500,000 per year. For larger or recurring orders ask about a WorldFirst account — it gives you a local US/EU bank detail and doesn't consume the annual FX quota.</p>
+</div>
+
+<div class="sec">
+  <h2>FAQ</h2>
+  <h3>Does this work with my framework?</h3>
+  <p>It reads Python source. It doesn't care whether you use pytest, lm-evaluation-harness, a bespoke notebook, or a shell wrapper — if the evaluation logic is in Python, it scans it.</p>
+
+  <h3>Will it flood my CI with warnings?</h3>
+  <p>On correctly-written code it produced zero output. The free tier is deliberately the four highest-frequency real defects, precisely so it stays quiet on everything else.</p>
+
+  <h3>Is the catalogue actually verified?</h3>
+  <p>The entries are ours, from our own experiments. The taxonomy has not been independently validated by human annotators, and we say so in the package. What's verified is the behaviour of the tool: the detection and false-positive numbers above are reproducible from the fixtures shipped with it.</p>
+
+  <h3>Can I redistribute it?</h3>
+  <p>The CLI is MIT. The canon database is CC BY 4.0 — redistribute with attribution to Zhu Meiyan (洛神 / Luoshen project).</p>
+</div>
+
+<div class="sec" style="border:1px solid #26303d;border-radius:10px;padding:22px 24px;background:#11161d">
+  <h2 style="margin-top:0">Read: 8 silent failures that make your eval number meaningless</h2>
+  <p style="color:#8b939e;margin-bottom:18px">Real defects found in LLM evaluation scripts — missing baselines, bare excepts that turn crashes into clean data, and a checker of ours that stayed silent for two releases. With fixes.</p>
+  <a href="blog/silent-failures-eval-scripts.html" style="display:inline-block;background:#2f81f7;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:600;font-size:15px">Read the article →</a>
+</div>
+
+<footer>
+  evalguard · built from ~100 recorded experiments · MIT &amp; CC BY 4.0 · <a href="blog/silent-failures-eval-scripts.html" style="color:#8b939e">Blog</a><br>
+  Contact: 778131400@qq.com
+</footer>
+
+</div>
+</body>
+</html>
