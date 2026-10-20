@@ -12,8 +12,11 @@
     python3 client.py 抓取 https://example.com
     python3 client.py 装skill <zip路径或URL>
     python3 client.py 调API https://httpbin.org/get
+    python3 client.py 投递 '{"text":"随便什么"}'
+    python3 client.py 收件 remote
 """
-import sys, os, json, base64, urllib.request
+import sys, os, json, base64, urllib.request, urllib.error, time, hashlib, datetime
+import urllib.parse
 
 HOST = os.environ.get("LUOSHEN_HOST", "http://127.0.0.1:8765")
 TIMEOUT = 180
@@ -41,6 +44,69 @@ def get(path):
         return {"ok": False, "err": repr(e)[:150]}
 
 
+# ── 远程常驻收件箱：GitHub 仓库当接收端（进程会死，仓库不会）──────
+REPO = os.environ.get("LUOSHEN_REPO", "zhumeiyan/luoshen-o1")
+GHTOK = os.environ.get("GH_TOKEN", "")
+API = "https://api.github.com"
+
+
+def gh(path, method="GET", body=None):
+    r = urllib.request.Request(API + urllib.parse.quote(path, safe="/"), method=method)
+    r.add_header("User-Agent", "luoshen-client")
+    r.add_header("Accept", "application/vnd.github+json")
+    if GHTOK: r.add_header("Authorization", "token " + GHTOK)
+    b = json.dumps(body).encode() if body is not None else None
+    if b: r.add_header("Content-Type", "application/json")
+    try:
+        x = urllib.request.urlopen(r, b, timeout=120)
+        return x.status, json.loads(x.read() or b"{}")
+    except urllib.error.HTTPError as e:
+        return e.code, json.loads(e.read() or b"{}")
+    except Exception as e:
+        return 0, {"err": repr(e)[:150]}
+
+
+def deliver(payload):
+    """投递到常驻收件箱。任何能发 HTTP 的客户端都能用。"""
+    if not GHTOK:
+        return {"ok": False, "未实现": "需要 GH_TOKEN 环境变量（客户端自带凭据）"}
+    ts = datetime.datetime.now().strftime("%Y%m%d-%H%M%S-%f")
+    rec = {"ts": ts, "from": os.environ.get("LUOSHEN_FROM", "unknown"),
+           "payload": payload}
+    txt = json.dumps(rec, ensure_ascii=False, indent=1)
+    rem = "接收/inbox/%s.json" % ts
+    st, d = gh("/repos/%s/contents/%s" % (REPO, rem), "PUT",
+               {"message": "inbox: %s" % ts,
+                "content": base64.b64encode(txt.encode()).decode()})
+    if st in (200, 201):
+        return {"ok": True, "引擎": "deliver", "落点": rem,
+                "sha256": hashlib.sha256(txt.encode()).hexdigest()[:16],
+                "说明": "已进常驻收件箱，服务端进程死了也在"}
+    return {"ok": False, "rc": st, "err": str(d)[:200]}
+
+
+def read_inbox(mode="remote"):
+    """收件。remote=读仓库（常驻），local=读本地目录。"""
+    if mode == "local":
+        d = "接收/inbox"
+        fs = sorted(os.listdir(d)) if os.path.isdir(d) else []
+        return {"ok": True, "mode": "local", "条数": len(fs), "文件": fs[:20]}
+    st, d = gh("/repos/%s/contents/接收/inbox" % REPO)
+    if st != 200:
+        return {"ok": False, "rc": st, "err": str(d)[:150]}
+    names = [x["name"] for x in d if x["name"].endswith(".json")]
+    items = []
+    for n in sorted(names)[-10:]:
+        st2, f = gh("/repos/%s/contents/接收/inbox/%s" % (REPO, n))
+        if st2 == 200 and "content" in f:
+            try:
+                items.append(json.loads(base64.b64decode(f["content"]).decode()))
+            except Exception:
+                pass
+    return {"ok": True, "mode": "remote", "总数": len(names),
+            "最近": items[-5:]}
+
+
 def b64_of(p):
     ext = os.path.splitext(p)[1].lstrip(".") or "bin"
     return "data:application/octet-stream;base64," + \
@@ -52,7 +118,12 @@ def main():
         print(__doc__); return
     cmd = sys.argv[1]
 
-    if cmd == "ping":
+    if cmd == "投递":
+        print(json.dumps(deliver(json.loads(sys.argv[2])), ensure_ascii=False, indent=1))
+    elif cmd == "收件":
+        print(json.dumps(read_inbox(sys.argv[2] if len(sys.argv) > 2 else "remote"),
+                         ensure_ascii=False, indent=1)[:1500])
+    elif cmd == "ping":
         print(json.dumps(get("/api/health"), ensure_ascii=False, indent=1))
     elif cmd == "清单":
         print(json.dumps(get("/api/manifest"), ensure_ascii=False, indent=1))
