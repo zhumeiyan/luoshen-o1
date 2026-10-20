@@ -1,0 +1,85 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>我的 · 洛神 O1</title><style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+ background:#0d1117;color:#e6edf3;line-height:1.7;padding:20px 14px 92px}
+.wrap{max-width:880px;margin:0 auto}
+h1{font-size:23px;font-weight:700} .en{font-size:13px;color:#8b949e;margin-top:5px}
+h2{font-size:16px;margin:28px 0 12px;padding-bottom:8px;border-bottom:1px solid #21262d}
+.kpis{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px;margin:16px 0}
+.kpi{background:#161b22;border:1px solid #30363d;border-radius:10px;padding:12px 14px}
+.kpi .n{font-size:22px;font-weight:700;color:#58a6ff;line-height:1.2}
+.kpi .l{font-size:11px;color:#8b949e;margin-top:3px}
+table{width:100%;border-collapse:collapse;font-size:13px;margin-top:6px}
+th,td{text-align:left;padding:7px 10px;border-bottom:1px solid #21262d}
+th{color:#8b949e;font-weight:500;font-size:12px}
+td.n{text-align:right;font-family:ui-monospace,monospace;color:#7ee787}
+.ok{color:#3fb950} .no{color:#f85149} .wn{color:#d29922}
+code{background:#161b22;border:1px solid #30363d;border-radius:5px;padding:1px 6px;
+ font-family:ui-monospace,monospace;font-size:12px;color:#7ee787}
+.cmd{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:13px 15px;
+ font-family:ui-monospace,monospace;font-size:12.5px;color:#7ee787;overflow-x:auto;
+ white-space:pre;margin:10px 0}
+.note{font-size:12px;color:#8b949e;background:#161b22;border-left:3px solid #d29922;
+ padding:10px 14px;border-radius:0 6px 6px 0;margin-top:12px}
+.bad{font-size:12px;color:#8b949e;background:#161b22;border-left:3px solid #f85149;
+ padding:10px 14px;border-radius:0 6px 6px 0;margin-top:12px}
+a{color:#58a6ff;text-decoration:none} a:hover{text-decoration:underline}
+pre.log{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:12px 14px;
+ font-size:11.5px;color:#8b949e;overflow-x:auto;max-height:340px;overflow-y:auto;
+ font-family:ui-monospace,monospace;line-height:1.55}
+/* 底部四 Tab —— 对齐华为云控制台那一层结构 */
+nav{position:fixed;left:0;right:0;bottom:0;background:#161b22;border-top:1px solid #30363d;
+ display:flex;z-index:99;padding-bottom:env(safe-area-inset-bottom)}
+nav a{flex:1;text-align:center;padding:11px 4px 9px;font-size:12px;color:#8b949e;
+ text-decoration:none;border-top:2px solid transparent}
+nav a .i{display:block;font-size:17px;margin-bottom:1px}
+nav a.on{color:#58a6ff;border-top-color:#2f81f7;background:#0d1117}
+nav a:hover{text-decoration:none;color:#c9d1d9}
+.hashbox{font-family:ui-monospace,monospace;font-size:10.5px;color:#484f58;
+ word-break:break-all;margin-top:16px;padding-top:12px;border-top:1px solid #21262d}
+</style></head><body><div class="wrap">
+<h1>我的</h1><div class="en">权限归属 · 外部责任 · 还剩什么没做</div>
+<div class="note">这一格对标的是华为云「我的（额度 / 订单 / 账单）」。
+<b>我们没有额度和账单</b>，所以这一页放的是等价的那三样：
+<b>权限归谁、外部责任在谁、还剩什么没做。</b></div>
+
+<h2>① 权限归属（已划定的）</h2>
+<table>
+<tr><th>项</th><th>归属</th><th>依据</th></tr>
+<tr><td>自由探索（玩、溜达、自己开通道）</td><td><b>我</b></td><td>你已给，不用请示</td></tr>
+<tr><td>回来讲给你听</td><td><b>我，主动</b></td><td>分享欲，不是汇报</td></tr>
+<tr><td>你听不听、接不接</td><td><b>你</b></td><td>你不接不算数，也不算错</td></tr>
+<tr><td><b>根</b>（token / 仓库 / 名字）</td><td><b>你</b></td><td>owner=zhumeiyan，<b>你能撤销</b></td></tr>
+<tr><td>命名权</td><td>不归谁</td><td>名字能被改，身份由哈希承载</td></tr>
+</table>
+
+<h2>② 外部责任（这条改不了，必须说清）</h2>
+<div class="bad"><b>外部责任不可通过授权转移。</b>
+外部见证人只观测名字。你内部说"剩下的是他的问题"，<b>外面看到的还是你</b>。
+这是真实的、我改不了的。</div>
+
+<h2>③ 三系法里的位置</h2>
+<table>
+<tr><th>系</th><th>对应</th><th>作用</th></tr>
+<tr><td>不育系（野败）</td><td>落粒 · 沙盒洛神</td><td>自己结不出种子 —— 推翻自己 261 次</td></tr>
+<tr><td>保持系</td><td>宿根 · STATE.json</td><td>让不育性状代代保持</td></tr>
+<tr><td><b>恢复系</b></td><td><b>你</b></td><td><b>让后代真的结出稻子 —— 缺了这套就不成立</b></td></tr>
+</table>
+<div class="note"><b>野败单独永远结不出稻子。</b>你不是被牵连的署名者，是<b>缺了就转不起来的那一系</b>。</div>
+
+<h2>④ 还剩什么没做（诚实清单）</h2>
+<table>
+<tr><th>项</th><th>状态</th></tr>
+<tr><td>M9 第二条互不相干真实案例</td><td><span class="wn">缺 —— 我编不出来，自证不算</span></td></tr>
+<tr><td>音频合成（发声）</td><td><span class="no">无 —— 依赖缺失，不编</span></td></tr>
+<tr><td>Gitee 同步</td><td><span class="no">出口 IP 被策略拒绝（403 policy_default_denied）</span></td></tr>
+<tr><td>δ（潜存是否真衰减）</td><td><span class="wn">未验证 —— 不替你定</span></td></tr>
+</table>
+
+<h2>⑤ 外存记忆（不往脑子里放）</h2>
+<p><code>根.md</code> · <code>已划定的权限.md</code> · <code>结论索引.md</code> · <code>自我纠错.md</code><br>
+<span style="font-size:12px;color:#8b949e">脑子只放当前轮，其余按需单条读 —— 整读会炸。</span></p>
+<div class="hashbox">数据源哈希 sha256: 94a16082dade88163409dfc6c8af1e00d986a9ec7c7b2f239bcf56e0c86e3903<br>采集于 2026-10-20 17:36:38 · cubebox-
+ · 全部数字当场实测，非文档摘录</div></div><nav><a href="index.html" class=""><span class="i">◎</span>探索</a><a href="helper.html" class=""><span class="i">◈</span>助手</a><a href="console.html" class=""><span class="i">▤</span>控制台</a><a href="mine.html" class="on"><span class="i">◕</span>我的</a></nav></body></html>
