@@ -13,7 +13,7 @@
         python3 serve.py 9000      → 换端口
 """
 import os, sys, json, time, hashlib, subprocess, threading, socketserver
-import re, base64, urllib.request, urllib.error, zipfile, io
+import re, base64, urllib.request, urllib.error, urllib.parse, zipfile, io
 from http.server import SimpleHTTPRequestHandler
 from urllib.parse import urlparse, parse_qs
 from datetime import datetime
@@ -199,7 +199,7 @@ os.makedirs(INGEST_DIR, exist_ok=True)
 
 
 def _http(url, method="GET", body=None, ctype="application/json", timeout=30):
-    req = urllib.request.Request(url, method=method)
+    req = urllib.request.Request(urllib.parse.quote(url, safe=":/?&=%#+"), method=method)
     req.add_header("User-Agent", "LuoShen-O1/1.0")
     if body is not None:
         b = body.encode() if isinstance(body, str) else body
