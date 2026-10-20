@@ -196,3 +196,9 @@ pre{background:var(--code-bg);border:var(--hairline);border-radius:var(--radius)
   max-height:420px;overflow-y:auto;white-space:pre-wrap;word-break:break-word}
 footer{margin-top:var(--sp-7);padding-top:var(--sp-4);border-top:var(--hairline);
   font-size:var(--fs-aux);color:var(--ink-3)}
+
+/* 6 个 tab 在 375px 下的适配 */
+@media (max-width:400px){
+  nav a{font-size:10px;gap:2px;padding:var(--sp-2) 0 calc(var(--sp-2) + 2px)}
+  nav a svg{width:20px;height:20px}
+}
