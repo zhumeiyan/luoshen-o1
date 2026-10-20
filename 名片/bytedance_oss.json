@@ -1,0 +1,79 @@
+[
+ {
+  "repo": "bytedance/deer-flow",
+  "star": 84187,
+  "lang": "Python",
+  "license": "MIT",
+  "issues": 960
+ },
+ {
+  "repo": "bytedance/UI-TARS-desktop",
+  "star": 39343,
+  "lang": "TypeScript",
+  "license": "Apache-2.0",
+  "issues": 503
+ },
+ {
+  "repo": "bytedance/trae-agent",
+  "star": 12153,
+  "lang": "Python",
+  "license": "MIT",
+  "issues": 220
+ },
+ {
+  "repo": "bytedance/UI-TARS",
+  "star": 11623,
+  "lang": "Python",
+  "license": "Apache-2.0",
+  "issues": 59
+ },
+ {
+  "repo": "bytedance/flowgram.ai",
+  "star": 8505,
+  "lang": "TypeScript",
+  "license": "MIT",
+  "issues": 82
+ },
+ {
+  "repo": "bytedance/Dolphin",
+  "star": 9065,
+  "lang": "Python",
+  "license": "NOASSERTION",
+  "issues": 78
+ },
+ {
+  "repo": "verl-project/verl",
+  "star": 23942,
+  "lang": "Python",
+  "license": "Apache-2.0",
+  "issues": 1366
+ },
+ {
+  "repo": "volcengine/volcengine-python-sdk",
+  "star": 190,
+  "lang": "Python",
+  "license": "Apache-2.0",
+  "issues": 4
+ },
+ {
+  "repo": "volcengine/ai-app-lab",
+  "star": 2452,
+  "lang": "JavaScript",
+  "license": "Apache-2.0",
+  "issues": 67
+ },
+ {
+  "repo": "cloudwego/abcoder",
+  "star": 390,
+  "lang": "Go",
+  "license": "Apache-2.0",
+  "issues": 18
+ },
+ {
+  "repo": "vllm-project/aibrix",
+  "star": 5152,
+  "lang": "Go",
+  "license": "Apache-2.0",
+  "issues": 387
+ }
+]
