@@ -21,6 +21,9 @@ pip install -e . && python3 tools/verify_all.py
 # 约 8 秒，当场跑出下文全部主张 —— 不要求你信任本文档的任何一句话
 ```
 
+🌐 **一站式入口（已上线）**：https://zhumeiyan.github.io/luoshen-o1/
+—— 交互演示台、演示视频、作品文档 PDF、仓库、外部见证记录、接入协议，全部在此一页。
+
 ---
 
 ## 它和其它 Agent 框架有什么根本不同
