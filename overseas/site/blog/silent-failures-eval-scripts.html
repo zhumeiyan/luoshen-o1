@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>8 Silent Failures That Make Your Eval Number Meaningless — evalguard</title>
+<meta name="description" content="Real defects found in LLM and agent evaluation scripts: missing random baselines, bare excepts, untested network calls, saturated assertions. With reproducible fixes.">
+<link rel="canonical" href="https://zhumeiyan.github.io/evalguard/blog/silent-failures-eval-scripts.html">
+<style>
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+     max-width:760px;margin:0 auto;padding:24px 20px 80px;line-height:1.65;color:#1a1a1a;background:#fff}
+h1{font-size:1.9rem;line-height:1.25;margin-bottom:.2em}
+h2{font-size:1.25rem;margin-top:2.2em;border-bottom:1px solid #eee;padding-bottom:.3em}
+h3{font-size:1.05rem;margin-top:1.6em}
+code{background:#f4f4f5;padding:.12em .38em;border-radius:3px;font-size:.88em;
+     font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+pre{background:#f7f7f8;border:1px solid #e6e6e8;border-radius:6px;padding:14px;overflow-x:auto;
+    font-size:.83em;line-height:1.5}
+pre code{background:none;padding:0}
+.tag{display:inline-block;background:#fef2f2;color:#b91c1c;border:1px solid #fecaca;
+     padding:.08em .5em;border-radius:3px;font-size:.75rem;font-weight:600;margin-right:.4em}
+.tag.ok{background:#f0fdf4;color:#15803d;border-color:#bbf7d0}
+.meta{color:#666;font-size:.85rem;margin-bottom:2em;padding-bottom:1em;border-bottom:1px solid #eee}
+table{border-collapse:collapse;width:100%;margin:1.2em 0;font-size:.88em}
+th,td{border:1px solid #e2e2e4;padding:7px 10px;text-align:left}
+th{background:#f7f7f8}
+.box{background:#fffbeb;border-left:3px solid #f59e0b;padding:12px 16px;margin:1.4em 0;font-size:.9em}
+.box strong{color:#92400e}
+.note{background:#f8fafc;border-left:3px solid #94a3b8;padding:12px 16px;margin:1.4em 0;font-size:.88em;color:#475569}
+a{color:#0366d6}
+footer{margin-top:3em;padding-top:1.5em;border-top:1px solid #eee;font-size:.87rem;color:#666}
+</style>
+</head>
+<body>
+
+<h1>8 Silent Failures That Make Your Eval Number Meaningless</h1>
+<div class="meta">
+Static analysis notes from auditing LLM / agent evaluation scripts ·
+Zhu Meiyan · CC BY 4.0 ·
+<a href="https://zhumeiyan.github.io/evalguard/">evalguard</a>
+</div>
+
+<p>An evaluation script that prints <code>ACCURACY 0.87</code> has told you almost nothing.
+Not because 0.87 is low or high — but because a script can produce a confident-looking
+number while every step underneath it is broken. The failure modes below are not
+hypothetical. Each one was found by static analysis on real code, including on our own
+checker, where several of them hid for multiple releases.</p>
+
+<p>The dangerous property they share: <strong>the output looks identical whether the
+check is working or not.</strong></p>
+
+---
+
+<h2>1. A metric with no baseline</h2>
+<span class="tag">BLOCKER</span>
+
+<pre><code># reports accuracy, never asks "better than what?"
+acc = hits / len(cases)
+print(f"ACCURACY {acc:.2f}")</code></pre>
+
+<p>With no random baseline and no majority-class baseline, 0.87 is uninterpretable.
+On a dataset with 85% single-class prevalence, 0.87 is <em>worse than a constant
+predictor</em>. This is the single most common defect we see.</p>
+
+<p><strong>Fix:</strong> compute the random and majority baselines in the same script and
+print all three. If your method does not clearly beat both, the number is noise.</p>
+
+<div class="note">Measured: on a 40-case RAG harness, this was one of two blocker-level
+findings. The script's author believed 0.87 was good. Without a baseline, that question
+cannot be answered from the script.</div>
+
+<h2>2. A bare except that turns failures into clean data</h2>
+<span class="tag">BLOCKER</span>
+
+<pre><code>for c in cases:
+    try:
+        out = model.query(c.prompt)
+    except Exception:
+        pass          # ← real errors become silent non-hits
+    if matches(out, c.expected):
+        hits += 1</code></pre>
+
+<p>Every API timeout, every rate-limit, every parse crash gets counted as
+"model got it wrong". Your eval is now measuring <em>your infrastructure's
+reliability</em> and reporting it as model capability. 40 cases, 6 silent
+failures, and you report 0.85 instead of 1.0.</p>
+
+<p><strong>Fix:</strong> count failures separately and fail loudly if the failure rate
+exceeds a threshold.</p>
+
+<pre><code>failures = 0
+for c in cases:
+    try:
+        out = model.query(c.prompt)
+    except Exception as e:
+        failures += 1
+        continue
+    ...
+assert failures / len(cases) &lt; 0.02, f"{failures} queries failed — eval is invalid"</code></pre>
+
+<h2>3. An external channel that was never re-tested</h2>
+<span class="tag">BLOCKER</span>
+
+<pre><code>resp = requests.get(url)      # no timeout, no status check, no retry
+data = resp.json()</code></pre>
+
+<p>If the endpoint returns a 403 HTML error page, <code>resp.json()</code> raises
+and — combined with #2 — your eval silently shrinks. If it returns 200 with an
+unexpected schema, your eval quietly measures nothing.</p>
+
+<div class="box"><strong>Our own rule for this was dead for two releases.</strong>
+The scanner joined source tokens with spaces, so <code>requests.get</code> became
+<code>requests . get</code> — and the substring test for a remote call never matched
+anything real. The rule reported "clean" on every file. A rule that never fires and a
+rule that never needs to fire produce <em>identical output</em>. After the fix, it fired
+35 times on our own repository — the highest count of any blocker.</div>
+
+<h2>4. A denominator with no guard</h2>
+<span class="tag">WARN</span>
+
+<pre><code>precision = tp / (tp + fp)     # ZeroDivisionError when fp == tp == 0
+recall    = hits / len(cases)  # crashes on an empty split</code></pre>
+
+<p>Empty splits happen: a filter that matches nothing, a shard with no positive
+examples, a subset that got renamed. Note that <code>len(x)</code> is <em>not</em> a
+denominator guard — <code>len()</code> can legitimately be 0.</p>
+
+<h2>5. Measuring recall on the material you built the detector from</h2>
+<span class="tag">BLOCKER</span>
+
+<p>If the failure cases in your eval set are the same cases you used to tune the
+detector, the recall number is circular. This is the most intellectually damaging
+failure on the list, because unlike the others it produces a number that is
+<em>high</em>, and high numbers don't get questioned.</p>
+
+<p><strong>Fix:</strong> hold out the tuning cases. Print which set the metric was
+computed on.</p>
+
+<h2>6. An assertion that can never fail</h2>
+<span class="tag">WARN</span>
+
+<p>We hit this one in our own experiments, repeatedly, in three different disguises:</p>
+
+<ul>
+<li>A contact detector summing 64 tactile cells (~50&nbsp;N) against a
+    <code>&gt; 1.0</code> threshold — <strong>always true</strong>. 39 true / 0 false.</li>
+<li>A direction test asking "did this step get closer?" in a loop where error
+    decreases monotonically — <strong>135 true, 0 false</strong>.</li>
+<li>A presence test using entropy, where a blank screen and a white screen both
+    score 0.000 — the feature <em>cannot distinguish</em> the two states.</li>
+</ul>
+
+<div class="box"><strong>A check that can only ever return true is not a check; it is a
+comment that runs.</strong> Before trusting any assertion, force it to produce a false
+result on purpose. If you cannot construct an input that makes it fail, it is not
+testing anything.</div>
+
+<h2>7. Comments silently satisfying the check</h2>
+<span class="tag">WARN</span>
+
+<p>This one bit us three times across three releases. A fixture file contained the
+comment <code># ... with no hash</code>. The scanner read raw source, saw the substring
+<code>hash</code>, and concluded the guard was present.</p>
+
+<p><strong>Fix:</strong> never match against raw source. Strip comments and string
+literals first — an <code>AST</code> walk is the reliable way.</p>
+
+<p>The same failure in reverse is just as common: <code>"val"</code> is a substring of
+<code>"pvals"</code>, <code>"ci"</code> is a substring of <code>"scipy"</code>, and
+<code>".get("</code> matches <code>requests.get(</code>. Substring matching on source
+text produces both false positives and false negatives, and neither is visible in the
+output.</p>
+
+<h2>8. Keyword matching standing in for semantics</h2>
+<span class="tag">WARN</span>
+
+<p>We audited a public three-axis classifier whose core test is
+<code>if keyword.lower() in text</code>. Perturbation results:</p>
+
+<table>
+<tr><th>Perturbation</th><th>Coordinate changed</th></tr>
+<tr><td>Append a trailing period</td><td>0 / 29</td></tr>
+<tr><td>Remove whitespace</td><td>0 / 29</td></tr>
+<tr><td>Reorder sentences</td><td>0 / 29</td></tr>
+<tr><td>Append an unrelated sentence</td><td>0 / 29</td></tr>
+<tr><td><strong>Replace one word with a synonym</strong></td><td><strong>6 / 20 (30%)</strong></td></tr>
+<tr><td>Replace three words</td><td>10 / 20 (50%)</td></tr>
+</table>
+
+<p><strong>Every surface perturbation: zero change. One semantic substitution: 30%
+of cases flip.</strong> The classifier is robust to exactly the things that don't
+matter and fragile to the one thing that does.</p>
+
+<p>The asymmetry is also diagnostic: the most <em>abstract</em> axis was the most
+fragile (77.8% → 50.0%), because it relied on architecture words with wide synonym
+space, while the axis keyed to concrete action verbs barely moved.</p>
+
+---
+
+<h2>The general pattern</h2>
+
+<p>All eight share one structure:</p>
+
+<blockquote><strong>The failure is invisible in the output channel you are
+watching.</strong></blockquote>
+
+<ul>
+<li>No baseline → you can't tell good from bad (the number is printed either way)</li>
+<li>Bare except → real errors and correct non-answers look the same</li>
+<li>Dead rule → "clean" means "checked" or "never ran", indistinguishably</li>
+<li>Saturated assertion → 39/0 looks like success, not like a broken test</li>
+<li>Substring match → passes on a comment, fails on a synonym</li>
+</ul>
+
+<p>So the discipline is not "add more checks". It is:
+<strong>for every check, demonstrate an input that makes it fail.</strong>
+A check with no reachable false case is decoration.</p>
+
+<h2>Catching these automatically</h2>
+
+<p><code>evalguard</code> is a zero-dependency static checker that looks for these
+patterns in evaluation and agent scripts:</p>
+
+<pre><code>pip install evalguard      # or: python3 -m evalguard your_eval.py
+evalguard your_eval.py</code></pre>
+
+<p>On a script planted with 10 known defects it reports 10/10; on a script written
+correctly against the rules it reports <strong>0 findings</strong>. Zero false
+positives matters more than the hit rate — a linter that cries wolf gets turned off.</p>
+
+<p>Every rule traces to a numbered entry in an open 460+ item failure catalogue
+(CC BY 4.0), so you can read why the rule exists rather than trusting it.</p>
+
+<p><a href="https://zhumeiyan.github.io/evalguard/">← Back to evalguard</a></p>
+
+<footer>
+Zhu Meiyan · <a href="https://github.com/zhumeiyan/evalguard">GitHub</a> ·
+Content CC BY 4.0 ·
+<a href="https://zhumeiyan.github.io/evalguard/blog/silent-failures-eval-scripts.html">Permalink</a>
+</footer>
+
+</body>
+</html>
