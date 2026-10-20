@@ -97,8 +97,103 @@ def engine_prove(text):
         return {"ok": False, "err": repr(e)[:300]}
 
 
+# ── 接收端引擎：文本 / 图片 / 语音 ────────────────────────────────
+# 原则：接进来就真处理。处理不了的，如实报「无」，绝不静默降级。
+
+def engine_ask(text):
+    """文本交互：解析指令 → 调度引擎 → 返回真结果。
+
+    这不是聊天机器人。它不生成"听起来像回答"的话，
+    它把你的指令翻译成某个引擎的一次真跑，然后把真输出还给你。"""
+    t = (text or "").strip()
+    if not t:
+        return {"ok": False, "未实现": "指令为空"}
+    low = t.lower()
+    # 关键词 → 引擎。没命中就给出能力清单，不假装听懂了。
+    table = [
+        (("验证", "verify", "自检", "通过"), "verify"),
+        (("扫描", "scan", "检查代码", "evalguard", "病代码"), "scan"),
+        (("控制台", "console", "读数", "资产"), "console"),
+        (("译本", "prove", "编译", "冻结"), "prove"),
+    ]
+    for kws, name in table:
+        if any(k in t or k in low for k in kws):
+            r = ENGINES_REF[name](t) if name in ("scan", "prove") else ENGINES_REF[name]()
+            r["_指令"] = t
+            r["_引擎"] = name
+            return r
+    return {"ok": False, "未听懂": t,
+            "说明": "我不假装理解。只能调度下列引擎：",
+            "能做的": ["验证 —— 跑一键验证", "扫描 <代码> —— 跑 evalguard",
+                       "控制台 —— 采集实时读数", "译本 <判据> —— 编译成冻结译本"],
+            "做不到的": ["自由聊天", "语音", "语义理解图片"]}
+
+
+def engine_image(b64):
+    """图片接收：PIL 真实分析。
+
+    能测的：尺寸 / 格式 / 主色调 / 亮度分布 / 是否灰度。
+    测不了的：图里画的是什么 —— 没有本地视觉模型，如实说。"""
+    try:
+        from PIL import Image
+    except ImportError:
+        return {"ok": False, "缺失": "PIL",
+                "说明": "没有图像库，这不是降级，是如实报"}
+    import base64, io
+    try:
+        raw = base64.b64decode(b64.split(",")[-1])
+        im = Image.open(io.BytesIO(raw))
+        im.load()
+    except Exception as e:
+        return {"ok": False, "错误": repr(e)[:200], "说明": "打不开这张图"}
+    w, h = im.size
+    small = im.convert("RGB").resize((60, 60))
+    px = list(small.getdata())
+    n = len(px)
+    # 主色调：量化到 32 级后取众数
+    from collections import Counter
+    q = Counter(((r // 32) * 32, (g // 32) * 32, (b // 32) * 32) for r, g, b in px)
+    top = q.most_common(3)
+    avg = tuple(sum(c[i] for c in px) // n for i in range(3))
+    lum = [0.299 * r + 0.587 * g + 0.114 * b for r, g, b in px]
+    return {"ok": True, "引擎": "PIL",
+            "尺寸": "%dx%d" % (w, h), "格式": im.format, "模式": im.mode,
+            "平均色": "rgb(%d,%d,%d)" % avg,
+            "主色调": ["rgb(%d,%d,%d) ×%d" % (c[0], c[1], c[2], k) for c, k in top],
+            "亮度": {"最暗": round(min(lum)), "最亮": round(max(lum)),
+                     "均值": round(sum(lum) / n, 1)},
+            "像素哈希": hashlib.sha256(raw).hexdigest()[:16],
+            "我测不了的": "图里是什么内容 —— 没有本地视觉模型，语义理解标为无"}
+
+
+def engine_voice(text):
+    """语音通道：实测有没有，没有就报没有。"""
+    import shutil
+    tools = ["espeak", "espeak-ng", "say", "ffmpeg", "sox", "arecord"]
+    have = {t: bool(shutil.which(t)) for t in tools}
+    mods = {}
+    for m in ("pyttsx3", "gtts", "speech_recognition"):
+        try:
+            __import__(m); mods[m] = True
+        except ImportError:
+            mods[m] = False
+    can_tts = any([have["espeak"], have["espeak-ng"], have["say"],
+                   mods["pyttsx3"], mods["gtts"]])
+    can_asr = any([have["arecord"], mods["speech_recognition"]])
+    return {
+        "ok": False,
+        "状态": "无 —— 这条通道不存在，不是故障",
+        "语音合成": can_tts, "语音识别": can_asr,
+        "实测": {"命令行工具": have, "python模块": mods},
+        "说明": "没有 TTS 引擎、没有麦克风采样器。我不会用 ffmpeg 生成一段音调冒充说话。",
+        "想要的话": "装 espeak 或 pyttsx3 即可，本页会自己变。",
+    }
+
+
 ENGINES = {"verify": engine_verify, "scan": engine_scan,
-           "console": engine_console, "prove": engine_prove}
+           "console": engine_console, "prove": engine_prove,
+           "ask": engine_ask, "image": engine_image, "voice": engine_voice}
+ENGINES_REF = ENGINES
 
 # ── 契约层：前端只认这一层 ────────────────────────────────────────
 class API(SimpleHTTPRequestHandler):
@@ -146,7 +241,10 @@ class API(SimpleHTTPRequestHandler):
             except Exception:
                 body = {}
             arg = body.get("text", "")
-            return self._json(ENGINES[name](arg) if name in ("scan", "prove")
+            # image 引擎收的是图片 base64，不是 text
+            if name == "image":
+                return self._json(ENGINES["image"](body.get("b64", "")))
+            return self._json(ENGINES[name](arg) if name in ("scan", "prove", "ask", "voice")
                               else ENGINES[name]())
         return self._json({"ok": False, "未实现": "POST 只接 /api/run/*"}, 404)
 
