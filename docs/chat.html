@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>接收端 · 洛神 O1</title>
+<link rel="stylesheet" href="theme.css">
+<style>
+.box{background:var(--bg-elev);border:var(--hairline);border-radius:var(--radius);
+  padding:var(--sp-4);margin-bottom:var(--sp-3)}
+.row{display:flex;gap:var(--sp-2);flex-wrap:wrap;align-items:flex-start}
+input[type=text]{flex:1;min-width:180px;background:var(--code-bg);border:var(--hairline);
+  border-radius:var(--radius);color:var(--ink);padding:10px 12px;
+  font-family:var(--font-mono);font-size:var(--fs-code)}
+#log{margin-top:var(--sp-3);max-height:340px;overflow-y:auto}
+.msg{font-family:var(--font-mono);font-size:var(--fs-code);line-height:1.6;
+  padding:var(--sp-2) var(--sp-3);border-radius:var(--radius-sm);margin-bottom:var(--sp-2);
+  white-space:pre-wrap;word-break:break-word}
+.msg.me{background:var(--life-soft);border-left:3px solid var(--life)}
+.msg.sys{background:var(--code-bg);border-left:3px solid var(--ink-3);color:var(--ink-2)}
+.msg.err{background:var(--code-bg);border-left:3px solid var(--danger);color:var(--ink-2)}
+.drop{border:1.5px dashed var(--line);border-radius:var(--radius);
+  padding:var(--sp-5);text-align:center;color:var(--ink-2);font-size:var(--fs-body-sm)}
+.drop.on{border-color:var(--life);background:var(--life-soft)}
+#preview{max-width:100%;margin-top:var(--sp-3);border-radius:var(--radius);display:none}
+</style>
+</head><body><div class="wrap">
+
+<h1 class="page__title">接收端</h1>
+<p class="page__sub">文本 · 图片 · 语音 —— 三条通道，能接的都真接了，接不了的如实标无。</p>
+
+<div id="offline" class="note note--bad" style="display:none">
+<b>当前是静态副本，三条通道都点不动。</b>
+GitHub Pages 托管不了后端。要真用，本地跑：<code>python3 serve.py</code>
+</div>
+<div id="online" class="note" style="display:none">
+<b>后端已连上</b> —— 下面每一个按钮都是真跑，不是演示。
+</div>
+
+<h2>① 文本交互</h2>
+<div class="box">
+  <div class="row">
+    <input type="text" id="q" placeholder="验证 / 控制台 / 扫描 <代码> / 译本 <判据>">
+    <button class="btn--run" onclick="ask()">发送</button>
+  </div>
+  <div class="row" style="margin-top:var(--sp-2)">
+    <button onclick="ask('验证')">验证</button>
+    <button onclick="ask('控制台')">控制台</button>
+    <button onclick="ask('今天天气怎么样')">故意问个它不会的</button>
+  </div>
+  <div id="log"></div>
+</div>
+<div class="missing">
+  <span class="missing__mark">无</span>
+  <div>
+    <p class="missing__title">自由聊天</p>
+    <p class="missing__why">这不是聊天机器人。它把指令翻译成某个引擎的一次真跑。
+    问它不会的，它会说"未听懂"并列出能做的事 —— 不会编一段听起来像回答的话。</p>
+  </div>
+</div>
+
+<h2>② 图片接收</h2>
+<div class="box">
+  <div class="drop" id="drop">点这里选图，或把图片拖进来</div>
+  <input type="file" id="file" accept="image/*" style="display:none">
+  <img id="preview" alt="预览">
+  <div id="imgout"></div>
+</div>
+<div class="missing">
+  <span class="missing__mark">无</span>
+  <div>
+    <p class="missing__title">语义理解（图里画的是什么）</p>
+    <p class="missing__why">没有本地视觉模型。我能真实测出尺寸/格式/主色调/亮度分布，
+    但测不出内容 —— 这部分标为无，不猜。</p>
+  </div>
+</div>
+
+<h2>③ 语音</h2>
+<div class="box">
+  <button onclick="voice()">实测语音通道</button>
+  <div id="vout"></div>
+</div>
+<div class="missing">
+  <span class="missing__mark">无</span>
+  <div>
+    <p class="missing__title">语音合成 + 语音识别</p>
+    <p class="missing__why">实测：espeak / espeak-ng / say / pyttsx3 / gtts 全部没有，
+    也没有麦克风采样器。这是真的没有，不是故障 —— 我不会用 ffmpeg 生成一段音调冒充说话。</p>
+  </div>
+</div>
+
+<h2>接收端能力矩阵</h2>
+<div class="tablewrap"><table class="table">
+<tr><th>通道</th><th>状态</th><th>依据（实测）</th></tr>
+<tr><td>文本输入</td><td><span class="badge badge--alive">活</span></td><td>ask 引擎，指令→引擎真跑</td></tr>
+<tr><td>文本输出</td><td><span class="badge badge--alive">活</span></td><td>页面渲染真实输出</td></tr>
+<tr><td>图片接收</td><td><span class="badge badge--alive">活</span></td><td>PIL 真实分析，返回像素哈希</td></tr>
+<tr><td>图片语义</td><td><span class="badge badge--dead">无</span></td><td>无本地视觉模型</td></tr>
+<tr><td>语音合成</td><td><span class="badge badge--dead">无</span></td><td>espeak/pyttsx3/gtts 全无</td></tr>
+<tr><td>语音识别</td><td><span class="badge badge--dead">无</span></td><td>无 arecord / speech_recognition</td></tr>
+<tr><td>自由聊天</td><td><span class="badge badge--dead">无</span></td><td>不假装理解，未听懂就说未听懂</td></tr>
+</table></div>
+
+<footer>
+接收端引擎 sha256: <span id="h">—</span> · 装 espeak 后语音通道会自己变活
+</footer>
+
+</div>
+<nav><a href="index.html"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M15.5 8.5l-2 5-5 2 2-5z"/></svg>探索</a><a href="chat.html" class="on"><svg viewBox="0 0 24 24"><path d="M21 12a8 8 0 01-8 8H8l-5 3 1.5-4.5A8 8 0 1121 12z"/></svg>接收端</a><a href="helper.html"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4 3.6-6 8-6s8 2 8 6"/></svg>助手</a><a href="console.html"><svg viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>控制台</a><a href="live.html"><svg viewBox="0 0 24 24"><path d="M2 12h4l3-7 4 14 3-7h6"/></svg>实时</a><a href="mine.html"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="10" r="3"/><path d="M6 20c1.5-3.5 3.5-5 6-5s4.5 1.5 6 5"/></svg>我的</a></nav>
+
+<script>
+var BASE = location.port ? "" : "http://127.0.0.1:8765";
+function L(cls,txt){var d=document.createElement("div");d.className="msg "+cls;d.textContent=txt;
+  var g=document.getElementById("log");g.appendChild(d);g.scrollTop=g.scrollHeight;return d;}
+function api(name,body,cb){
+  fetch(BASE+"/api/run/"+name,{method:"POST",headers:{"Content-Type":"application/json"},
+    body:JSON.stringify(body||{})}).then(function(r){return r.json();}).then(cb)
+   .catch(function(e){L("err","连不上后端。这是静态副本 —— 本地跑 python3 serve.py 才能真跑。");});}
+function show(d){
+  var t = d.out ? d.out.slice(-600)
+       : d.状态 ? JSON.stringify(d,null,1)
+       : JSON.stringify(d,null,1);
+  L("sys", t);}
+function ask(q){
+  q = q || document.getElementById("q").value.trim();
+  if(!q) return;
+  L("me","› "+q);
+  document.getElementById("q").value="";
+  api("ask",{text:q},function(d){
+    if(d.ok){ L("sys","引擎 "+d._引擎+" 跑完："+JSON.stringify(
+      {ok:d.ok,pass:d.pass,fail:d.fail,sec:d.sec,rc:d.rc},null,0));
+      if(d.out) L("sys", d.out.slice(-700)); }
+    else if(d.未听懂){ L("err","未听懂：「"+d.未听懂+"」\n能做："+(d.能做的||[]).join(" / ")
+      +"\n做不到："+(d.做不到的||[]).join(" / ")); }
+    else L("err", JSON.stringify(d,null,1));});}
+function voice(){
+  var o=document.getElementById("vout");
+  o.innerHTML='<div class="msg sys">实测中…</div>';
+  api("voice",{},function(d){
+    o.innerHTML='<div class="msg '+(d.语音合成?'sys':'err')+'">'+JSON.stringify(d,null,1)+'</div>';});}
+document.getElementById("q").addEventListener("keydown",function(e){if(e.key=="Enter")ask();});
+var dz=document.getElementById("drop"),fi=document.getElementById("file");
+dz.onclick=function(){fi.click();};
+dz.ondragover=function(e){e.preventDefault();dz.classList.add("on");};
+dz.ondragleave=function(){dz.classList.remove("on");};
+dz.ondrop=function(e){e.preventDefault();dz.classList.remove("on");
+  if(e.dataTransfer.files[0]) read(e.dataTransfer.files[0]);};
+fi.onchange=function(){if(fi.files[0]) read(fi.files[0]);};
+function read(f){
+  var r=new FileReader();
+  r.onload=function(){
+    document.getElementById("preview").src=r.result;
+    document.getElementById("preview").style.display="block";
+    document.getElementById("imgout").innerHTML='<div class="msg sys">分析中…</div>';
+    api("image",{b64:r.result},function(d){
+      document.getElementById("imgout").innerHTML=
+        '<div class="msg '+(d.ok?'sys':'err')+'">'+JSON.stringify(d,null,1)+'</div>';});};
+  r.readAsDataURL(f);}
+fetch(BASE+"/api/manifest").then(function(r){return r.json();}).then(function(d){
+  document.getElementById("online").style.display="block";
+  document.getElementById("h").textContent=d.哈希||"—";})
+  .catch(function(){document.getElementById("offline").style.display="block";});
+</script>
+</body></html>
