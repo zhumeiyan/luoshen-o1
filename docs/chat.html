@@ -88,9 +88,29 @@ GitHub Pages 托管不了后端。要真用，本地跑：<code>python3 serve.py
   </div>
 </div>
 
+<h2>外部接入（客户端发过来得有地方接）</h2>
+<div class="box">
+  <div class="row"><input type="text" id="u" placeholder="https://...">
+    <button onclick="fetchIt()">抓取</button>
+    <button onclick="apiIt()">调 API</button></div>
+  <div class="row" style="margin-top:var(--sp-2)">
+    <button onclick="skillIt()">装 Skill（TACT 公开 zip）</button>
+  </div>
+  <div id="netout"></div>
+</div>
+<div class="note">
+<b>客户端 ↔ 服务端已经配对。</b>
+<code>python3 serve.py</code> 起接收端，
+<code>python3 client.py 发图片 x.png</code> 发——文本 / 图片 / 文件 / 事件四类都实测收下并落盘带哈希。
+</div>
+
 <h2>接收端能力矩阵</h2>
 <div class="tablewrap"><table class="table">
 <tr><th>通道</th><th>状态</th><th>依据（实测）</th></tr>
+<tr><td>网页抓取</td><td><span class="badge badge--alive">活</span></td><td>真抓，剥标签，返回字节哈希</td></tr>
+<tr><td>接 Skill</td><td><span class="badge badge--alive">活</span></td><td>实测装入 TACT zip：14 文件 / 2 个 SKILL.md</td></tr>
+<tr><td>接 API</td><td><span class="badge badge--alive">活</span></td><td>真调外部接口，rc=200</td></tr>
+<tr><td>客户端推送</td><td><span class="badge badge--alive">活</span></td><td>文本/图片/文件/事件 四类落盘</td></tr>
 <tr><td>文本输入</td><td><span class="badge badge--alive">活</span></td><td>ask 引擎，指令→引擎真跑</td></tr>
 <tr><td>文本输出</td><td><span class="badge badge--alive">活</span></td><td>页面渲染真实输出</td></tr>
 <tr><td>图片接收</td><td><span class="badge badge--alive">活</span></td><td>PIL 真实分析，返回像素哈希</td></tr>
@@ -155,6 +175,15 @@ function read(f){
       document.getElementById("imgout").innerHTML=
         '<div class="msg '+(d.ok?'sys':'err')+'">'+JSON.stringify(d,null,1)+'</div>';});};
   r.readAsDataURL(f);}
+function netShow(d){
+  document.getElementById("netout").innerHTML=
+    '<div class="msg '+(d.ok?'sys':'err')+'">'+JSON.stringify(d,null,1).slice(0,1400)+'</div>';}
+function fetchIt(){var u=document.getElementById("u").value.trim();if(!u)return;
+  netShow({"状态":"抓取中…"});api("fetch",{spec:u},netShow);}
+function apiIt(){var u=document.getElementById("u").value.trim();if(!u)return;
+  netShow({"状态":"调用中…"});api("api",{spec:u},netShow);}
+function skillIt(){netShow({"状态":"下载并安装中…"});
+  api("skill",{spec:"https://raw.githubusercontent.com/KLameng/TACT-Three-Axis-Check/main/install/tact-skill-package-v1.2.1.zip"},netShow);}
 fetch(BASE+"/api/manifest").then(function(r){return r.json();}).then(function(d){
   document.getElementById("online").style.display="block";
   document.getElementById("h").textContent=d.哈希||"—";})
