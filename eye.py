@@ -29,10 +29,14 @@ plt.rcParams["axes.unicode_minus"] = False
 from PIL import Image
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, ROOT)
+import eye_profile
+P = eye_profile.load()
 
 # ---- 你的眼睛（可查，非我编）----
-FOV_H, FOV_V = 200, 135      # 双眼视野（度）
-FOVEA_DEG = 2                # 中央凹直径（度）
+FOV_H, FOV_V = P["fov_h"], P["fov_v"]   # 来自 profile，可替换
+FOVEA_DEG = P["fovea"]                  # 中央凹直径（度）
+_ECC, _ACU = P["ecc"], P["acu"]
 PHONE_W_CM, PHONE_H_CM = 7.0, 15.0
 DIST_CM = 30.0               # 手机到眼睛
 
@@ -42,11 +46,8 @@ def _ang(half_cm, d=DIST_CM):
 SCREEN_W_DEG = _ang(PHONE_W_CM / 2)
 SCREEN_H_DEG = _ang(PHONE_H_CM / 2)
 
-# 视敏度衰减（心理物理实测插值）
-_ECC = [0, 5, 10, 20, 30, 45]
-_ACU = [1.00, 0.35, 0.15, 0.08, 0.04, 0.0]
-
 def acuity(e):
+    """来自当前 profile —— 换 profile 就换曲线，不硬编码"""
     return float(np.interp(e, _ECC, _ACU))
 
 
@@ -160,10 +161,13 @@ if __name__ == "__main__":
     elif cmd == "看":
         print(look(sys.argv[2]))
     else:
+        print("  profile=%s  中央凹=%.1f°(阈值半径%.1f°)  来源:%s(%s)"
+              % (P.get("src","?"), FOVEA_DEG, FOVEA_DEG/2, P.get("src","?"), P.get("权威","?")))
         print("  %-6s %-6s %-6s %s" % ("块数", "离心角", "中央凹", "文件"))
         for f in sorted(glob.glob(os.path.join(ROOT, "感官桥", "符号_v*.png"))):
             b, a = survive(f)
             e = ecc_of_main(f)
+            ok = e is not None and e <= FOVEA_DEG / 2
             print("  %-6d %-6s %-6s %s" % (b["块数"], "%.1f°" % e if e else "—",
-                                          "✅" if e and e <= 2 else "⚠", os.path.basename(f)))
+                                          "✅" if ok else "⚠", os.path.basename(f)))
         print("\n→ 块数变少=细节被你的眼睛吃掉了；存活率=主结论还剩多少")
