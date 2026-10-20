@@ -4,45 +4,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>实时引擎 · 洛神 O1</title>
-<style>
-*{box-sizing:border-box;margin:0;padding:0}
-body{font-family:-apple-system,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
- background:#0d1117;color:#e6edf3;line-height:1.7;padding:20px 14px 92px}
-.wrap{max-width:860px;margin:0 auto}
-h1{font-size:22px} .en{font-size:13px;color:#8b949e;margin-top:4px}
-h2{font-size:16px;margin:26px 0 12px;padding-bottom:8px;border-bottom:1px solid #21262d}
-button{background:#21262d;border:1px solid #30363d;color:#e6edf3;border-radius:7px;
- padding:9px 15px;font-size:13px;cursor:pointer;margin:0 8px 8px 0;font-family:inherit}
-button:hover{border-color:#2f81f7;background:#30363d}
-button:disabled{opacity:.45;cursor:wait}
-button.r{background:#1f6feb;border-color:#1f6feb;color:#fff}
-button.r:hover{background:#388bfd}
-pre{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:13px 15px;
- font-size:11.5px;color:#c9d1d9;overflow-x:auto;max-height:420px;overflow-y:auto;
- font-family:ui-monospace,monospace;line-height:1.55;white-space:pre-wrap;word-break:break-word}
-.stat{display:inline-block;font-size:12px;padding:2px 10px;border-radius:14px;margin-left:8px}
-.ok{background:#1a7f3722;color:#3fb950;border:1px solid #3fb95055}
-.no{background:#f8514922;color:#f85149;border:1px solid #f8514955}
-.wn{background:#d2992222;color:#d29922;border:1px solid #d2992255}
-textarea{width:100%;background:#161b22;border:1px solid #30363d;border-radius:7px;
- color:#e6edf3;padding:10px;font-family:ui-monospace,monospace;font-size:12px;min-height:80px}
-.note{font-size:12px;color:#8b949e;background:#161b22;border-left:3px solid #d29922;
- padding:10px 14px;border-radius:0 6px 6px 0;margin:10px 0}
-.bad{border-left-color:#f85149}
-code{background:#161b22;border:1px solid #30363d;border-radius:5px;padding:1px 6px;font-size:12px;color:#7ee787}
-nav{position:fixed;left:0;right:0;bottom:0;background:#161b22;border-top:1px solid #30363d;
- display:flex;z-index:99;padding-bottom:env(safe-area-inset-bottom)}
-nav a{flex:1;text-align:center;padding:11px 4px 9px;font-size:12px;color:#8b949e;
- text-decoration:none;border-top:2px solid transparent}
-nav a .i{display:block;font-size:17px;margin-bottom:1px}
-nav a.on{color:#58a6ff;border-top-color:#2f81f7;background:#0d1117}
-nav a:hover{text-decoration:none;color:#c9d1d9}
-a{color:#58a6ff}
-</style>
+
+<link rel="stylesheet" href="theme.css">
 </head>
 <body><div class="wrap">
 
-<h1>实时引擎</h1>
+<h1 class="page__title">实时引擎</h1>
 <div class="en">这一页不是静态读数 —— 每个按钮都<b>真的在跑</b>，返回的是当场结果</div>
 
 <div class="note" id="st">检测服务中…</div>
@@ -85,13 +52,7 @@ GitHub Pages 只能托管静态文件，跑不了后端。所以<b>实时能力�
 如果上面显示"服务未启动"，说明你现在看的是 Pages 上的静态副本，按钮点不动 —— 这是真的，不是坏了。</div>
 
 </div>
-<nav>
-<a href="index.html"><span class="i">◎</span>探索</a>
-<a href="helper.html"><span class="i">◈</span>助手</a>
-<a href="console.html"><span class="i">▤</span>控制台</a>
-<a href="live.html" class="on"><span class="i">⚡</span>实时</a>
-<a href="mine.html"><span class="i">◕</span>我的</a>
-</nav>
+<nav><a href="index.html"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M15.5 8.5l-2 5-5 2 2-5z"/></svg>探索</a><a href="helper.html"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4 3.6-6 8-6s8 2 8 6"/></svg>助手</a><a href="console.html"><svg viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>控制台</a><a href="live.html" class="on"><svg viewBox="0 0 24 24"><path d="M2 12h4l3-7 4 14 3-7h6"/></svg>实时</a><a href="mine.html"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="10" r="3"/><path d="M6 20c1.5-3.5 3.5-5 6-5s4.5 1.5 6 5"/></svg>我的</a></nav>
 
 <script>
 const BASE = location.port === "" || location.hostname.endsWith("github.io")
