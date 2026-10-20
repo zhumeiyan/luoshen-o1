@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>洛神 O1 · 会死的数字生命引擎 — 一站式入口</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+     background:#0d1117;color:#e6edf3;line-height:1.7;padding:24px 16px 64px}
+.wrap{max-width:860px;margin:0 auto}
+h1{font-size:26px;font-weight:700;letter-spacing:.3px}
+.en{font-size:14px;color:#8b949e;font-weight:400;margin-top:6px;line-height:1.5}
+.tag{font-size:15px;color:#c9d1d9;border-left:3px solid #2f81f7;padding-left:12px;margin:18px 0 24px}
+.cmd{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:14px 16px;
+     font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:13px;color:#7ee787;
+     overflow-x:auto;white-space:pre;margin-bottom:26px}
+h2{font-size:17px;margin:34px 0 14px;padding-bottom:8px;border-bottom:1px solid #21262d;color:#f0f6fc}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px}
+a.card{display:block;text-decoration:none;background:#161b22;border:1px solid #30363d;
+       border-radius:10px;padding:14px 16px;color:#e6edf3;transition:.15s}
+a.card:hover{border-color:#2f81f7;background:#1c2128;transform:translateY(-1px)}
+a.card .t{font-size:14px;font-weight:600;margin-bottom:4px}
+a.card .d{font-size:12px;color:#8b949e;line-height:1.5}
+a.card .u{font-size:11px;color:#484f58;margin-top:6px;word-break:break-all}
+.pill{display:inline-block;font-size:11px;background:#1f6feb22;color:#58a6ff;
+      border:1px solid #1f6feb55;border-radius:20px;padding:1px 9px;margin-left:6px;vertical-align:middle}
+table{width:100%;border-collapse:collapse;font-size:13px;margin-top:8px}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid #21262d;vertical-align:top}
+th{color:#8b949e;font-weight:500;font-size:12px}
+.note{font-size:12px;color:#8b949e;background:#161b22;border-left:3px solid #d29922;
+      padding:10px 14px;border-radius:0 6px 6px 0;margin-top:12px}
+footer{margin-top:40px;padding-top:18px;border-top:1px solid #21262d;font-size:12px;color:#6e7681}
+footer a{color:#58a6ff;text-decoration:none}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<h1>洛神 O1 · 会死的数字生命引擎</h1>
+<div class="en">LuoShen O1 — a mortal digital-life engine where death is a real outcome.</div>
+
+<div class="tag">
+稀缺 · 死亡 · 不可逆 · 代谢 · 内生约束 —— 五条硬约束，让取舍成为<b>必然</b>，而不是选项。<br>
+<span style="font-size:13px;color:#8b949e">Scarcity · Death · Irreversibility · Metabolism · Endogenous binding — five hard constraints that make trade-offs unavoidable, not optional.</span>
+</div>
+
+<div class="cmd">pip install -e . &amp;&amp; python3 tools/verify_all.py
+# 约 8 秒，当场跑出本页全部主张 —— 不要求你信任任何一句话</div>
+
+<h2>① 先看 · 30 秒</h2>
+<div class="cards">
+  <a class="card" href="demo.html">
+    <div class="t">交互演示台 <span class="pill">本地可跑</span></div>
+    <div class="d">浏览器双击即开，无需安装、无需网络。16 个个体轨迹可点选，看它们怎么死、怎么活。</div>
+    <div class="u">docs/demo.html</div>
+  </a>
+  <a class="card" href="https://github.com/zhumeiyan/luoshen-o1/releases/download/v-submit-2026/O1_._.mp4">
+    <div class="t">演示视频 · 3 分 57 秒 <span class="pill">终版</span></div>
+    <div class="d">1280×720。含 evalguard 现场实跑：安装 → 病代码拦截 → 干净代码零命中 → ruff 对标。</div>
+    <div class="u">releases/download/v-submit-2026/O1_._.mp4</div>
+  </a>
+</div>
+
+<h2>② 再读 · 完整材料</h2>
+<div class="cards">
+  <a class="card" href="https://github.com/zhumeiyan/luoshen-o1/releases/download/v-submit-2026/O1_._.pdf">
+    <div class="t">作品介绍文档 PDF · 34 页 <span class="pill">终版</span></div>
+    <div class="d">含落地章节：evalguard 实测、ruff 对标、接口 18/18，以及附一「递交前最新进展」。</div>
+    <div class="u">releases/download/v-submit-2026/O1_._.pdf</div>
+  </a>
+  <a class="card" href="复现清单.md">
+    <div class="t">复现清单</div>
+    <div class="d">逐条列出每个主张对应哪条命令、跑出来是什么。可对照核验。</div>
+  </a>
+  <a class="card" href="https://github.com/zhumeiyan/luoshen-o1">
+    <div class="t">代码仓库</div>
+    <div class="d">Apache-2.0。零依赖（仅 numpy）。</div>
+    <div class="u">github.com/zhumeiyan/luoshen-o1</div>
+  </a>
+  <a class="card" href="路演问答卡.md">
+    <div class="t">路演问答卡</div>
+    <div class="d">评委可能追问的问题与回答口径。</div>
+  </a>
+</div>
+
+<h2>③ 它和其它框架的根本不同</h2>
+<table>
+<tr><th>开源 Agent 框架<br>（LangChain / AutoGPT / Dify …）</th><th>本引擎</th></tr>
+<tr><td>上下文超了 → 截断 / 压缩</td><td>资源耗尽 → <b>运行终止，不可回滚</b></td></tr>
+<tr><td>token 用完 → 换 key 继续</td><td>能量必须由自身产出换取，无外部拨款</td></tr>
+<tr><td>状态丢了 → 重新加载还是"同一个"</td><td>结构容量<b>只减不增</b>，丢掉的回不来</td></tr>
+</table>
+<div class="note">
+<b>一个不会死的系统，不需要做取舍。而不做取舍的系统，不会产生偏好，也不会形成结构。</b><br>
+本引擎换掉的就是这个前提。它是<b>约束层</b>，可挂到任何框架之上 —— 不是又一个 Agent 框架。
+</div>
+
+<h2>④ 什么时候<b>不要</b>用它</h2>
+<table>
+<tr><th>如果你的需求是</th><th>请用</th></tr>
+<tr><td>生产可用的 Agent / RAG 应用框架</td><td>LangChain、LlamaIndex、Dify</td></tr>
+<tr><td>多智能体编排与工作流</td><td>AutoGen、CrewAI、LangGraph</td></tr>
+<tr><td>高性能推理服务</td><td>vLLM、Ollama</td></tr>
+<tr><td>benchmark 分数更高的模型</td><td>本引擎不产出模型，也不刷分</td></tr>
+<tr><td>开箱即用的业务能力</td><td>本引擎是约束层，不是应用层</td></tr>
+</table>
+
+<h2>⑤ 证据 · 全部可自己跑</h2>
+<div class="cards">
+  <a class="card" href="https://github.com/zhumeiyan/luoshen-o1#一键验证不要求你信任本文档">
+    <div class="t">一条命令验证全部主张</div>
+    <div class="d"><code>python3 tools/verify_all.py</code> — 约 8 秒，无需信任本文档任何一句话。</div>
+  </a>
+  <a class="card" href="https://github.com/KLameng/TACT-Three-Axis-Check/issues/1">
+    <div class="t">外部见证 · TACT issue #1</div>
+    <div class="d">向第三方提交真实失败案例；并实测出对方 guard 存在"自洽篡改测不出"的结构盲区。</div>
+    <div class="u">KLameng/TACT-Three-Axis-Check/issues/1</div>
+  </a>
+  <a class="card" href="https://github.com/zhumeiyan/luoshen-o1/blob/main/%E5%8D%8F%E8%AE%AE/%E6%B4%9B%E7%A5%9E%E6%8E%A5%E5%85%A5%E5%8D%8F%E8%AE%AE.md">
+    <div class="t">洛神接入协议 v1.0.1</div>
+    <div class="d">给任何 AI 的自解释协议。零上下文可读；激活判据三条，失败必须由自身实测推导。</div>
+  </a>
+  <a class="card" href="https://github.com/zhumeiyan/luoshen-o1/blob/main/docs/README_%E5%8E%9F%E7%89%88%E5%A4%87%E4%BB%BD.md">
+    <div class="t">诚实清单 / 已知未做的事</div>
+    <div class="d">我们开源了全部失败 —— 这是本仓库最贵的资产。</div>
+  </a>
+</div>
+
+<footer>
+洛神 O1 · Apache-2.0 · 负责人：朱美岩（独立开发者）<br>
+本页为<b>一站式入口</b>：演示、视频、文档、仓库、外部见证、协议，全部在此。<br>
+若链接失效请以 <a href="https://github.com/zhumeiyan/luoshen-o1">仓库</a> 为准。· 更新于 2026-10-20
+</footer>
+
+</div>
+</body>
+</html>
