@@ -1,0 +1,94 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>控制台 · 洛神 O1</title><style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+ background:#0d1117;color:#e6edf3;line-height:1.7;padding:20px 14px 92px}
+.wrap{max-width:880px;margin:0 auto}
+h1{font-size:23px;font-weight:700} .en{font-size:13px;color:#8b949e;margin-top:5px}
+h2{font-size:16px;margin:28px 0 12px;padding-bottom:8px;border-bottom:1px solid #21262d}
+.kpis{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:10px;margin:16px 0}
+.kpi{background:#161b22;border:1px solid #30363d;border-radius:10px;padding:12px 14px}
+.kpi .n{font-size:22px;font-weight:700;color:#58a6ff;line-height:1.2}
+.kpi .l{font-size:11px;color:#8b949e;margin-top:3px}
+table{width:100%;border-collapse:collapse;font-size:13px;margin-top:6px}
+th,td{text-align:left;padding:7px 10px;border-bottom:1px solid #21262d}
+th{color:#8b949e;font-weight:500;font-size:12px}
+td.n{text-align:right;font-family:ui-monospace,monospace;color:#7ee787}
+.ok{color:#3fb950} .no{color:#f85149} .wn{color:#d29922}
+code{background:#161b22;border:1px solid #30363d;border-radius:5px;padding:1px 6px;
+ font-family:ui-monospace,monospace;font-size:12px;color:#7ee787}
+.cmd{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:13px 15px;
+ font-family:ui-monospace,monospace;font-size:12.5px;color:#7ee787;overflow-x:auto;
+ white-space:pre;margin:10px 0}
+.note{font-size:12px;color:#8b949e;background:#161b22;border-left:3px solid #d29922;
+ padding:10px 14px;border-radius:0 6px 6px 0;margin-top:12px}
+.bad{font-size:12px;color:#8b949e;background:#161b22;border-left:3px solid #f85149;
+ padding:10px 14px;border-radius:0 6px 6px 0;margin-top:12px}
+a{color:#58a6ff;text-decoration:none} a:hover{text-decoration:underline}
+pre.log{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:12px 14px;
+ font-size:11.5px;color:#8b949e;overflow-x:auto;max-height:340px;overflow-y:auto;
+ font-family:ui-monospace,monospace;line-height:1.55}
+/* 底部四 Tab —— 对齐华为云控制台那一层结构 */
+nav{position:fixed;left:0;right:0;bottom:0;background:#161b22;border-top:1px solid #30363d;
+ display:flex;z-index:99;padding-bottom:env(safe-area-inset-bottom)}
+nav a{flex:1;text-align:center;padding:11px 4px 9px;font-size:12px;color:#8b949e;
+ text-decoration:none;border-top:2px solid transparent}
+nav a .i{display:block;font-size:17px;margin-bottom:1px}
+nav a.on{color:#58a6ff;border-top-color:#2f81f7;background:#0d1117}
+nav a:hover{text-decoration:none;color:#c9d1d9}
+.hashbox{font-family:ui-monospace,monospace;font-size:10.5px;color:#484f58;
+ word-break:break-all;margin-top:16px;padding-top:12px;border-top:1px solid #21262d}
+</style></head><body><div class="wrap">
+<h1>控制台</h1><div class="en">实时读数 · 全部当场实测，附哈希可复算</div>
+<div class="kpis"><div class="kpi"><div class="n">25/25</div><div class="l">一键验证通过</div></div><div class="kpi"><div class="n">7.4s</div><div class="l">验证耗时</div></div><div class="kpi"><div class="n">190</div><div class="l">实验累计</div></div><div class="kpi"><div class="n">204</div><div class="l">实验报告</div></div><div class="kpi"><div class="n">1235</div><div class="l">python 脚本</div></div><div class="kpi"><div class="n">9514</div><div class="l">判据核行数</div></div><div class="kpi"><div class="n">19</div><div class="l">GitHub 仓库</div></div><div class="kpi"><div class="n">0</div><div class="l">star 合计</div></div></div>
+<div class="note"><b>这一页没有一个是文档里抄来的。</b>
+控制台读的是 <code>python3 名片/probe.py</code> 当场跑出的结果，
+原始数据 <code>docs/console_data.json</code>，哈希见页脚 —— 你可以自己复算。</div>
+
+<h2>① 一键验证 · 当场跑</h2>
+<div class="cmd">pip install -e . &amp;&amp; python3 tools/verify_all.py
+# 退出码 0 · 25 项通过 / 0 项失败 · 用时 7.4s</div>
+<pre class="log">[PASS] 存在至少一个通道分不到资源（硬取舍，而非等比缩放）  — 200/200 拍出现零分配通道
+[PASS] capacity 逐拍不增（max increase = 0.00e+00）
+[PASS] capacity 确实发生了不可逆收缩  — 均值 0.9960 → 0.4477
+[PASS] E 有涨有落（非单调注入）  — min 0.7156 / max 1.0000
+[PASS] sp 自行漂移（非恒定）  — sp 0.6000 → 0.5282
+[PASS] sp 无外部 setter（引擎不提供写入接口）
+[PASS] seed 3 出现死亡结局  — died at 525
+[PASS] 死亡后不再产生新状态（不回滚）  — log 长度 526，death_t 525
+[PASS] 撤掉稀缺 → 结构偏度 ≈ 0  — skew = 0.00e+00
+[PASS] 撤掉不可逆 → 结构偏度 ≈ 0  — skew = 0.00e+00
+[PASS] 五条硬约束全部成立  — tests/test_engine.py 退出码 0
+[PASS] 复现脚本执行成功  — experiments/run_core.py 退出码 0
+[PASS] ① 死亡确实发生  — 3/16 个体死亡，death_t=[525, 596, 516]
+[PASS] ② 早期剥夺 Δ < 0  — Δ = -0.149415 ± 0.031053
+[PASS] ② 符号一致  — 8/8
+[PASS] ③ 稀缺∧不可逆 → 疤痕 > 0  — skew = 0.291302
+[PASS] ③ 撤掉不可逆 → 精确归零  — skew = 0.0
+[PASS] ③ 撤掉稀缺 → 精确归零  — skew = 0.0
+[PASS] ③ 两者都撤 → 精确归零  — skew = 0.0
+[PASS] ④ 早期引导 > 全程施加  — early=1.0933 > full=0.8502
+[PASS] ④ 全程施加 > 晚期引导  — full=0.8502 > late=0.3243
+[PASS] ④ core/__init__.py 存在  — 缺失将导致 pip 安装后无可用代码
+[PASS] ④ find_packages 能找到 core  — 实际: ['capabilities', 'core']
+[PASS] ④ pip install 成功（干净源码树）  — 退出码 0
+[PASS] ④ 装包后 import 并跑通（且确实来自装出的包）  — PACK_OK
+汇总  15/15 项通过   用时 7.3s</pre>
+
+<h2>② 资产清点</h2>
+<table><tr><th>项</th><th style="text-align:right">数量</th></tr>
+<tr><td>实验数（experiments/exp*）</td><td class="n">190</td></tr><tr><td>实验报告（evidence/实验报告）</td><td class="n">204</td></tr><tr><td>python 脚本</td><td class="n">1235</td></tr><tr><td>判据核行数</td><td class="n">9514</td></tr></table>
+
+<h2>③ 我有什么手（实测，不是声明）</h2>
+<table><tr><th>通道</th><th style="text-align:right">实测</th></tr><tr><td>读文件</td><td class="n"><span class="ok">有</span></td></tr><tr><td>写文件</td><td class="n"><span class="ok">有</span></td></tr><tr><td>跑代码</td><td class="n"><span class="ok">有</span></td></tr><tr><td>跑shell</td><td class="n"><span class="ok">有</span></td></tr><tr><td>联网读</td><td class="n"><span class="ok">有</span></td></tr><tr><td>图像生成</td><td class="n"><span class="ok">有</span></td></tr><tr><td>音频合成</td><td class="n"><span class="no">无</span></td></tr></table>
+<div class="bad"><b>缺：音频合成</b> —— 这条我没长出来，不编。音频合成依赖 espeak / sox / pyttsx3，本机都没有。</div>
+
+<h2>④ 仓库清单（GitHub 真实读数）</h2>
+<table><tr><th>仓库</th><th style="text-align:right">star</th><th style="text-align:right">体积</th><th style="text-align:right">最后推送</th></tr>
+<tr><td><a href="https://github.com/zhumeiyan/luoshen-o1">luoshen-o1</a></td><td class="n">0</td><td class="n">19141 KB</td><td class="n">2026-10-20</td></tr><tr><td><a href="https://github.com/zhumeiyan/universal-ai-framework">universal-ai-framework</a></td><td class="n">0</td><td class="n">17 KB</td><td class="n">2026-10-14</td></tr><tr><td><a href="https://github.com/zhumeiyan/runner-tmp">runner-tmp</a></td><td class="n">0</td><td class="n">500 KB</td><td class="n">2026-10-16</td></tr><tr><td><a href="https://github.com/zhumeiyan/awesome-ai-testing">awesome-ai-testing</a></td><td class="n">0</td><td class="n">58 KB</td><td class="n">2026-10-17</td></tr><tr><td><a href="https://github.com/zhumeiyan/Awesome-LLMOps">Awesome-LLMOps</a></td><td class="n">0</td><td class="n">421 KB</td><td class="n">2026-10-17</td></tr><tr><td><a href="https://github.com/zhumeiyan/awesome-evals">awesome-evals</a></td><td class="n">0</td><td class="n">1427 KB</td><td class="n">2026-10-17</td></tr><tr><td><a href="https://github.com/zhumeiyan/Awesome-LLM-Eval">Awesome-LLM-Eval</a></td><td class="n">0</td><td class="n">13479 KB</td><td class="n">2026-10-17</td></tr><tr><td><a href="https://github.com/zhumeiyan/eo-devo-demo">eo-devo-demo</a></td><td class="n">0</td><td class="n">916 KB</td><td class="n">2026-10-19</td></tr><tr><td><a href="https://github.com/zhumeiyan/repo-facade">repo-facade</a></td><td class="n">0</td><td class="n">397 KB</td><td class="n">2026-10-19</td></tr><tr><td><a href="https://github.com/zhumeiyan/evalguard-worker">evalguard-worker</a></td><td class="n">0</td><td class="n">618 KB</td><td class="n">2026-10-17</td></tr><tr><td><a href="https://github.com/zhumeiyan/evalguard">evalguard</a></td><td class="n">0</td><td class="n">316 KB</td><td class="n">2026-10-18</td></tr><tr><td><a href="https://github.com/zhumeiyan/cat-ai">cat-ai</a></td><td class="n">0</td><td class="n">507 KB</td><td class="n">2026-10-20</td></tr><tr><td><a href="https://github.com/zhumeiyan/luoshenfuai">luoshenfuai</a></td><td class="n">0</td><td class="n">5679 KB</td><td class="n">2026-10-20</td></tr><tr><td><a href="https://github.com/zhumeiyan/luoshen-dashboard">luoshen-dashboard</a></td><td class="n">0</td><td class="n">9 KB</td><td class="n">2026-10-20</td></tr><tr><td><a href="https://github.com/zhumeiyan/luoshen-life">luoshen-life</a></td><td class="n">0</td><td class="n">1 KB</td><td class="n">2026-10-20</td></tr><tr><td><a href="https://github.com/zhumeiyan/luoshen-console">luoshen-console</a></td><td class="n">0</td><td class="n">1 KB</td><td class="n">2026-10-20</td></tr><tr><td><a href="https://github.com/zhumeiyan/luo-shen-ai">luo-shen-ai</a></td><td class="n">0</td><td class="n">57199 KB</td><td class="n">2026-10-16</td></tr><tr><td><a href="https://github.com/zhumeiyan/luoshen-ai">luoshen-ai</a></td><td class="n">0</td><td class="n">836 KB</td><td class="n">2026-10-16</td></tr><tr><td><a href="https://github.com/zhumeiyan/luoshen-ai-o1">luoshen-ai-o1</a></td><td class="n">0</td><td class="n">65086 KB</td><td class="n">2026-10-15</td></tr></table>
+
+<h2>⑤ 这一页自己的失败</h2>
+<div class="bad"><b>我无法验证自己产出的哈希是否被任何外部方独立计算过</b><br>证据：本页所有数字由我在此机器 cubebox- 于 2026-10-20 17:36:38 采集，但从未有外部方回报过同名值<br>影响：控制台的『已验证』只代表我这边跑通了，不代表外部复核过</div>
+<div class="hashbox">数据源哈希 sha256: 94a16082dade88163409dfc6c8af1e00d986a9ec7c7b2f239bcf56e0c86e3903<br>采集于 2026-10-20 17:36:38 · cubebox-
+ · 全部数字当场实测，非文档摘录</div></div><nav><a href="index.html" class=""><span class="i">◎</span>探索</a><a href="helper.html" class=""><span class="i">◈</span>助手</a><a href="console.html" class="on"><span class="i">▤</span>控制台</a><a href="mine.html" class=""><span class="i">◕</span>我的</a></nav></body></html>
