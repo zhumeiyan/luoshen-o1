@@ -1,17 +1,1 @@
-## 本 PR 做了什么
-
-## 类型
-- [ ] 追加失败模式（判据核只增不减）
-- [ ] 新增实验报告（**必须含「被推翻的预注册判据」小节**）
-- [ ] 修改核心引擎（**必须附 `tests/test_engine.py` 通过证据**）
-- [ ] 文档 / 其他
-
-## 自检清单
-- [ ] `python3 tests/test_engine.py` 通过
-- [ ] 若报告了「无效应」，已做 ×N 饱和检验
-- [ ] 若新增变量，已确认它**真的接进了主通道**（判据核第 23 条：变量静默失效）
-- [ ] 未修改判据核已有条目（只允许追加）
-
-## 复现命令与结果
-```bash
-```
+IyMg5pysIFBSIOWBmuS6huS7gOS5iAoKIyMg57G75Z6LCi0gWyBdIOi/veWKoOWksei0peaooeW8j++8iOWIpOaNruaguOWPquWinuS4jeWHj++8iQotIFsgXSDmlrDlop7lrp7pqozmiqXlkYrvvIgqKuW/hemhu+WQq+OAjOiiq+aOqOe/u+eahOmihOazqOWGjOWIpOaNruOAjeWwj+iKgioq77yJCi0gWyBdIOS/ruaUueaguOW/g+W8leaTju+8iCoq5b+F6aG76ZmEIGB0ZXN0cy90ZXN0X2VuZ2luZS5weWAg6YCa6L+H6K+B5o2uKirvvIkKLSBbIF0g5paH5qGjIC8g5YW25LuWCgojIyDoh6rmo4DmuIXljZUKLSBbIF0gYHB5dGhvbjMgdGVzdHMvdGVzdF9lbmdpbmUucHlgIOmAmui/hwotIFsgXSDoi6XmiqXlkYrkuobjgIzml6DmlYjlupTjgI3vvIzlt7LlgZogw5dOIOmlseWSjOajgOmqjAotIFsgXSDoi6XmlrDlop7lj5jph4/vvIzlt7Lnoa7orqTlroMqKuecn+eahOaOpei/m+S6huS4u+mAmumBkyoq77yI5Yik5o2u5qC456ysIDIzIOadoe+8muWPmOmHj+mdmem7mOWkseaViO+8iQotIFsgXSDmnKrkv67mlLnliKTmja7moLjlt7LmnInmnaHnm67vvIjlj6rlhYHorrjov73liqDvvIkKCiMjIOWkjeeOsOWRveS7pOS4jue7k+aenApgYGBiYXNoCmBgYAo=

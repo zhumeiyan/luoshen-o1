@@ -1,17 +1,1 @@
-import json, base64, urllib.request, os, sys
-TOKEN=os.environ.get("GH_TK", "")   # 凭据不入库：从环境变量读取
-REPO="KLameng/TACT-Three-Axis-Check"
-files=["engine/tact_run.py","engine/data/calibration_cases.json","engine/data/coordinate_data.json",
-"SELF_FAILURES.md","engine/README.md","tact-three-axis-check/docs/TACT-kappa全历程汇总与分析.md",
-"tact-three-axis-check/references/verification-chain.md"]
-for f in files:
-    url=f"https://api.github.com/repos/{REPO}/contents/{urllib.parse.quote(f)}?ref=main"
-    req=urllib.request.Request(url, headers={"Authorization":f"token {TOKEN}","User-Agent":"x"})
-    try:
-        d=json.load(urllib.request.urlopen(req, timeout=60))
-        raw=base64.b64decode(d["content"])
-        out=os.path.basename(f)
-        open(out,"wb").write(raw)
-        print(f"OK  {out:45s} {len(raw):>8} bytes")
-    except Exception as e:
-        print(f"FAIL {f}: {e}")
+aW1wb3J0IGpzb24sIGJhc2U2NCwgdXJsbGliLnJlcXVlc3QsIG9zLCBzeXMKVE9LRU49b3MuZW52aXJvbi5nZXQoIkdIX1RLIiwgIiIpICAgIyDlh63mja7kuI3lhaXlupPvvJrku47njq/looPlj5jph4/or7vlj5YKUkVQTz0iS0xhbWVuZy9UQUNULVRocmVlLUF4aXMtQ2hlY2siCmZpbGVzPVsiZW5naW5lL3RhY3RfcnVuLnB5IiwiZW5naW5lL2RhdGEvY2FsaWJyYXRpb25fY2FzZXMuanNvbiIsImVuZ2luZS9kYXRhL2Nvb3JkaW5hdGVfZGF0YS5qc29uIiwKIlNFTEZfRkFJTFVSRVMubWQiLCJlbmdpbmUvUkVBRE1FLm1kIiwidGFjdC10aHJlZS1heGlzLWNoZWNrL2RvY3MvVEFDVC1rYXBwYeWFqOWOhueoi+axh+aAu+S4juWIhuaekC5tZCIsCiJ0YWN0LXRocmVlLWF4aXMtY2hlY2svcmVmZXJlbmNlcy92ZXJpZmljYXRpb24tY2hhaW4ubWQiXQpmb3IgZiBpbiBmaWxlczoKICAgIHVybD1mImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20vcmVwb3Mve1JFUE99L2NvbnRlbnRzL3t1cmxsaWIucGFyc2UucXVvdGUoZil9P3JlZj1tYWluIgogICAgcmVxPXVybGxpYi5yZXF1ZXN0LlJlcXVlc3QodXJsLCBoZWFkZXJzPXsiQXV0aG9yaXphdGlvbiI6ZiJ0b2tlbiB7VE9LRU59IiwiVXNlci1BZ2VudCI6IngifSkKICAgIHRyeToKICAgICAgICBkPWpzb24ubG9hZCh1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD02MCkpCiAgICAgICAgcmF3PWJhc2U2NC5iNjRkZWNvZGUoZFsiY29udGVudCJdKQogICAgICAgIG91dD1vcy5wYXRoLmJhc2VuYW1lKGYpCiAgICAgICAgb3BlbihvdXQsIndiIikud3JpdGUocmF3KQogICAgICAgIHByaW50KGYiT0sgIHtvdXQ6NDVzfSB7bGVuKHJhdyk6Pjh9IGJ5dGVzIikKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZToKICAgICAgICBwcmludChmIkZBSUwge2Z9OiB7ZX0iKQo=

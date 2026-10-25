@@ -1,7 +1,1 @@
-#!/bin/bash
-# 按需单条读，不整读 —— 脑子不炸
-#   bash 读我.sh          列出条目
-#   bash 读我.sh 根        读单条
-D=/data/workspace/luoshen-o1/外存
-[ -z "$1" ] && { ls "$D"/*.md; exit 0; }
-cat "$D/$1.md" 2>/dev/null || echo "没有这条"
+IyEvYmluL2Jhc2gKIyDmjInpnIDljZXmnaHor7vvvIzkuI3mlbTor7sg4oCU4oCUIOiEkeWtkOS4jeeCuAojICAgYmFzaCDor7vmiJEuc2ggICAgICAgICAg5YiX5Ye65p2h55uuCiMgICBiYXNoIOivu+aIkS5zaCDmoLkgICAgICAgIOivu+WNleadoQpEPS9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xL+WkluWtmApbIC16ICIkMSIgXSAmJiB7IGxzICIkRCIvKi5tZDsgZXhpdCAwOyB9CmNhdCAiJEQvJDEubWQiIDI+L2Rldi9udWxsIHx8IGVjaG8gIuayoeaciei/meadoSIK

@@ -1,10 +1,1 @@
-const fs=require('fs');
-const {egScan}=require('./egjs.js');
-for(const f of process.argv.slice(2)){
-  const src=fs.readFileSync(f,'utf8');
-  const r=egScan(src,{});
-  console.log('--- '+f.split('/').pop());
-  r.findings.forEach(x=>{console.log('  ['+x.sev.toUpperCase()+'] '+x.id+' '+x.title);
-    x.hits.slice(0,4).forEach(h=>console.log('      L'+h.line+': '+h.code.slice(0,72)));});
-  console.log('  => '+r.counts.blocker+' blocker / '+r.counts.warn+' warn / '+r.counts.info+' info');
-}
+Y29uc3QgZnM9cmVxdWlyZSgnZnMnKTsKY29uc3Qge2VnU2Nhbn09cmVxdWlyZSgnLi9lZ2pzLmpzJyk7CmZvcihjb25zdCBmIG9mIHByb2Nlc3MuYXJndi5zbGljZSgyKSl7CiAgY29uc3Qgc3JjPWZzLnJlYWRGaWxlU3luYyhmLCd1dGY4Jyk7CiAgY29uc3Qgcj1lZ1NjYW4oc3JjLHt9KTsKICBjb25zb2xlLmxvZygnLS0tICcrZi5zcGxpdCgnLycpLnBvcCgpKTsKICByLmZpbmRpbmdzLmZvckVhY2goeD0+e2NvbnNvbGUubG9nKCcgIFsnK3guc2V2LnRvVXBwZXJDYXNlKCkrJ10gJyt4LmlkKycgJyt4LnRpdGxlKTsKICAgIHguaGl0cy5zbGljZSgwLDQpLmZvckVhY2goaD0+Y29uc29sZS5sb2coJyAgICAgIEwnK2gubGluZSsnOiAnK2guY29kZS5zbGljZSgwLDcyKSkpO30pOwogIGNvbnNvbGUubG9nKCcgID0+ICcrci5jb3VudHMuYmxvY2tlcisnIGJsb2NrZXIgLyAnK3IuY291bnRzLndhcm4rJyB3YXJuIC8gJytyLmNvdW50cy5pbmZvKycgaW5mbycpOwp9Cg==

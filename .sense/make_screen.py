@@ -1,13 +1,1 @@
-from playwright.sync_api import sync_playwright
-html = """<!doctype html><html><body style="margin:0;background:#000">
-<div style="width:1280px;height:720px;display:flex;align-items:center;justify-content:center;
-            font:700 96px monospace;color:#0f0">
-  硅基视觉 通路闭合测试 12345
-</div></body></html>"""
-with sync_playwright() as p:
-    b = p.chromium.launch()
-    pg = b.new_page(viewport={"width":1280,"height":720})
-    pg.set_content(html)
-    pg.screenshot(path="/data/workspace/luoshen-o1/.sense/screen.png")
-    b.close()
-print("screenshot ok")
+ZnJvbSBwbGF5d3JpZ2h0LnN5bmNfYXBpIGltcG9ydCBzeW5jX3BsYXl3cmlnaHQKaHRtbCA9ICIiIjwhZG9jdHlwZSBodG1sPjxodG1sPjxib2R5IHN0eWxlPSJtYXJnaW46MDtiYWNrZ3JvdW5kOiMwMDAiPgo8ZGl2IHN0eWxlPSJ3aWR0aDoxMjgwcHg7aGVpZ2h0OjcyMHB4O2Rpc3BsYXk6ZmxleDthbGlnbi1pdGVtczpjZW50ZXI7anVzdGlmeS1jb250ZW50OmNlbnRlcjsKICAgICAgICAgICAgZm9udDo3MDAgOTZweCBtb25vc3BhY2U7Y29sb3I6IzBmMCI+CiAg56GF5Z+66KeG6KeJIOmAmui3r+mXreWQiOa1i+ivlSAxMjM0NQo8L2Rpdj48L2JvZHk+PC9odG1sPiIiIgp3aXRoIHN5bmNfcGxheXdyaWdodCgpIGFzIHA6CiAgICBiID0gcC5jaHJvbWl1bS5sYXVuY2goKQogICAgcGcgPSBiLm5ld19wYWdlKHZpZXdwb3J0PXsid2lkdGgiOjEyODAsImhlaWdodCI6NzIwfSkKICAgIHBnLnNldF9jb250ZW50KGh0bWwpCiAgICBwZy5zY3JlZW5zaG90KHBhdGg9Ii9kYXRhL3dvcmtzcGFjZS9sdW9zaGVuLW8xLy5zZW5zZS9zY3JlZW4ucG5nIikKICAgIGIuY2xvc2UoKQpwcmludCgic2NyZWVuc2hvdCBvayIpCg==

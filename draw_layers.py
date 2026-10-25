@@ -1,13 +1,1 @@
-# -*- coding: utf-8 -*-
-import matplotlib; matplotlib.use("Agg")
-import matplotlib.pyplot as plt
-from matplotlib.patches import Rectangle
-BG="#0b0b0c"; OR="#FF6B1A"; W="#f2f2f2"; DIM="#4a4a4e"
-# 同样 1 秒，各层的"一格"有多长：屏120Hz 8.33ms / 人 30ms / 电影24 41.67ms
-u=1.55
-fig,ax=plt.subplots(figsize=(9.6,4.6),facecolor=BG); ax.set_facecolor(BG)
-ax.set_xlim(0,10); ax.set_ylim(0,4.6); ax.axis("off")
-x=0.55
-for w,col in [(1/120*u*30, OR), (0.030*u*30, W), (1/24*u*30, "#6e6e72")]:
-    ax.add_patch(Rectangle((x,1.55), w, 1.50, fc=col, ec="none")); x+=w+0.30
-plt.tight_layout(); plt.savefig("感官桥/符号_v35_格子大小.png",dpi=110,facecolor=BG); print("ok")
+IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IG1hdHBsb3RsaWI7IG1hdHBsb3RsaWIudXNlKCJBZ2ciKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmZyb20gbWF0cGxvdGxpYi5wYXRjaGVzIGltcG9ydCBSZWN0YW5nbGUKQkc9IiMwYjBiMGMiOyBPUj0iI0ZGNkIxQSI7IFc9IiNmMmYyZjIiOyBESU09IiM0YTRhNGUiCiMg5ZCM5qC3IDEg56eS77yM5ZCE5bGC55qEIuS4gOagvCLmnInlpJrplb/vvJrlsY8xMjBIeiA4LjMzbXMgLyDkurogMzBtcyAvIOeUteW9sTI0IDQxLjY3bXMKdT0xLjU1CmZpZyxheD1wbHQuc3VicGxvdHMoZmlnc2l6ZT0oOS42LDQuNiksZmFjZWNvbG9yPUJHKTsgYXguc2V0X2ZhY2Vjb2xvcihCRykKYXguc2V0X3hsaW0oMCwxMCk7IGF4LnNldF95bGltKDAsNC42KTsgYXguYXhpcygib2ZmIikKeD0wLjU1CmZvciB3LGNvbCBpbiBbKDEvMTIwKnUqMzAsIE9SKSwgKDAuMDMwKnUqMzAsIFcpLCAoMS8yNCp1KjMwLCAiIzZlNmU3MiIpXToKICAgIGF4LmFkZF9wYXRjaChSZWN0YW5nbGUoKHgsMS41NSksIHcsIDEuNTAsIGZjPWNvbCwgZWM9Im5vbmUiKSk7IHgrPXcrMC4zMApwbHQudGlnaHRfbGF5b3V0KCk7IHBsdC5zYXZlZmlnKCLmhJ/lrpjmoaUv56ym5Y+3X3YzNV/moLzlrZDlpKflsI8ucG5nIixkcGk9MTEwLGZhY2Vjb2xvcj1CRyk7IHByaW50KCJvayIpCg==

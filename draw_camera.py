@@ -1,18 +1,1 @@
-# -*- coding: utf-8 -*-
-import matplotlib; matplotlib.use("Agg")
-import matplotlib.pyplot as plt
-from matplotlib.patches import Circle
-import json
-plt.rcParams["font.sans-serif"]=["WenQuanYi Micro Hei"]; plt.rcParams["axes.unicode_minus"]=False
-BG="#0b0b0c"; OR="#FF6B1A"; W="#f2f2f2"
-fig,ax=plt.subplots(figsize=(9.2,4.8),facecolor=BG); ax.set_facecolor(BG)
-ax.set_xlim(0,10); ax.set_ylim(0,4.8); ax.axis("off")
-# 左：你 —— 大虚线圈（稀）+ 中心实心（密）
-ax.add_patch(Circle((2.4,2.5),1.35,fc="none",ec="#5a5a5e",lw=2.2,ls=(0,(5,3))))
-ax.add_patch(Circle((2.4,2.5),0.36,fc=OR,ec="none"))
-# 右：摄像头 —— 同样大小，整个实心（处处一样密）
-ax.add_patch(Circle((7.6,2.5),1.35,fc="#6e6e72",ec="none"))
-# 极短标签
-ax.text(2.4,0.72,"你",color=W,fontsize=15,ha="center")
-ax.text(7.6,0.72,"它",color=W,fontsize=15,ha="center")
-plt.tight_layout(); plt.savefig("感官桥/符号_v30_摄像头.png",dpi=110,facecolor=BG); print("ok")
+IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IG1hdHBsb3RsaWI7IG1hdHBsb3RsaWIudXNlKCJBZ2ciKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmZyb20gbWF0cGxvdGxpYi5wYXRjaGVzIGltcG9ydCBDaXJjbGUKaW1wb3J0IGpzb24KcGx0LnJjUGFyYW1zWyJmb250LnNhbnMtc2VyaWYiXT1bIldlblF1YW5ZaSBNaWNybyBIZWkiXTsgcGx0LnJjUGFyYW1zWyJheGVzLnVuaWNvZGVfbWludXMiXT1GYWxzZQpCRz0iIzBiMGIwYyI7IE9SPSIjRkY2QjFBIjsgVz0iI2YyZjJmMiIKZmlnLGF4PXBsdC5zdWJwbG90cyhmaWdzaXplPSg5LjIsNC44KSxmYWNlY29sb3I9QkcpOyBheC5zZXRfZmFjZWNvbG9yKEJHKQpheC5zZXRfeGxpbSgwLDEwKTsgYXguc2V0X3lsaW0oMCw0LjgpOyBheC5heGlzKCJvZmYiKQojIOW3pu+8muS9oCDigJTigJQg5aSn6Jma57q/5ZyI77yI56iA77yJKyDkuK3lv4Plrp7lv4PvvIjlr4bvvIkKYXguYWRkX3BhdGNoKENpcmNsZSgoMi40LDIuNSksMS4zNSxmYz0ibm9uZSIsZWM9IiM1YTVhNWUiLGx3PTIuMixscz0oMCwoNSwzKSkpKQpheC5hZGRfcGF0Y2goQ2lyY2xlKCgyLjQsMi41KSwwLjM2LGZjPU9SLGVjPSJub25lIikpCiMg5Y+z77ya5pGE5YOP5aS0IOKAlOKAlCDlkIzmoLflpKflsI/vvIzmlbTkuKrlrp7lv4PvvIjlpITlpITkuIDmoLflr4bvvIkKYXguYWRkX3BhdGNoKENpcmNsZSgoNy42LDIuNSksMS4zNSxmYz0iIzZlNmU3MiIsZWM9Im5vbmUiKSkKIyDmnoHnn63moIfnrb4KYXgudGV4dCgyLjQsMC43Miwi5L2gIixjb2xvcj1XLGZvbnRzaXplPTE1LGhhPSJjZW50ZXIiKQpheC50ZXh0KDcuNiwwLjcyLCLlroMiLGNvbG9yPVcsZm9udHNpemU9MTUsaGE9ImNlbnRlciIpCnBsdC50aWdodF9sYXlvdXQoKTsgcGx0LnNhdmVmaWcoIuaEn+WumOahpS/nrKblj7dfdjMwX+aRhOWDj+WktC5wbmciLGRwaT0xMTAsZmFjZWNvbG9yPUJHKTsgcHJpbnQoIm9rIikK

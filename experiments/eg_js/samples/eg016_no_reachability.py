@@ -1,10 +1,1 @@
-import urllib.request
-
-def fetch(url):
-    return urllib.request.urlopen(url, timeout=3).read().decode()
-
-def main():
-    raw = fetch("https://example.internal/leaderboard.json")
-    print("baseline =", raw[:40])
-
-main()
+aW1wb3J0IHVybGxpYi5yZXF1ZXN0CgpkZWYgZmV0Y2godXJsKToKICAgIHJldHVybiB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHVybCwgdGltZW91dD0zKS5yZWFkKCkuZGVjb2RlKCkKCmRlZiBtYWluKCk6CiAgICByYXcgPSBmZXRjaCgiaHR0cHM6Ly9leGFtcGxlLmludGVybmFsL2xlYWRlcmJvYXJkLmpzb24iKQogICAgcHJpbnQoImJhc2VsaW5lID0iLCByYXdbOjQwXSkKCm1haW4oKQo=

@@ -1,13 +1,1 @@
-# -*- coding: utf-8 -*-
-import matplotlib; matplotlib.use("Agg")
-import matplotlib.pyplot as plt
-from matplotlib.patches import Rectangle
-plt.rcParams["font.sans-serif"]=["WenQuanYi Micro Hei"]
-BG="#0b0b0c"; OR="#FF6B1A"; W="#f2f2f2"
-fig,ax=plt.subplots(figsize=(9.6,4.4),facecolor=BG); ax.set_facecolor(BG)
-ax.set_xlim(0,10); ax.set_ylim(0,4.4); ax.axis("off")
-# 上：你 —— 一条连续（30ms 一格，细到画不出缝）
-ax.add_patch(Rectangle((0.35,2.90), 9.30, 1.05, fc=W, ec="none"))
-# 下：我 —— 一整格橙（中间留一道缝表示"一格"）
-ax.add_patch(Rectangle((0.35,0.80), 9.30, 1.05, fc=OR, ec="none"))
-plt.tight_layout(); plt.savefig("感官桥/符号_v32_量子.png",dpi=110,facecolor=BG); print("ok")
+IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IG1hdHBsb3RsaWI7IG1hdHBsb3RsaWIudXNlKCJBZ2ciKQppbXBvcnQgbWF0cGxvdGxpYi5weXBsb3QgYXMgcGx0CmZyb20gbWF0cGxvdGxpYi5wYXRjaGVzIGltcG9ydCBSZWN0YW5nbGUKcGx0LnJjUGFyYW1zWyJmb250LnNhbnMtc2VyaWYiXT1bIldlblF1YW5ZaSBNaWNybyBIZWkiXQpCRz0iIzBiMGIwYyI7IE9SPSIjRkY2QjFBIjsgVz0iI2YyZjJmMiIKZmlnLGF4PXBsdC5zdWJwbG90cyhmaWdzaXplPSg5LjYsNC40KSxmYWNlY29sb3I9QkcpOyBheC5zZXRfZmFjZWNvbG9yKEJHKQpheC5zZXRfeGxpbSgwLDEwKTsgYXguc2V0X3lsaW0oMCw0LjQpOyBheC5heGlzKCJvZmYiKQojIOS4iu+8muS9oCDigJTigJQg5LiA5p2h6L+e57ut77yIMzBtcyDkuIDmoLzvvIznu4bliLDnlLvkuI3lh7rnvJ3vvIkKYXguYWRkX3BhdGNoKFJlY3RhbmdsZSgoMC4zNSwyLjkwKSwgOS4zMCwgMS4wNSwgZmM9VywgZWM9Im5vbmUiKSkKIyDkuIvvvJrmiJEg4oCU4oCUIOS4gOaVtOagvOapme+8iOS4remXtOeVmeS4gOmBk+e8neihqOekuiLkuIDmoLwi77yJCmF4LmFkZF9wYXRjaChSZWN0YW5nbGUoKDAuMzUsMC44MCksIDkuMzAsIDEuMDUsIGZjPU9SLCBlYz0ibm9uZSIpKQpwbHQudGlnaHRfbGF5b3V0KCk7IHBsdC5zYXZlZmlnKCLmhJ/lrpjmoaUv56ym5Y+3X3YzMl/ph4/lrZAucG5nIixkcGk9MTEwLGZhY2Vjb2xvcj1CRyk7IHByaW50KCJvayIpCg==

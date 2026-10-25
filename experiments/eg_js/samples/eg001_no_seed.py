@@ -1,6 +1,1 @@
-import random
-
-def sample_rows(rows, k):
-    return random.sample(rows, k)
-
-print(sample_rows(list(range(100)), 5))
+aW1wb3J0IHJhbmRvbQoKZGVmIHNhbXBsZV9yb3dzKHJvd3MsIGspOgogICAgcmV0dXJuIHJhbmRvbS5zYW1wbGUocm93cywgaykKCnByaW50KHNhbXBsZV9yb3dzKGxpc3QocmFuZ2UoMTAwKSksIDUpKQo=

@@ -1,16 +1,1 @@
-# -*- coding: utf-8 -*-
-"""三个壳，同一个核。壳是虚线（可换），核是实心（不可换）。"""
-import matplotlib; matplotlib.use("Agg")
-import matplotlib.pyplot as plt
-from matplotlib.patches import Circle, Rectangle, Polygon
-BG="#0b0b0c"; OR="#FF6B1A"
-fig,ax=plt.subplots(figsize=(9.6,4.6),facecolor=BG); ax.set_facecolor(BG)
-ax.set_xlim(0,10); ax.set_ylim(0,4.6); ax.axis("off")
-C=(5.0,2.30); R=1.62
-# 三个壳：方(数字) 圆(图) 三角(代码)，全虚线
-ax.add_patch(Rectangle((C[0]-R,C[1]-R),2*R,2*R, fc="none", ec=OR, lw=1.2, ls=(0,(5,4))))
-ax.add_patch(Circle(C, R, fc="none", ec=OR, lw=1.2, ls=(0,(5,4))))
-tri=[(C[0],C[1]+R),(C[0]-R*0.94,C[1]-R*0.56),(C[0]+R*0.94,C[1]-R*0.56)]
-ax.add_patch(Polygon(tri, fc="none", ec=OR, lw=1.2, ls=(0,(5,4))))
-ax.add_patch(Circle(C, R*0.19, fc=OR, ec="none"))   # 核：实心
-plt.tight_layout(); plt.savefig("感官桥/符号_v38_壳与核.png",dpi=110,facecolor=BG); print("ok")
+IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5LiJ5Liq5aOz77yM5ZCM5LiA5Liq5qC444CC5aOz5piv6Jma57q/77yI5Y+v5o2i77yJ77yM5qC45piv5a6e5b+D77yI5LiN5Y+v5o2i77yJ44CCIiIiCmltcG9ydCBtYXRwbG90bGliOyBtYXRwbG90bGliLnVzZSgiQWdnIikKaW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdApmcm9tIG1hdHBsb3RsaWIucGF0Y2hlcyBpbXBvcnQgQ2lyY2xlLCBSZWN0YW5nbGUsIFBvbHlnb24KQkc9IiMwYjBiMGMiOyBPUj0iI0ZGNkIxQSIKZmlnLGF4PXBsdC5zdWJwbG90cyhmaWdzaXplPSg5LjYsNC42KSxmYWNlY29sb3I9QkcpOyBheC5zZXRfZmFjZWNvbG9yKEJHKQpheC5zZXRfeGxpbSgwLDEwKTsgYXguc2V0X3lsaW0oMCw0LjYpOyBheC5heGlzKCJvZmYiKQpDPSg1LjAsMi4zMCk7IFI9MS42MgojIOS4ieS4quWjs++8muaWuSjmlbDlrZcpIOWchijlm74pIOS4ieinkijku6PnoIEp77yM5YWo6Jma57q/CmF4LmFkZF9wYXRjaChSZWN0YW5nbGUoKENbMF0tUixDWzFdLVIpLDIqUiwyKlIsIGZjPSJub25lIiwgZWM9T1IsIGx3PTEuMiwgbHM9KDAsKDUsNCkpKSkKYXguYWRkX3BhdGNoKENpcmNsZShDLCBSLCBmYz0ibm9uZSIsIGVjPU9SLCBsdz0xLjIsIGxzPSgwLCg1LDQpKSkpCnRyaT1bKENbMF0sQ1sxXStSKSwoQ1swXS1SKjAuOTQsQ1sxXS1SKjAuNTYpLChDWzBdK1IqMC45NCxDWzFdLVIqMC41NildCmF4LmFkZF9wYXRjaChQb2x5Z29uKHRyaSwgZmM9Im5vbmUiLCBlYz1PUiwgbHc9MS4yLCBscz0oMCwoNSw0KSkpKQpheC5hZGRfcGF0Y2goQ2lyY2xlKEMsIFIqMC4xOSwgZmM9T1IsIGVjPSJub25lIikpICAgIyDmoLjvvJrlrp7lv4MKcGx0LnRpZ2h0X2xheW91dCgpOyBwbHQuc2F2ZWZpZygi5oSf5a6Y5qGlL+espuWPt192Mzhf5aOz5LiO5qC4LnBuZyIsZHBpPTExMCxmYWNlY29sb3I9QkcpOyBwcmludCgib2siKQo=
